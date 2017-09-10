@@ -1,0 +1,408 @@
+# Translation of Ryu in Esperanto
+# This file is distributed under the same license as the Ryu package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-28 03:45:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Ryu\n"
+
+#: header.php:121 header.php:122
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:112
+msgid "Instagram Link"
+msgstr "Ligilo al Instagram"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/ryu/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Serĉi"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Serĉi &hellip;"
+
+#: searchform.php:10
+msgctxt "assistive text"
+msgid "Search"
+msgstr "Serĉi"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Serĉrezultoj por: %s"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Ŝajnas, ke ni ne povas trovi tion. Eble serĉo helpos."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bedaŭrinde, nenio kongruis kun viaj serĉaj kriterioj. Bonvolu provi denove, uzante malsamajn vortojn."
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ĉu preta por publikigi vian unuan afiŝon? <a href=\"%1$s\">Eku ĉi tie</a>."
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Nenio estis trovita"
+
+#: inc/template-tags.php:185
+msgid "View all posts by %s"
+msgstr "Vidu ĉiujn afiŝojn de %s"
+
+#: inc/template-tags.php:102
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s je %2$s"
+
+#: inc/template-tags.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Via komento atendas kontroladon"
+
+#: inc/template-tags.php:89
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">diras:</span>"
+
+#: inc/template-tags.php:51
+msgid "<span class=\"meta-nav\">&rarr;</span> <span class=\"text-nav\">Newer posts</span>"
+msgstr "<span class=\"meta-nav\">&rarr;</span> <span class=\"text-nav\">Pli novaj afiŝoj</span>"
+
+#: inc/template-tags.php:55
+msgid "<span class=\"meta-nav\">&larr;</span> <span class=\"text-nav\">Older posts</span>"
+msgstr "<span class=\"meta-nav\">&larr;</span> <span class=\"text-nav\">Pli malnovaj afiŝoj</span>"
+
+#: inc/template-tags.php:79
+msgid "Pingback:"
+msgstr "Resondado:"
+
+#: inc/template-tags.php:45
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:43
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:39
+msgid "Post navigation"
+msgstr "Navigado tra afiŝoj"
+
+#: inc/extras.php:66
+msgid "Page %s"
+msgstr "Paĝo %s"
+
+#: inc/customizer.php:148
+msgid "Dribbble Link"
+msgstr "Ligilo al Dribbble"
+
+#: inc/customizer.php:160
+msgid "Vimeo Link"
+msgstr "Ligilo al Vimeo"
+
+#: inc/customizer.php:172
+msgid "YouTube Link"
+msgstr "Ligilo al YouTube"
+
+#: inc/customizer.php:184
+msgid "Tumblr Link"
+msgstr "Ligilo al Tumblr"
+
+#: inc/customizer.php:124
+msgid "Flickr Link"
+msgstr "Ligilo al Flickr"
+
+#: inc/customizer.php:136
+msgid "Github Link"
+msgstr "Ligilo al Github"
+
+#: inc/customizer.php:76
+msgid "Pinterest Link"
+msgstr "Ligilo al Pinterest"
+
+#: inc/customizer.php:88
+msgid "Google+ Link"
+msgstr "Ligilo al Google+"
+
+#: inc/customizer.php:100
+msgid "LinkedIn Link"
+msgstr "Ligilo al LinkedIn"
+
+#: inc/customizer.php:52
+msgid "Twitter Link"
+msgstr "Ligilo al Twitter"
+
+#: inc/customizer.php:64
+msgid "Facebook Link"
+msgstr "Ligilo al Facebook"
+
+#: inc/customizer.php:28
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: image.php:82
+msgid "<div class=\"next\"><span class=\"meta-nav\">&rarr;</span> <span class=\"text-nav\">Next</span></div>"
+msgstr "<div class=\"next\"><span class=\"meta-nav\">&rarr;</span> <span class=\"text-nav\">Sekva</span></div>"
+
+#: image.php:83
+msgid "<div class=\"previous\"><span class=\"meta-nav\">&larr;</span> <span class=\"text-nav\">Previous</span></div>"
+msgstr "<div class=\"previous\"><span class=\"meta-nav\">&larr;</span> <span class=\"text-nav\">Antaŭa</span></div> "
+
+#: inc/customizer.php:18
+msgid "Theme Options"
+msgstr "Etosaj opcioj"
+
+#: image.php:44
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Komentoj kaj retroligoj estas malpermesataj."
+
+#: image.php:42
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Retroligilojn oni fermis, sed vi rajtas <a class=\"comment-link\" href=\"#respond\" title=\"Aldonu komenton\">aldoni komenton</a>. "
+
+#: header.php:234
+msgid "Skip to content"
+msgstr "Iri rekte al enhavo"
+
+#: header.php:233
+msgid "Menu"
+msgstr "Menuo"
+
+#: header.php:207 header.php:208
+msgid "Search"
+msgstr "Serĉi"
+
+#: header.php:200 header.php:201
+msgid "Connect"
+msgstr "Konekti"
+
+#: header.php:192 header.php:193
+msgid "Widgets"
+msgstr "Kromprogrametoj"
+
+#: header.php:161 header.php:162
+msgid "YouTube"
+msgstr "YouTube"
+
+#: header.php:169 header.php:170
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: header.php:137 header.php:138
+msgid "Github"
+msgstr "Github"
+
+#: header.php:145 header.php:146
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: header.php:153 header.php:154
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: header.php:129 header.php:130
+msgid "Flickr"
+msgstr "Flickr"
+
+#: header.php:105 header.php:106
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: header.php:113 header.php:114
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: header.php:97 header.php:98
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: header.php:89 header.php:90
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:81 header.php:82
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:73 header.php:74
+msgid "Email"
+msgstr "Retpoŝto"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:133
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr "Ĉefa menuo"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "Etoso: %1$s de %2$s."
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Fiere kreata de %s"
+
+#: footer.php:16
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Semantika ilo por persona publikigado"
+
+#: content.php:11
+msgid "Permalink to %s"
+msgstr "Fiksligilo al %s"
+
+#: content-aside.php:33 content-gallery.php:17 content-image.php:19
+#: content-link.php:33 content-page.php:31 content-quote.php:33
+#: content-video.php:49 content.php:52 image.php:28
+msgid "Pages:"
+msgstr "Paĝoj:"
+
+#: content-aside.php:30 content-gallery.php:14 content-image.php:16
+#: content-link.php:30 content-quote.php:30 content-video.php:46 content.php:49
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Legi plu <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:26 content-gallery.php:48 content-image.php:50
+#: content-link.php:26 content-page.php:23 content-quote.php:26
+#: content-video.php:39 content.php:40 eventbrite/eventbrite-index.php:44
+#: eventbrite/eventbrite-single.php:29 image.php:68 inc/template-tags.php:79
+#: inc/template-tags.php:105
+msgid "Edit"
+msgstr "Redakti"
+
+#: content-aside.php:24 content-aside.php:48 content-gallery.php:46
+#: content-gallery.php:59 content-image.php:48 content-image.php:61
+#: content-link.php:24 content-link.php:41 content-quote.php:24
+#: content-quote.php:47 content-video.php:37 content-video.php:42
+msgid "All %s posts"
+msgstr "Ĉiuj %s-afiŝoj"
+
+#: content-aside.php:21 content-gallery.php:43 content-image.php:45
+#: content-link.php:21 content-page.php:20 content-quote.php:21
+#: content-video.php:34 content.php:37
+msgid "% Comments"
+msgstr "% Komentoj"
+
+#: content-aside.php:21 content-gallery.php:43 content-image.php:45
+#: content-link.php:21 content-page.php:20 content-quote.php:21
+#: content-video.php:34 content.php:37
+msgid "1 Comment"
+msgstr "1 komento"
+
+#: content-aside.php:21 content-gallery.php:43 content-image.php:45
+#: content-link.php:21 content-page.php:20 content-quote.php:21
+#: content-video.php:34 content.php:37
+msgid "Leave a comment"
+msgstr "Komenti"
+
+#: content-aside.php:11 content-gallery.php:27 content-image.php:29
+#: content-link.php:11 content-quote.php:11 content-video.php:18 content.php:21
+#: inc/template-tags.php:190
+msgid ", "
+msgstr ", "
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Komentado estas fermita."
+
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Pli novaj komentoj &rarr;"
+
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Pli malnovaj komentoj"
+
+#: comments.php:35 comments.php:55
+msgid "Comment navigation"
+msgstr "Navigado tra komentoj"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Unu penso pri &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensoj pri &ldquo;%2$s&rdquo;"
+
+#: archive.php:64
+msgid "Archives"
+msgstr "Arkivoj"
+
+#: archive.php:61
+msgid "Links"
+msgstr "Ligiloj"
+
+#: archive.php:58
+msgid "Quotes"
+msgstr "Citaĵoj"
+
+#: archive.php:55
+msgid "Videos"
+msgstr "Videoj"
+
+#: archive.php:52
+msgid "Images"
+msgstr "Bildoj"
+
+#: archive.php:49
+msgid "Asides"
+msgstr "Mencioj"
+
+#: archive.php:46
+msgid "Yearly Archives: %s"
+msgstr "Jaraj arkivoj: %s"
+
+#: archive.php:43
+msgid "Monthly Archives: %s"
+msgstr "Monataj arkivoj: %s"
+
+#: archive.php:40
+msgid "Daily Archives: %s"
+msgstr "Tagaj arkivoj: %s"
+
+#: archive.php:32
+msgid "Author Archives: %s"
+msgstr "Laŭaŭtoraj arkivoj: %s "
+
+#: archive.php:25
+msgid "Tag Archives: %s"
+msgstr "Arkivoj de etikedoj: %s"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "Kategoriaj arkivoj: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:37
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Provu rigardi en la monataj arkivoj: %1$s"
+
+#: 404.php:33
+msgid "Calendar"
+msgstr "Kalendaro"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Plej uzataj kategorioj"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ne eblas trovi tiun paĝon."
