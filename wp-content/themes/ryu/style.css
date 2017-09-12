@@ -2467,3 +2467,9 @@ img#wpstats {
 		line-height: 1.3076923076;
 	}
 }
+
+@media only screen and (max-width: 700px) {
+    #picture-iframe {
+        display: none;
+    }
+}
