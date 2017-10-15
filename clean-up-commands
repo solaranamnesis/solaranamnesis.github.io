@@ -8,8 +8,10 @@ find . -type f -exec sed -i 's#http://solaranamnesis.github.io#https://solaranam
 find . -type f -exec sed -i 's#https://solaranamnesis.github.io#https://solaranamnesis.com#g' {} +
 find . -type f -exec sed -i 's#http://solaranamnesis.com#https://solaranamnesis.com#g' {} +
 find . -type f -exec sed -i 's#http://localhost/#https://solaranamnesis.com/#g' {} +
-find . -type f -exec sed -i "s#dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';#dsq.src = 'https://' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';#g" {} +
+find . -type f -exec sed -i "s#dsq.src = '//'#dsq.src = 'https//'#g" {} +
 find . -type f -exec sed -i 's#dsq.src = "http://" + window.disqus_shortname + ".disqus.com/embed.js";#dsq.src = "https://" + window.disqus_shortname + ".disqus.com/embed.js";#g' {} +
+
+
 
 
 
