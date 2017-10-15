@@ -17,6 +17,8 @@
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Solar Anamnesis &raquo; Feed" href="https://solaranamnesis.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Solar Anamnesis &raquo; Comments Feed" href="https://solaranamnesis.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Solar Anamnesis &raquo; Dar al Gani 431 Meteorite Thin Section Comments Feed" href="https://solaranamnesis.com/2015/10/24/dar-al-gani-431/feed/" />
 <link rel='stylesheet' id='genericons-css'  href='https://solaranamnesis.com/wp-content/themes/ryu/genericons/genericons.css' type='text/css' media='all' />
 <link rel='stylesheet' id='ryu-style-css'  href='https://solaranamnesis.com/wp-content/themes/ryu/style.css?ver=4.8.2' type='text/css' media='all' />
 <link rel='stylesheet' id='ryu-lato-css'  href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic&#038;subset=latin,latin-ext' type='text/css' media='all' />
@@ -242,6 +244,7 @@
 
 		<footer class="entry-meta">
 			<span class="entry-date"><a href="https://solaranamnesis.com/2015/10/24/dar-al-gani-431/" title="9:18 pm" rel="bookmark"><time datetime="2015-10-24T21:18:53+00:00">October 24, 2015</time></a></span><span class="author vcard"><a class="url fn n" href="https://solaranamnesis.com/author/solaranamnesis/" title="View all posts by solaranamnesis" rel="author">solaranamnesis</a></span>
+						<span class="comments-link"><a href="https://solaranamnesis.com/2015/10/24/dar-al-gani-431/#disqus_thread"><span class="dsq-postid" data-dsqidentifier="150 https://solaranamnesis.com/?p=150">Leave a comment</span></a></span>
 			
 					</footer><!-- .entry-meta -->
 
@@ -270,6 +273,54 @@
 		</div>
 	</nav><!-- #nav-below -->
 	
+				
+	<!-- Here we load disqus comments -->
+	<div class="dcl-disqus-thread" id="comments" >
+	<div id="disqus_thread">
+		</div>
+	</div>
+	
+		
+			<script type="text/javascript">
+	/* <![CDATA[ */
+		var disqus_url = 'https://solaranamnesis.com/2015/10/24/dar-al-gani-431/';
+		var disqus_identifier = '150 https://solaranamnesis.com/?p=150';
+		var disqus_container_id = 'disqus_thread';
+		var disqus_domain = 'disqus.com';
+		var disqus_shortname = 'solaranamnesis';
+		var disqus_title = "Dar al Gani 431 Meteorite Thin Section";
+		var disqus_config = function () {
+			var config = this; // Access to the config object
+			config.language = '';
+
+			/* Add the ability to add javascript callbacks */
+			
+			/*
+			   All currently supported events:
+				* preData — fires just before we request for initial data
+				* preInit - fires after we get initial data but before we load any dependencies
+				* onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+				* afterRender - fires when template is rendered but before we show it
+				* onReady - everything is done
+			 */
+
+			config.callbacks.preData.push(function() {
+				// clear out the container (its filled for SEO/legacy purposes)
+				document.getElementById(disqus_container_id).innerHTML = '';
+			});
+								};
+	/* ]]> */
+	</script>
+	
+		
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		var DsqLocal = {
+			'trackbacks': [
+				],
+			'trackback_url': "http:\/\/solaranamnesis.com\/2015\/10\/24\/dar-al-gani-431\/trackback\/"		};
+	/* ]]> */
+	</script>
 			
 		
 		</div><!-- #content -->
@@ -299,7 +350,56 @@
 </script>
 <script type='text/javascript' src='https://solaranamnesis.com/wp-content/themes/ryu/js/navigation.js?ver=20120206'></script>
 <script type='text/javascript' src='https://solaranamnesis.com/wp-content/themes/ryu/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='https://solaranamnesis.com/wp-includes/js/comment-reply.min.js?ver=4.8.2'></script>
 <script type='text/javascript' src='https://solaranamnesis.com/wp-content/themes/ryu/js/ryu.js'></script>
+<script  type="text/javascript">
 
+    var disqus_shortname = "solaranamnesis";
+    if (typeof ds_loaded == "undefined") {
+        var ds_loaded = false;
+    }
+    function loadDisqus() {
+        var disqus_div = document.getElementById("disqus_thread");
+        var top = disqus_div.offsetTop;
+        var disqus_data = disqus_div.dataset;
+        if ( !ds_loaded && ( window.scrollY || window.pageYOffset ) + window.innerHeight > top ) {
+            ds_loaded = true;
+            for (var key in disqus_data) {
+                if (key.substr(0,6) == "disqus") {
+                    window["disqus_" + key.replace("disqus","").toLowerCase()] = disqus_data[key];
+								}
+                }
+                var dsq = document.createElement("script");
+                dsq.type = "text/javascript";
+                dsq.async = true;
+                dsq.src = "https://" + window.disqus_shortname + ".disqus.com/embed.js";
+                if(document.getElementById("dcl-hidden-div")) {
+                    document.getElementById("dcl-hidden-div").innerHTML = "Loading...";
+                }
+                (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(dsq);
+            }
+        }
+					var disqus_div_new = document.getElementById("disqus_thread");
+		var divExists = disqus_div_new != null;
+                if(document.body.scrollHeight < window.innerHeight){
+                    loadDisqus();
+                } else if(divExists) {
+                    window.onscroll = function() { loadDisqus(); }
+                }
+	</script><script   type='text/javascript'>
+                /* <![CDATA[ */
+                var hash = window.location.hash;
+                var disqus_shortname = 'solaranamnesis';
+                if(hash!==''){
+                    var ds_loaded = true;
+                    var dcl_loaded = 1;
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+                        dsq.async = true;
+                        dsq.src = 'https://' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpressdsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';pver=2.84';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();}
+                /* ]]> */
+            </script>
 </body>
 </html>
