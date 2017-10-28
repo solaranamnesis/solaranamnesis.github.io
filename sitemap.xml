@@ -4,7 +4,11 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com/</loc>
-	<lastmod>2017-10-21T00:26:19+00:00</lastmod>
+	<lastmod>2017-10-28T14:42:56+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com/2017/10/28/nwa-2364-meteorite-thin-section/</loc>
+	<lastmod>2017-10-28T14:41:06+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2017/10/08/nwa-2892-meteorite-thin-section/</loc>
@@ -60,7 +64,7 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2017/06/06/nwa-2364-meteorite-surface/</loc>
-	<lastmod>2017-10-20T01:02:55+00:00</lastmod>
+	<lastmod>2017-10-25T01:05:29+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2017/05/15/nwa-4910-meteorite-thin-section/</loc>
@@ -344,7 +348,7 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com/surfaces/</loc>
-	<lastmod>2017-10-15T00:03:08+00:00</lastmod>
+	<lastmod>2017-10-23T00:21:01+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/links/</loc>
@@ -352,6 +356,6 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com/thin-sections/</loc>
-	<lastmod>2017-10-15T00:03:08+00:00</lastmod>
+	<lastmod>2017-10-28T14:21:00+00:00</lastmod>
 </url>
 </urlset>
