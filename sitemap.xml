@@ -4,7 +4,11 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com/</loc>
-	<lastmod>2017-11-28T02:39:26+00:00</lastmod>
+	<lastmod>2017-12-17T17:14:44+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com/2017/12/17/nwa-5903-meteorite-thin-section/</loc>
+	<lastmod>2017-12-17T17:07:27+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2017/11/28/nwa-11220-meteorite-thin-section/</loc>
@@ -348,7 +352,7 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com/meteorite-thin-section-purchase/</loc>
-	<lastmod>2017-10-15T00:03:07+00:00</lastmod>
+	<lastmod>2017-12-17T17:12:04+00:00</lastmod>
 </url>
 <url>
 	<loc>https://bigttrott-thebubbleindex.netdna-ssl.com/Blog/Meteorite%20Classification/webgl_materials_texture_meteorite.html</loc>
@@ -364,6 +368,6 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com/thin-sections/</loc>
-	<lastmod>2017-11-28T01:24:43+00:00</lastmod>
+	<lastmod>2017-12-17T17:10:32+00:00</lastmod>
 </url>
 </urlset>
