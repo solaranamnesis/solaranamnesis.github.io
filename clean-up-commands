@@ -10,9 +10,4 @@ find . -type f -exec sed -i 's#http://solaranamnesis.com#https://solaranamnesis.
 find . -type f -exec sed -i 's#http://localhost/#https://solaranamnesis.com/#g' {} +
 find . -type f -exec sed -i "s#dsq.src = '//'#dsq.src = 'https://'#g" {} +
 find . -type f -exec sed -i 's#dsq.src = "http://" + window.disqus_shortname + ".disqus.com/embed.js";#dsq.src = "https://" + window.disqus_shortname + ".disqus.com/embed.js";#g' {} +
-
-
-
-
-
-
+find . -type f -exec sed -i 's#bigttrott-thebubbleindex.netdna-ssl.com#cdn.solaranamnesis.com#g' {} +
