@@ -2,6 +2,8 @@ find . -type f -exec sed -i 's/?ver=1.12.4//g' {} +
 find . -type f -exec sed -i 's/?ver=4.8.1//g' {} +
 find . -type f -exec sed -i 's/?ver=20130319//g' {} +
 find . -type f -exec sed -i 's/?ver=20130115//g' {} +
+find . -type f -exec sed -i 's/?ver=20120206//g' {} +
+find . -type f -exec sed -i 's/?ver=4.9.4//g' {} +
 find . -type f -exec sed -i 's/?ver=3.0.3//g' {} +
 find . -type f -exec sed -i 's/solar-thebubbleindex.rhcloud.com/solaranamnesis.com/g' {} +
 find . -type f -exec sed -i 's#http://solaranamnesis.github.io#https://solaranamnesis.com#g' {} +
