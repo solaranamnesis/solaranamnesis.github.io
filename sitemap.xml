@@ -4,23 +4,27 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com/</loc>
-	<lastmod>2018-01-15T02:06:01+00:00</lastmod>
+	<lastmod>2018-02-13T11:48:27+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com/2018/02/13/dhofar-125-meteorite-thin-section/</loc>
+	<lastmod>2018-02-13T11:46:09+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2018/01/15/nwa-6704-meteorite-thin-section/</loc>
-	<lastmod>2018-01-15T02:03:10+00:00</lastmod>
+	<lastmod>2018-02-10T16:57:23+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2018/01/01/nwa-1950-meteorite-thin-section/</loc>
-	<lastmod>2018-01-03T11:20:38+00:00</lastmod>
+	<lastmod>2018-02-10T16:59:43+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2017/12/17/nwa-5903-meteorite-thin-section/</loc>
-	<lastmod>2017-12-17T17:07:27+00:00</lastmod>
+	<lastmod>2018-02-10T17:00:39+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2017/11/28/nwa-11220-meteorite-thin-section/</loc>
-	<lastmod>2017-11-28T02:36:29+00:00</lastmod>
+	<lastmod>2018-02-10T17:01:01+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2017/11/19/nwa-10690-meteorite-thin-section/</loc>
@@ -376,6 +380,6 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com/thin-sections/</loc>
-	<lastmod>2018-01-15T01:53:57+00:00</lastmod>
+	<lastmod>2018-02-13T11:40:37+00:00</lastmod>
 </url>
 </urlset>
