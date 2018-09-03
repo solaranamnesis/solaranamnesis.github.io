@@ -565,7 +565,6 @@ background-color: #333;
 outline: 0;
 }
 .widgets-trigger a:before {
-content: "\f419";
 margin-top: 7px;
 }
 .social-links-trigger a:before {
@@ -904,7 +903,6 @@ font-size: 24px;
 line-height: 2;
 }
 .entry-format-badge:before {
-content: "\f100";
 }
 .format-aside .entry-title {
 font-size: 23px;
