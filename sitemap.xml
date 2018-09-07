@@ -4,19 +4,23 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com/</loc>
-	<lastmod>2018-08-20T05:11:59+00:00</lastmod>
+	<lastmod>2018-09-07T03:04:36+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com/2018/09/07/nwa-4460-meteorite-thin-section/</loc>
+	<lastmod>2018-09-07T02:57:07+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2018/08/20/los-angeles-002-meteorite-thin-section/</loc>
-	<lastmod>2018-08-20T04:59:55+00:00</lastmod>
+	<lastmod>2018-09-03T19:46:33+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2018/08/12/pena-blanca-spring-meteorite-thin-section/</loc>
-	<lastmod>2018-08-12T22:58:24+00:00</lastmod>
+	<lastmod>2018-08-20T05:33:17+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2018/08/12/dhofar-125-meteorite-thin-section/</loc>
-	<lastmod>2018-08-12T22:59:16+00:00</lastmod>
+	<lastmod>2018-08-20T05:34:10+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2018/01/15/nwa-6704-meteorite-thin-section/</loc>
@@ -355,28 +359,16 @@
 	<lastmod>2017-10-21T00:21:30+00:00</lastmod>
 </url>
 <url>
-	<loc>http://solaranamnesis.tumblr.com/</loc>
-	<lastmod>2017-01-14T18:39:40+00:00</lastmod>
-</url>
-<url>
 	<loc>https://solaranamnesis.com/scope-calibration/</loc>
 	<lastmod>2017-10-15T00:03:07+00:00</lastmod>
 </url>
 <url>
-	<loc>https://www.flickr.com/gp/144734287@N03/va52Jj</loc>
-	<lastmod>2017-04-11T18:26:12+00:00</lastmod>
-</url>
-<url>
 	<loc>https://solaranamnesis.com/about-solar-anamnesis/</loc>
-	<lastmod>2018-01-03T11:21:46+00:00</lastmod>
+	<lastmod>2018-09-03T19:48:08+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/meteorite-thin-section-purchase/</loc>
 	<lastmod>2017-12-17T17:12:04+00:00</lastmod>
-</url>
-<url>
-	<loc>https://cdn.solaranamnesis.com/Blog/Meteorite%20Classification/webgl_materials_texture_meteorite.html</loc>
-	<lastmod>2017-06-30T17:54:50+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/surfaces/</loc>
@@ -388,6 +380,6 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com/thin-sections/</loc>
-	<lastmod>2018-08-20T04:30:32+00:00</lastmod>
+	<lastmod>2018-09-07T02:59:08+00:00</lastmod>
 </url>
 </urlset>

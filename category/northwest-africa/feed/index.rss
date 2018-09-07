@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com/category/northwest-africa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Mon, 03 Sep 2018 19:48:08 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Sep 2018 02:59:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NWA 4460 Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com/2018/09/07/nwa-4460-meteorite-thin-section/</link>
+		<comments>https://solaranamnesis.com/2018/09/07/nwa-4460-meteorite-thin-section/#respond</comments>
+		<pubDate>Fri, 07 Sep 2018 02:57:07 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com/</guid>
+		<description><![CDATA[Northwest Africa 4460 is a cool looking L3 chondrite without much description in the bulletin. It does make a nice photography target and the images I took turned out surprisingly well. The scattered black inclusions are especially worth exploring. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase [&#8230;]]]></description>
+		<wfw:commentRss>https://solaranamnesis.com/2018/09/07/nwa-4460-meteorite-thin-section/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>NWA 6704 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2018/01/15/nwa-6704-meteorite-thin-section/</link>
 		<comments>https://solaranamnesis.com/2018/01/15/nwa-6704-meteorite-thin-section/#respond</comments>
@@ -109,27 +129,6 @@
 		<guid isPermaLink="false">https://solaranamnesis.com/</guid>
 		<description><![CDATA[What a fascinating meteorite! NWA 11220, just like the previously posted NWA 8171, is a Martian Basaltic Breccia. It shares many of the same characteristics and the clasts have similar appearances. In the thin section posted here, readers can explore some eerily &#8220;alien&#8221; features which seem unique to this particular class of Martian meteorites. The [&#8230;]]]></description>
 		<wfw:commentRss>https://solaranamnesis.com/2017/11/28/nwa-11220-meteorite-thin-section/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>NWA 10690 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2017/11/19/nwa-10690-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com/2017/11/19/nwa-10690-meteorite-thin-section/#respond</comments>
-		<pubDate>Sun, 19 Nov 2017 04:46:34 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[10x/0.25]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[metachondrite]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[northwest africa]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com/</guid>
-		<description><![CDATA[This thin section of NWA 10690 gives a unique view of the transformations and processes occurring in ancient times. Within the large grains of similar color can be found smaller grains of various colors, shapes, and sizes which imply internal changes occurring within the source body. Paired with NWA 7030, it belongs to the LL7 [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com/2017/11/19/nwa-10690-meteorite-thin-section/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
