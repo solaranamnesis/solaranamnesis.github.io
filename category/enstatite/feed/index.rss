@@ -9,17 +9,17 @@
 
 <channel>
 	<title>enstatite &#8211; Solar Anamnesis</title>
-	<atom:link href="https://solaranamnesis.com/category/enstatite/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://solaranamnesis.com.vn/category/enstatite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Fri, 07 Sep 2018 02:59:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Sep 2018 02:32:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
-	<url>https://solaranamnesis.com/contents/data/2016/12/144734287N03_l.jpg</url>
+	<url>https://solaranamnesis.com.vn/contents/data/2016/12/144734287N03_l.jpg</url>
 	<title>enstatite &#8211; Solar Anamnesis</title>
 	<link>https://solaranamnesis.com.vn</link>
 	<width>32</width>
@@ -27,8 +27,8 @@
 </image> 
 	<item>
 		<title>Abee Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2015/10/19/abee/</link>
-		<comments>https://solaranamnesis.com/2015/10/19/abee/#respond</comments>
+		<link>https://solaranamnesis.com.vn/2015/10/19/abee/</link>
+		<comments>https://solaranamnesis.com.vn/2015/10/19/abee/#respond</comments>
 		<pubDate>Mon, 19 Oct 2015 00:39:47 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
@@ -42,13 +42,13 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=134</guid>
 		<description><![CDATA[Abee Meteorite thin section specimen. The photos were taken under blue cross polarized light. Abee is an example of the enstatite chondrite class of meteorites. The E Type chondrites are know for their reduced state and contain very little oxidized iron. Instead the iron is either metallic or joined with sulfur. They are mostly composed [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com/2015/10/19/abee/feed/</wfw:commentRss>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2015/10/19/abee/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Itqiy Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2015/09/23/itqiy/</link>
-		<comments>https://solaranamnesis.com/2015/09/23/itqiy/#respond</comments>
+		<link>https://solaranamnesis.com.vn/2015/09/23/itqiy/</link>
+		<comments>https://solaranamnesis.com.vn/2015/09/23/itqiy/#respond</comments>
 		<pubDate>Wed, 23 Sep 2015 01:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
@@ -61,7 +61,7 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=18</guid>
 		<description><![CDATA[Thin section specimen of the Itqiy meteorite viewed in cross polarized light. Meteorite Studies: History and details regarding the Itqiy meteorite. Version 2: View Meteorite Thin Section Panoramas: Interact with image on Gigapan &#124; View panorama with krpano Purchase Prints Visit Store Version 1: View Meteorite Thin Section Panoramas: View panorama with krpano Interact with [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com/2015/09/23/itqiy/feed/</wfw:commentRss>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2015/09/23/itqiy/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

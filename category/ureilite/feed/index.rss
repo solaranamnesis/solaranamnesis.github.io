@@ -9,17 +9,17 @@
 
 <channel>
 	<title>ureilite &#8211; Solar Anamnesis</title>
-	<atom:link href="https://solaranamnesis.com/category/ureilite/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://solaranamnesis.com.vn/category/ureilite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Fri, 07 Sep 2018 02:59:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Sep 2018 02:32:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
-	<url>https://solaranamnesis.com/contents/data/2016/12/144734287N03_l.jpg</url>
+	<url>https://solaranamnesis.com.vn/contents/data/2016/12/144734287N03_l.jpg</url>
 	<title>ureilite &#8211; Solar Anamnesis</title>
 	<link>https://solaranamnesis.com.vn</link>
 	<width>32</width>
@@ -27,8 +27,8 @@
 </image> 
 	<item>
 		<title>Almahata Sitta Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2016/02/02/almahata-sitta/</link>
-		<comments>https://solaranamnesis.com/2016/02/02/almahata-sitta/#respond</comments>
+		<link>https://solaranamnesis.com.vn/2016/02/02/almahata-sitta/</link>
+		<comments>https://solaranamnesis.com.vn/2016/02/02/almahata-sitta/#respond</comments>
 		<pubDate>Tue, 02 Feb 2016 11:08:00 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[10x/0.25]]></category>
@@ -42,13 +42,13 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=343</guid>
 		<description><![CDATA[The Almahata Sitta meteorite and its story made the history books in 2008. Before colliding into the atmosphere over North Africa, a sky survey identified an object on a collision course with Earth; astronomers gave this asteroid a temporary name: 8TA9D69. After the bright meteor was seen by observers, meteorite hunters scoured the desert of [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com/2016/02/02/almahata-sitta/feed/</wfw:commentRss>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2016/02/02/almahata-sitta/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>NWA 7630 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2015/09/23/nwa-7630/</link>
-		<comments>https://solaranamnesis.com/2015/09/23/nwa-7630/#respond</comments>
+		<link>https://solaranamnesis.com.vn/2015/09/23/nwa-7630/</link>
+		<comments>https://solaranamnesis.com.vn/2015/09/23/nwa-7630/#respond</comments>
 		<pubDate>Wed, 23 Sep 2015 01:23:53 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
@@ -64,7 +64,7 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=21</guid>
 		<description><![CDATA[Thin section specimen of NWA 7630 in cross polarized light. Classified as a Dunitic Ureilite. Version 2 View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit Store Version 1 View Meteorite Thin Section Panoramas: View Panorama with krpano View and interact with image on Gigapan]]></description>
-		<wfw:commentRss>https://solaranamnesis.com/2015/09/23/nwa-7630/feed/</wfw:commentRss>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2015/09/23/nwa-7630/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

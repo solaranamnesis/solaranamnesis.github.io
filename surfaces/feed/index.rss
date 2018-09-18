@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>Comments on: Surface List</title>
-	<atom:link href="https://solaranamnesis.com/surfaces/feed/" rel="self" type="application/rss+xml" />
+	<title>Comments on: </title>
+	<atom:link href="https://solaranamnesis.com.vn/surfaces/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Fri, 07 Sep 2018 02:59:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Sep 2018 02:34:53 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>

@@ -9,17 +9,17 @@
 
 <channel>
 	<title>metachondrite &#8211; Solar Anamnesis</title>
-	<atom:link href="https://solaranamnesis.com/category/metachondrite/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://solaranamnesis.com.vn/category/metachondrite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Fri, 07 Sep 2018 02:59:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Sep 2018 02:32:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
-	<url>https://solaranamnesis.com/contents/data/2016/12/144734287N03_l.jpg</url>
+	<url>https://solaranamnesis.com.vn/contents/data/2016/12/144734287N03_l.jpg</url>
 	<title>metachondrite &#8211; Solar Anamnesis</title>
 	<link>https://solaranamnesis.com.vn</link>
 	<width>32</width>
@@ -27,8 +27,8 @@
 </image> 
 	<item>
 		<title>NWA 10690 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2017/11/19/nwa-10690-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com/2017/11/19/nwa-10690-meteorite-thin-section/#respond</comments>
+		<link>https://solaranamnesis.com.vn/2017/11/19/nwa-10690-meteorite-thin-section/</link>
+		<comments>https://solaranamnesis.com.vn/2017/11/19/nwa-10690-meteorite-thin-section/#respond</comments>
 		<pubDate>Sun, 19 Nov 2017 04:46:34 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[10x/0.25]]></category>
@@ -41,9 +41,9 @@
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[zerene stacker]]></category>
 
-		<guid isPermaLink="false">https://solaranamnesis.com/</guid>
+		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
 		<description><![CDATA[This thin section of NWA 10690 gives a unique view of the transformations and processes occurring in ancient times. Within the large grains of similar color can be found smaller grains of various colors, shapes, and sizes which imply internal changes occurring within the source body. Paired with NWA 7030, it belongs to the LL7 [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com/2017/11/19/nwa-10690-meteorite-thin-section/feed/</wfw:commentRss>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2017/11/19/nwa-10690-meteorite-thin-section/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
