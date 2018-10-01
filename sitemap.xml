@@ -4,7 +4,11 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com.vn/</loc>
-	<lastmod>2018-09-18T02:42:38+00:00</lastmod>
+	<lastmod>2018-10-01T00:56:29+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/</loc>
+	<lastmod>2018-10-01T00:52:51+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2018/09/18/nwa-3189-meteorite-thin-section/</loc>
@@ -16,7 +20,7 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2018/08/20/los-angeles-002-meteorite-thin-section/</loc>
-	<lastmod>2018-09-03T19:46:33+00:00</lastmod>
+	<lastmod>2018-10-01T00:14:30+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2018/08/12/pena-blanca-spring-meteorite-thin-section/</loc>
@@ -104,7 +108,7 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2017/06/06/nwa-2364-meteorite-surface/</loc>
-	<lastmod>2017-10-25T01:05:29+00:00</lastmod>
+	<lastmod>2018-10-01T00:37:09+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2017/05/15/nwa-4910-meteorite-thin-section/</loc>
@@ -256,7 +260,7 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2016/02/13/dorbigny-3/</loc>
-	<lastmod>2017-10-20T01:12:32+00:00</lastmod>
+	<lastmod>2018-10-01T00:38:46+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2016/02/05/chantonnay/</loc>
@@ -360,35 +364,23 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/creating-microscope-panoramas/</loc>
-	<lastmod>2018-09-18T02:20:24+00:00</lastmod>
-</url>
-<url>
-	<loc>http://solaranamnesis.tumblr.com/</loc>
-	<lastmod>2018-09-18T02:25:26+00:00</lastmod>
+	<lastmod>2018-09-30T21:07:50+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/scope-calibration/</loc>
 	<lastmod>2018-09-18T02:20:48+00:00</lastmod>
 </url>
 <url>
-	<loc>https://www.flickr.com/gp/144734287@N03/va52Jj</loc>
-	<lastmod>2018-09-18T02:25:39+00:00</lastmod>
-</url>
-<url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/</loc>
-	<lastmod>2018-09-18T02:32:34+00:00</lastmod>
+	<lastmod>2018-09-30T21:26:57+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/meteorite-thin-section-purchase/</loc>
 	<lastmod>2018-09-18T02:20:42+00:00</lastmod>
 </url>
 <url>
-	<loc>https://cdn.solaranamnesis.com/ThinSections/krpano/abee/Meteorite-Thin-Section-Abee-final.html</loc>
-	<lastmod>2018-09-18T02:25:14+00:00</lastmod>
-</url>
-<url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/surfaces/</loc>
-	<lastmod>2018-09-18T02:20:56+00:00</lastmod>
+	<lastmod>2018-09-30T21:06:36+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/links/</loc>

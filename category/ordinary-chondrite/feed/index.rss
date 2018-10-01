@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com.vn/category/ordinary-chondrite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 18 Sep 2018 02:32:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Oct 2018 00:52:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Aba Panu Meteorite Surface</title>
+		<link>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/</link>
+		<comments>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/#respond</comments>
+		<pubDate>Sun, 30 Sep 2018 23:32:49 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[ordinary chondrite]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[surface]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
+		<description><![CDATA[Object fell over Aba Panu, Nigeria on April 19, 2018. The Aba Panu meteorite has a recovered mass of 160 kilograms. Shown here are many interesting chondrules in a wide range of sizes. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>NWA 3189 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com.vn/2018/09/18/nwa-3189-meteorite-thin-section/</link>
 		<comments>https://solaranamnesis.com.vn/2018/09/18/nwa-3189-meteorite-thin-section/#respond</comments>
@@ -107,26 +129,6 @@
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=1203</guid>
 		<description><![CDATA[Chondrules, chondrules, and more chondrules. It&#8217;s amazing how the NWA 4910 meteorite can be packed so dense with chondrules and have so little matrix gluing them together. Make sure to look for the numerous armored chondrules and radial pyroxene chondrules contained in the thin section. Containing 3.06 billion pixels, this is the largest image I [&#8230;]]]></description>
 		<wfw:commentRss>https://solaranamnesis.com.vn/2017/05/15/nwa-4910-meteorite-thin-section/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Saratov Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com.vn/2017/03/26/saratov-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com.vn/2017/03/26/saratov-meteorite-thin-section/#respond</comments>
-		<pubDate>Sun, 26 Mar 2017 23:55:56 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[named fall]]></category>
-		<category><![CDATA[ordinary chondrite]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[Tucsen C30 3MP sCMOS]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=1043</guid>
-		<description><![CDATA[Thin sections of the Saratov (Саратов) meteorite in cross polarized light dazzle observers with dozens upon dozens of distinct chondrules. This specimen has numerous almost perfectly circular chondrules and many radial pyroxene chondrules. Its fall was witnessed on October 6, 1918. Additional pictures on Meteorite Times. View Meteorite Thin Section Panoramas: View on Gigapan &#124; [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com.vn/2017/03/26/saratov-meteorite-thin-section/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

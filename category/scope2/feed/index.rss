@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com.vn/category/scope2/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 18 Sep 2018 02:32:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Oct 2018 00:52:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Aba Panu Meteorite Surface</title>
+		<link>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/</link>
+		<comments>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/#respond</comments>
+		<pubDate>Sun, 30 Sep 2018 23:32:49 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[ordinary chondrite]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[surface]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
+		<description><![CDATA[Object fell over Aba Panu, Nigeria on April 19, 2018. The Aba Panu meteorite has a recovered mass of 160 kilograms. Shown here are many interesting chondrules in a wide range of sizes. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>NWA 3189 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com.vn/2018/09/18/nwa-3189-meteorite-thin-section/</link>
 		<comments>https://solaranamnesis.com.vn/2018/09/18/nwa-3189-meteorite-thin-section/#respond</comments>
@@ -106,26 +128,6 @@
 		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
 		<description><![CDATA[On March 1, 2018 Roving Reporter’s pictures of the Peña Blanca Spring meteorite appeared on the Meteorite Picture of the Day website. I was immediately struck by this Aubrite’s sharp gray/white matrix coloration and its numerous inclusions. It is an exquisite meteorite! That weekend I decided that the next meteorite thin section to photograph will [&#8230;]]]></description>
 		<wfw:commentRss>https://solaranamnesis.com.vn/2018/08/12/pena-blanca-spring-meteorite-thin-section/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dhofar 125 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com.vn/2018/08/12/dhofar-125-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com.vn/2018/08/12/dhofar-125-meteorite-thin-section/#respond</comments>
-		<pubDate>Sun, 12 Aug 2018 22:33:29 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[acapulcoite]]></category>
-		<category><![CDATA[achondrite]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
-		<description><![CDATA[Dhofar 125 has the smallest mineral grains of known acapulcoites. The Meteorite Studies link below gives additional interesting facts, such as the fact that the acapulcoites have elemental ratio compositions identical to that of chondrites. It is also known that all acapulcoites have a narrow cosmic ray age of 4 – 7 million years, perhaps [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com.vn/2018/08/12/dhofar-125-meteorite-thin-section/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
