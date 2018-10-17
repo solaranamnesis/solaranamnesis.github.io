@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com.vn/category/scope2/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Mon, 08 Oct 2018 01:39:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Oct 2018 02:09:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NWA 10669 Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/</link>
+		<comments>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/#respond</comments>
+		<pubDate>Wed, 17 Oct 2018 02:02:51 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[ordinary chondrite]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
+		<description><![CDATA[This thin section of the NWA 10669 meteorite spans the entire breadth of my scope&#8217;s aperture, making it just a little over 30 millimeters. Thanks to its enormity there is much to look at and explore. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit [&#8230;]]]></description>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Aba Panu Meteorite Surface</title>
 		<link>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/</link>
 		<comments>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/#respond</comments>
@@ -106,28 +127,6 @@
 		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
 		<description><![CDATA[Nice looking Shergottite thin section displaying colorful geometric grains and other, completely black ones. The Los Angeles Meteorite is a special meteorite due to its circumstantial discovery. Imagine having a Martian rock sitting in your garage without realizing it! There are probably thousands of unclassified meteorites all over the world right now, sitting in peoples [&#8230;]]]></description>
 		<wfw:commentRss>https://solaranamnesis.com.vn/2018/08/20/los-angeles-002-meteorite-thin-section/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Peña Blanca Spring Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com.vn/2018/08/12/pena-blanca-spring-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com.vn/2018/08/12/pena-blanca-spring-meteorite-thin-section/#respond</comments>
-		<pubDate>Sun, 12 Aug 2018 22:36:01 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[achondrite]]></category>
-		<category><![CDATA[aubrite]]></category>
-		<category><![CDATA[breccia]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[named fall]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
-		<description><![CDATA[On March 1, 2018 Roving Reporter’s pictures of the Peña Blanca Spring meteorite appeared on the Meteorite Picture of the Day website. I was immediately struck by this Aubrite’s sharp gray/white matrix coloration and its numerous inclusions. It is an exquisite meteorite! That weekend I decided that the next meteorite thin section to photograph will [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com.vn/2018/08/12/pena-blanca-spring-meteorite-thin-section/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com.vn/category/northwest-africa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Mon, 08 Oct 2018 01:39:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Oct 2018 02:09:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NWA 10669 Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/</link>
+		<comments>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/#respond</comments>
+		<pubDate>Wed, 17 Oct 2018 02:02:51 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[ordinary chondrite]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
+		<description><![CDATA[This thin section of the NWA 10669 meteorite spans the entire breadth of my scope&#8217;s aperture, making it just a little over 30 millimeters. Thanks to its enormity there is much to look at and explore. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit [&#8230;]]]></description>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Aba Panu Meteorite Surface</title>
 		<link>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/</link>
 		<comments>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/#respond</comments>
@@ -106,28 +127,6 @@
 		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
 		<description><![CDATA[NWA 6704 is a special meteorite which has properties that make it difficult to place in any known category of classification. The story of its discovery by Gregory M. Hupé is a feature article at Meteorite Times and provides a nice look into the art of meteorite discovery. Slices showing the internal meteorite texture have [&#8230;]]]></description>
 		<wfw:commentRss>https://solaranamnesis.com.vn/2018/01/15/nwa-6704-meteorite-thin-section/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>NWA 1950 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com.vn/2018/01/01/nwa-1950-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com.vn/2018/01/01/nwa-1950-meteorite-thin-section/#respond</comments>
-		<pubDate>Mon, 01 Jan 2018 01:31:30 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[10x/0.25]]></category>
-		<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[achondrite]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[mars]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[northwest africa]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
-		<description><![CDATA[NWA 1950, a poikilitic shergottite, is a Martian treasure for meteorite collectors. The two thin sections presented in this post are stunningly beautiful and were a real joy to photograph. I hope viewers find them visually stimulating. Many of the darkened olivine grains look remarkably similar to those found in NWA 2737; both were formed [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com.vn/2018/01/01/nwa-1950-meteorite-thin-section/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
