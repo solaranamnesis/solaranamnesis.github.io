@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com.vn/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Sat, 03 Nov 2018 00:52:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Nov 2018 02:34:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Sayh al Uhaymir 562 Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com.vn/2018/11/06/sayh-al-uhaymir-562-meteorite-thin-section/</link>
+		<comments>https://solaranamnesis.com.vn/2018/11/06/sayh-al-uhaymir-562-meteorite-thin-section/#respond</comments>
+		<pubDate>Tue, 06 Nov 2018 02:29:03 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[achondrite]]></category>
+		<category><![CDATA[eucrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
+		<description><![CDATA[SaU 562 is an unbrecciated eucrite with “approximately equal proportions of anhedral to bladed, white plagioclase (to 3 mm) and honey-brown, anhedral, granular pyroxene (to 1.5 mm) crystals.” Interesting story about this thin section. I originally thought it was an unclassified eucrite; the label reads &#8220;Labenne Eucrite&#8221; and I was told it was unclassified when [&#8230;]]]></description>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2018/11/06/sayh-al-uhaymir-562-meteorite-thin-section/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>NWA 10669 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/</link>
 		<comments>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/#respond</comments>
@@ -107,26 +127,6 @@
 		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
 		<description><![CDATA[Northwest Africa 4460 is a cool looking L3 chondrite without much description in the bulletin. It does make a nice photography target and the images I took turned out surprisingly well. The scattered black inclusions are especially worth exploring. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase [&#8230;]]]></description>
 		<wfw:commentRss>https://solaranamnesis.com.vn/2018/09/07/nwa-4460-meteorite-thin-section/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Los Angeles 002 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com.vn/2018/08/20/los-angeles-002-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com.vn/2018/08/20/los-angeles-002-meteorite-thin-section/#respond</comments>
-		<pubDate>Mon, 20 Aug 2018 04:27:48 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[mars]]></category>
-		<category><![CDATA[named fall]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
-		<description><![CDATA[Nice looking Shergottite thin section displaying colorful geometric grains and other, completely black ones. The Los Angeles Meteorite is a special meteorite due to its circumstantial discovery. Imagine having a Martian rock sitting in your garage without realizing it! There are probably thousands of unclassified meteorites all over the world right now, sitting in peoples [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com.vn/2018/08/20/los-angeles-002-meteorite-thin-section/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
