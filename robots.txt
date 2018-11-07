@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://solaranamnesis.com/sitemap.xml
+Sitemap: https://solaranamnesis.com/sitemap.html
