@@ -4,11 +4,15 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com.vn/</loc>
-	<lastmod>2018-11-06T02:38:39+00:00</lastmod>
+	<lastmod>2018-11-13T04:55:15+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com.vn/2018/11/13/nwa-8345-meteorite-thin-section/</loc>
+	<lastmod>2018-11-13T04:50:50+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2018/11/06/sayh-al-uhaymir-562-meteorite-thin-section/</loc>
-	<lastmod>2018-11-06T02:33:07+00:00</lastmod>
+	<lastmod>2018-11-13T04:51:21+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/</loc>
@@ -380,7 +384,7 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/</loc>
-	<lastmod>2018-11-03T00:52:13+00:00</lastmod>
+	<lastmod>2018-11-13T04:29:37+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/meteorite-thin-section-purchase/</loc>
@@ -396,6 +400,6 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/thin-sections/</loc>
-	<lastmod>2018-11-06T02:34:45+00:00</lastmod>
+	<lastmod>2018-11-13T04:45:03+00:00</lastmod>
 </url>
 </urlset>

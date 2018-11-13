@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com.vn/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 06 Nov 2018 02:34:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Nov 2018 04:51:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NWA 8345 Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com.vn/2018/11/13/nwa-8345-meteorite-thin-section/</link>
+		<comments>https://solaranamnesis.com.vn/2018/11/13/nwa-8345-meteorite-thin-section/#respond</comments>
+		<pubDate>Tue, 13 Nov 2018 04:43:02 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[carbonaceous]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[CO]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
+		<description><![CDATA[Northwest Africa 8345 Meteorite thin section in cross polarized light. Type CO3.2 with some interesting inclusions scattered randomly and also in the bottom left. There are lots of fascinating details when you spend time looking in detail at the structures. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to [&#8230;]]]></description>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2018/11/13/nwa-8345-meteorite-thin-section/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Sayh al Uhaymir 562 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com.vn/2018/11/06/sayh-al-uhaymir-562-meteorite-thin-section/</link>
 		<comments>https://solaranamnesis.com.vn/2018/11/06/sayh-al-uhaymir-562-meteorite-thin-section/#respond</comments>
@@ -107,26 +129,6 @@
 		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
 		<description><![CDATA[Good looking thin section of the NWA 3189 meteorite in cross-polarized light. Lots of chondrules with several distinct barred ones. Additional pictures at Meteorite Thin Section Gallery Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
 		<wfw:commentRss>https://solaranamnesis.com.vn/2018/09/18/nwa-3189-meteorite-thin-section/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>NWA 4460 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com.vn/2018/09/07/nwa-4460-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com.vn/2018/09/07/nwa-4460-meteorite-thin-section/#respond</comments>
-		<pubDate>Fri, 07 Sep 2018 02:57:07 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[northwest africa]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
-		<description><![CDATA[Northwest Africa 4460 is a cool looking L3 chondrite without much description in the bulletin. It does make a nice photography target and the images I took turned out surprisingly well. The scattered black inclusions are especially worth exploring. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com.vn/2018/09/07/nwa-4460-meteorite-thin-section/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
