@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com.vn/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 13 Nov 2018 04:51:21 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Nov 2018 03:39:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Moss Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com.vn/2018/11/24/moss-meteorite-thin-section/</link>
+		<comments>https://solaranamnesis.com.vn/2018/11/24/moss-meteorite-thin-section/#respond</comments>
+		<pubDate>Sat, 24 Nov 2018 02:50:25 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[calcium-aluminium-rich inclusion]]></category>
+		<category><![CDATA[carbonaceous]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[CO]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[named fall]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
+		<description><![CDATA[Of all the classes of meteorites I have photographed, the one with the most out-of-this-world features is the CV class of meteorites. Every time I look at one in thin section I am just stunned at how exotic the material appears. But, in close second I would say is the CO class of meteorites. And [&#8230;]]]></description>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2018/11/24/moss-meteorite-thin-section/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>NWA 8345 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com.vn/2018/11/13/nwa-8345-meteorite-thin-section/</link>
 		<comments>https://solaranamnesis.com.vn/2018/11/13/nwa-8345-meteorite-thin-section/#respond</comments>
@@ -108,27 +131,6 @@
 		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
 		<description><![CDATA[Object fell over Aba Panu, Nigeria on April 19, 2018. The Aba Panu meteorite has a recovered mass of 160 kilograms. Shown here are many interesting chondrules in a wide range of sizes. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
 		<wfw:commentRss>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>NWA 3189 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com.vn/2018/09/18/nwa-3189-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com.vn/2018/09/18/nwa-3189-meteorite-thin-section/#respond</comments>
-		<pubDate>Tue, 18 Sep 2018 02:16:03 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[northwest africa]]></category>
-		<category><![CDATA[ordinary chondrite]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
-		<description><![CDATA[Good looking thin section of the NWA 3189 meteorite in cross-polarized light. Lots of chondrules with several distinct barred ones. Additional pictures at Meteorite Thin Section Gallery Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-		<wfw:commentRss>https://solaranamnesis.com.vn/2018/09/18/nwa-3189-meteorite-thin-section/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

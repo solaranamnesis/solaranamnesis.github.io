@@ -4,7 +4,11 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com.vn/</loc>
-	<lastmod>2018-11-13T04:55:15+00:00</lastmod>
+	<lastmod>2018-11-24T04:00:43+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com.vn/2018/11/24/moss-meteorite-thin-section/</loc>
+	<lastmod>2018-11-24T03:39:30+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2018/11/13/nwa-8345-meteorite-thin-section/</loc>
@@ -400,6 +404,6 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/thin-sections/</loc>
-	<lastmod>2018-11-13T04:45:03+00:00</lastmod>
+	<lastmod>2018-11-24T02:51:13+00:00</lastmod>
 </url>
 </urlset>
