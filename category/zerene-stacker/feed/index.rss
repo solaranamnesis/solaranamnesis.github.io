@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com.vn/category/zerene-stacker/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Sat, 24 Nov 2018 03:39:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Dec 2018 05:34:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Calama 005 Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com.vn/2018/12/06/calama-005-meteorite-thin-section/</link>
+		<comments>https://solaranamnesis.com.vn/2018/12/06/calama-005-meteorite-thin-section/#respond</comments>
+		<pubDate>Thu, 06 Dec 2018 05:27:54 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[calcium-aluminium-rich inclusion]]></category>
+		<category><![CDATA[carbonaceous]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[CO]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
+		<description><![CDATA[&#160; Calama 005 is another example of a CO meteorite and presented below, in cross polarized light, you will find it has a nice set of chondritic and carbonaceous features. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2018/12/06/calama-005-meteorite-thin-section/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Moss Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com.vn/2018/11/24/moss-meteorite-thin-section/</link>
 		<comments>https://solaranamnesis.com.vn/2018/11/24/moss-meteorite-thin-section/#respond</comments>
@@ -109,28 +131,6 @@
 		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
 		<description><![CDATA[This thin section of the NWA 10669 meteorite spans the entire breadth of my scope&#8217;s aperture, making it just a little over 30 millimeters. Thanks to its enormity there is much to look at and explore. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit [&#8230;]]]></description>
 		<wfw:commentRss>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Aba Panu Meteorite Surface</title>
-		<link>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/</link>
-		<comments>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/#respond</comments>
-		<pubDate>Sun, 30 Sep 2018 23:32:49 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[northwest africa]]></category>
-		<category><![CDATA[ordinary chondrite]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[surface]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
-		<description><![CDATA[Object fell over Aba Panu, Nigeria on April 19, 2018. The Aba Panu meteorite has a recovered mass of 160 kilograms. Shown here are many interesting chondrules in a wide range of sizes. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-		<wfw:commentRss>https://solaranamnesis.com.vn/2018/09/30/aba-panu-meteorite-surface/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
