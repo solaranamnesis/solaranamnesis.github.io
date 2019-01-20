@@ -4,11 +4,15 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com.vn/</loc>
-	<lastmod>2019-01-02T03:14:25+00:00</lastmod>
+	<lastmod>2019-01-20T23:52:18+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com.vn/2019/01/20/aba-panu-meteorite-thin-section/</loc>
+	<lastmod>2019-01-20T23:46:48+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2019/01/02/kainsaz-meteorite-thin-section/</loc>
-	<lastmod>2019-01-02T03:06:51+00:00</lastmod>
+	<lastmod>2019-01-20T22:37:54+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2018/12/06/calama-005-meteorite-thin-section/</loc>
@@ -412,6 +416,6 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/thin-sections/</loc>
-	<lastmod>2019-01-02T03:09:28+00:00</lastmod>
+	<lastmod>2019-01-20T23:48:42+00:00</lastmod>
 </url>
 </urlset>

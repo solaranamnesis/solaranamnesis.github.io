@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com.vn/category/ordinary-chondrite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com.vn</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Wed, 02 Jan 2019 03:09:28 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Jan 2019 23:48:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Aba Panu Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com.vn/2019/01/20/aba-panu-meteorite-thin-section/</link>
+		<comments>https://solaranamnesis.com.vn/2019/01/20/aba-panu-meteorite-thin-section/#respond</comments>
+		<pubDate>Sun, 20 Jan 2019 22:38:52 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[named fall]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[ordinary chondrite]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
+		<description><![CDATA[The Aba Panu Meteorite thin section in cross polarized light. Check back later for animated gif comparing the original fragment as seen here: Aba Panu Meteorite Surface image. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+		<wfw:commentRss>https://solaranamnesis.com.vn/2019/01/20/aba-panu-meteorite-thin-section/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>NWA 10669 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/</link>
 		<comments>https://solaranamnesis.com.vn/2018/10/17/nwa-10669-meteorite-thin-section/#respond</comments>
@@ -108,27 +129,6 @@
 		<guid isPermaLink="false">https://solaranamnesis.com.vn/</guid>
 		<description><![CDATA[NWA 11038 is a decent meteorite and nice example of an L3 chondrite. There are some pretty blue inclusions along with distinct chondrules. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
 		<wfw:commentRss>https://solaranamnesis.com.vn/2017/09/20/nwa-11038-meteorite-thin-section/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>NWA 960 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com.vn/2017/09/09/nwa-960-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com.vn/2017/09/09/nwa-960-meteorite-thin-section/#respond</comments>
-		<pubDate>Sat, 09 Sep 2017 15:41:52 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[northwest africa]]></category>
-		<category><![CDATA[ordinary chondrite]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=1630</guid>
-		<description><![CDATA[The NWA 960 meteorite belongs to the metal poor, non-carbonaceous class of ordinary chondrites. It&#8217;s chemical and isotope composition are anomalous and imply that it came from a parent body distinct from other known chondrites. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-		<wfw:commentRss>https://solaranamnesis.com.vn/2017/09/09/nwa-960-meteorite-thin-section/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
