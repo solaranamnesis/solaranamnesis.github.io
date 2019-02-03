@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>howardite &#8211; Solar Anamnesis</title>
+	<atom:link href="https://solaranamnesis.com/category/howardite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://solaranamnesis.com/</link>
+	<description>Scenes from the Solar System&#039;s Youth</description>
+	<lastBuildDate>Sun, 03 Feb 2019 22:46:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+
+<image>
+	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
+	<title>howardite &#8211; Solar Anamnesis</title>
+	<link>https://solaranamnesis.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>NWA 8595 Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com/2017/02/10/nwa-8595-meteorite-thin-section/</link>
+		<comments>https://solaranamnesis.com/2017/02/10/nwa-8595-meteorite-thin-section/#disqus_thread</comments>
+		<pubDate>Fri, 10 Feb 2017 01:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[breccia]]></category>
+		<category><![CDATA[howardite]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[Tucsen C30 3MP sCMOS]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com/?p=976</guid>
+		<description><![CDATA[As a Howardite, the NWA 8595 meteorite called Vesta 4 home for billions of years &#8212; until an impact knocked this regolith breccia off its lonely host and on a trajectory for the more hospitable land of Morocco, Earth. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit Store]]></description>
+		<wfw:commentRss>https://solaranamnesis.com/2017/02/10/nwa-8595-meteorite-thin-section/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
