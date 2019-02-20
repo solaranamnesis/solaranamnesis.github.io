@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com/category/aubrite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Sun, 03 Feb 2019 22:46:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Feb 2019 03:22:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,7 +28,6 @@
 	<item>
 		<title>Peña Blanca Spring Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2018/08/12/pena-blanca-spring-meteorite-thin-section/</link>
-		<comments>https://solaranamnesis.com/2018/08/12/pena-blanca-spring-meteorite-thin-section/#disqus_thread</comments>
 		<pubDate>Sun, 12 Aug 2018 22:36:01 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
@@ -44,8 +43,6 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=1953</guid>
 		<description><![CDATA[On March 1, 2018 Roving Reporter’s pictures of the Peña Blanca Spring meteorite appeared on the Meteorite Picture of the Day website. I was immediately struck by this Aubrite’s sharp gray/white matrix coloration and its numerous inclusions. It is an exquisite meteorite! That weekend I decided that the next meteorite thin section to photograph will [&#8230;]]]></description>
-		<wfw:commentRss>https://solaranamnesis.com/2018/08/12/pena-blanca-spring-meteorite-thin-section/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
