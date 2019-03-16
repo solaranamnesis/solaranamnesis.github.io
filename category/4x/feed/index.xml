@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com/category/4x/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Wed, 13 Mar 2019 06:02:45 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Mar 2019 20:51:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NWA 2224 Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com/2019/03/16/nwa-2224-meteorite-thin-section-2/</link>
+		<pubDate>Sat, 16 Mar 2019 20:36:41 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[carbonaceous]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[CV]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com/?p=2238</guid>
+		<description><![CDATA[Presented here is the second in a series of three large panoramas of the NWA 2224 meteorite. The images were captured with light between polarization filters set to low degree for effect. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+		</item>
+		<item>
 		<title>NWA 2224 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2019/02/20/nwa-2224-meteorite-thin-section/</link>
 		<pubDate>Wed, 20 Feb 2019 03:07:35 +0000</pubDate>
@@ -97,25 +115,6 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2156</guid>
 		<description><![CDATA[The Kainsaz Meteorite is the largest CO type with a total recovered weight of 200kg. It was witnessed to fall in Tartarstan on September 13, 1937. For an excellent view of the strew field, visit Woreczko Meteorites&#8217; information page. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load [&#8230;]]]></description>
-		</item>
-		<item>
-		<title>Calama 005 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2018/12/06/calama-005-meteorite-thin-section/</link>
-		<pubDate>Thu, 06 Dec 2018 05:27:54 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[calcium-aluminium-rich inclusion]]></category>
-		<category><![CDATA[carbonaceous]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[CO]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=2142</guid>
-		<description><![CDATA[&#160; Calama 005 is another example of a CO meteorite and presented below, in cross polarized light, you will find it has a nice set of chondritic and carbonaceous features. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
 		</item>
 	</channel>
 </rss>

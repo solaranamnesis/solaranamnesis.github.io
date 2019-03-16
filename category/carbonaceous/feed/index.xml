@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com/category/carbonaceous/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Wed, 13 Mar 2019 06:02:45 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Mar 2019 20:51:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NWA 2224 Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com/2019/03/16/nwa-2224-meteorite-thin-section-2/</link>
+		<pubDate>Sat, 16 Mar 2019 20:36:41 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[carbonaceous]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[CV]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon D810]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com/?p=2238</guid>
+		<description><![CDATA[Presented here is the second in a series of three large panoramas of the NWA 2224 meteorite. The images were captured with light between polarization filters set to low degree for effect. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+		</item>
+		<item>
 		<title>NWA 2224 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2019/02/20/nwa-2224-meteorite-thin-section/</link>
 		<pubDate>Wed, 20 Feb 2019 03:07:35 +0000</pubDate>
@@ -102,25 +120,6 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2124</guid>
 		<description><![CDATA[Of all the classes of meteorites I have photographed, the one with the most out-of-this-world features is the CV class of meteorites. Every time I look at one in thin section I am just stunned at how exotic the material appears. But, in close second I would say is the CO class of meteorites. And [&#8230;]]]></description>
-		</item>
-		<item>
-		<title>NWA 8345 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2018/11/13/nwa-8345-meteorite-thin-section/</link>
-		<pubDate>Tue, 13 Nov 2018 04:43:02 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[carbonaceous]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[CO]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[northwest africa]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=2111</guid>
-		<description><![CDATA[Northwest Africa 8345 Meteorite thin section in cross polarized light. Type CO3.2 with some interesting inclusions scattered randomly and also in the bottom left. There are lots of fascinating details when you spend time looking in detail at the structures. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to [&#8230;]]]></description>
 		</item>
 	</channel>
 </rss>
