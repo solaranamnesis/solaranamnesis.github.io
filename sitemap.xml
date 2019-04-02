@@ -4,7 +4,11 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com.vn/</loc>
-	<lastmod>2019-03-16T20:58:23+00:00</lastmod>
+	<lastmod>2019-04-02T02:31:32+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com.vn/2019/04/02/nwa-2224-meteorite-surface/</loc>
+	<lastmod>2019-04-02T02:16:35+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2019/03/16/nwa-2224-meteorite-thin-section-2/</loc>
@@ -420,11 +424,11 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/surfaces/</loc>
-	<lastmod>2018-10-01T01:26:36+00:00</lastmod>
+	<lastmod>2019-04-02T02:18:14+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/links/</loc>
-	<lastmod>2018-10-07T19:22:13+00:00</lastmod>
+	<lastmod>2019-04-02T02:28:28+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/thin-sections/</loc>

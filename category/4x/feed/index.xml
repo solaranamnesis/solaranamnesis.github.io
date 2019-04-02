@@ -12,7 +12,7 @@
 	<atom:link href="https://solaranamnesis.com/category/4x/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Sat, 16 Mar 2019 20:51:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Apr 2019 02:28:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NWA 2224 Meteorite Surface</title>
+		<link>https://solaranamnesis.com/2019/04/02/nwa-2224-meteorite-surface/</link>
+		<pubDate>Tue, 02 Apr 2019 01:53:45 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[calcium-aluminium-rich inclusion]]></category>
+		<category><![CDATA[carbonaceous]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[CV]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon Z6]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[polarized]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[surface]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com/?p=2256</guid>
+		<description><![CDATA[Surface panorama of the NWA 2224 meteorite. The images were captured in cross polarized reflected light with a Nikon Z6. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+		</item>
+		<item>
 		<title>NWA 2224 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2019/03/16/nwa-2224-meteorite-thin-section-2/</link>
 		<pubDate>Sat, 16 Mar 2019 20:36:41 +0000</pubDate>
@@ -96,25 +116,6 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2165</guid>
 		<description><![CDATA[The Aba Panu Meteorite thin section in cross polarized light. Check back later for animated gif comparing the original fragment as seen here: Aba Panu Meteorite Surface image. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-		</item>
-		<item>
-		<title>Kainsaz Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2019/01/02/kainsaz-meteorite-thin-section/</link>
-		<pubDate>Wed, 02 Jan 2019 03:06:51 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[carbonaceous]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[CO]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[named fall]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=2156</guid>
-		<description><![CDATA[The Kainsaz Meteorite is the largest CO type with a total recovered weight of 200kg. It was witnessed to fall in Tartarstan on September 13, 1937. For an excellent view of the strew field, visit Woreczko Meteorites&#8217; information page. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load [&#8230;]]]></description>
 		</item>
 	</channel>
 </rss>
