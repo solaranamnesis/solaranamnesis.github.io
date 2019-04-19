@@ -12,11 +12,14 @@
 	<atom:link href="https://solaranamnesis.com/category/diogenite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 02 Apr 2019 02:50:22 +0000</lastBuildDate>
+	<lastBuildDate>
+	Fri, 19 Apr 2019 00:57:35 +0000	</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.4</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -28,7 +31,7 @@
 	<item>
 		<title>NWA 2824 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2017/01/28/nwa-2824-meteorite-thin-section/</link>
-		<pubDate>Sat, 28 Jan 2017 17:07:55 +0000</pubDate>
+				<pubDate>Sat, 28 Jan 2017 17:07:55 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[diogenite]]></category>
@@ -39,7 +42,7 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=955</guid>
-		<description><![CDATA[Cross polarized thin section of NWA 2824, a diogenite with a multitude of white-gray needle like inclusions which, in their color and texture, resemble those found in the Ibitira Meteorite Thin Section. These are described as &#8220;Plagioclase recrystallized into complex spherulitic textures.&#8221;  See this link for more classification information on diogenites. Impactika has nice close-up [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[Cross polarized thin section of NWA 2824, a diogenite with a multitude of white-gray needle like inclusions which, in their color and texture, resemble those found in the Ibitira Meteorite Thin Section. These are described as &#8220;Plagioclase recrystallized into complex spherulitic textures.&#8221;  See this link for more classification information on diogenites. Impactika has nice close-up [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

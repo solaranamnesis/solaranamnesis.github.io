@@ -12,11 +12,14 @@
 	<atom:link href="https://solaranamnesis.com/category/metachondrite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 02 Apr 2019 02:50:22 +0000</lastBuildDate>
+	<lastBuildDate>
+	Fri, 19 Apr 2019 00:57:35 +0000	</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.4</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -28,7 +31,7 @@
 	<item>
 		<title>NWA 10690 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2017/11/19/nwa-10690-meteorite-thin-section/</link>
-		<pubDate>Sun, 19 Nov 2017 04:46:34 +0000</pubDate>
+				<pubDate>Sun, 19 Nov 2017 04:46:34 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[10x/0.25]]></category>
 		<category><![CDATA[chondrite]]></category>
@@ -41,7 +44,7 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=1839</guid>
-		<description><![CDATA[This thin section of NWA 10690 gives a unique view of the transformations and processes occurring in ancient times. Within the large grains of similar color can be found smaller grains of various colors, shapes, and sizes which imply internal changes occurring within the source body. Paired with NWA 7030, it belongs to the LL7 [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[This thin section of NWA 10690 gives a unique view of the transformations and processes occurring in ancient times. Within the large grains of similar color can be found smaller grains of various colors, shapes, and sizes which imply internal changes occurring within the source body. Paired with NWA 7030, it belongs to the LL7 [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

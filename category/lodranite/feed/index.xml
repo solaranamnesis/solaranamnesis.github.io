@@ -12,11 +12,14 @@
 	<atom:link href="https://solaranamnesis.com/category/lodranite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 02 Apr 2019 02:50:22 +0000</lastBuildDate>
+	<lastBuildDate>
+	Fri, 19 Apr 2019 00:57:35 +0000	</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.4</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -28,7 +31,7 @@
 	<item>
 		<title>NWA 8251 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2017/03/11/nwa-8251-meteorite-thin-section/</link>
-		<pubDate>Sat, 11 Mar 2017 14:29:03 +0000</pubDate>
+				<pubDate>Sat, 11 Mar 2017 14:29:03 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[breccia]]></category>
@@ -40,12 +43,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=1032</guid>
-		<description><![CDATA[NWA 8251 Meteorite fragments contain brilliant green clinopyroxene crystals, which have earned it the nickname &#8220;Green-Eyed&#8221; Lodranite. This lodranite breccia creates a uniquely beautiful cross polarized thin section. The wide size, texture, color, and features of the individual grains which compose the breccia make this one of my absolute favorite thin sections to explore. Picture [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[NWA 8251 Meteorite fragments contain brilliant green clinopyroxene crystals, which have earned it the nickname &#8220;Green-Eyed&#8221; Lodranite. This lodranite breccia creates a uniquely beautiful cross polarized thin section. The wide size, texture, color, and features of the individual grains which compose the breccia make this one of my absolute favorite thin sections to explore. Picture [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>NWA 5488 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2016/06/19/nwa-5488/</link>
-		<pubDate>Sun, 19 Jun 2016 00:45:31 +0000</pubDate>
+				<pubDate>Sun, 19 Jun 2016 00:45:31 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[A3550UPA CCD 5MP]]></category>
@@ -57,7 +60,7 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=580</guid>
-		<description><![CDATA[This thin section specimen of NWA 5488 shows a simple view of the lodranite subclass of primitive achondrite meteorites. For additional thin section images of NWA 5488, see Meteorite Thin Section Gallery. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit Store]]></description>
-		</item>
+				<description><![CDATA[This thin section specimen of NWA 5488 shows a simple view of the lodranite subclass of primitive achondrite meteorites. For additional thin section images of NWA 5488, see Meteorite Thin Section Gallery. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit Store]]></description>
+									</item>
 	</channel>
 </rss>

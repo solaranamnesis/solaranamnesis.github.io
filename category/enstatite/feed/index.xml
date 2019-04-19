@@ -12,11 +12,14 @@
 	<atom:link href="https://solaranamnesis.com/category/enstatite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 02 Apr 2019 02:50:22 +0000</lastBuildDate>
+	<lastBuildDate>
+	Fri, 19 Apr 2019 00:57:35 +0000	</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.4</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -28,7 +31,7 @@
 	<item>
 		<title>Abee Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2015/10/19/abee/</link>
-		<pubDate>Mon, 19 Oct 2015 00:39:47 +0000</pubDate>
+				<pubDate>Mon, 19 Oct 2015 00:39:47 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[A35140U CCD 14MP]]></category>
@@ -40,12 +43,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=134</guid>
-		<description><![CDATA[Abee Meteorite thin section specimen. The photos were taken under blue cross polarized light. Abee is an example of the enstatite chondrite class of meteorites. The E Type chondrites are know for their reduced state and contain very little oxidized iron. Instead the iron is either metallic or joined with sulfur. They are mostly composed [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[Abee Meteorite thin section specimen. The photos were taken under blue cross polarized light. Abee is an example of the enstatite chondrite class of meteorites. The E Type chondrites are know for their reduced state and contain very little oxidized iron. Instead the iron is either metallic or joined with sulfur. They are mostly composed [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>Itqiy Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2015/09/23/itqiy/</link>
-		<pubDate>Wed, 23 Sep 2015 01:19:39 +0000</pubDate>
+				<pubDate>Wed, 23 Sep 2015 01:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[A3550UPA CCD 5MP]]></category>
@@ -56,7 +59,7 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=18</guid>
-		<description><![CDATA[Thin section specimen of the Itqiy meteorite viewed in cross polarized light. Meteorite Studies: History and details regarding the Itqiy meteorite. Version 2: View Meteorite Thin Section Panoramas: Interact with image on Gigapan &#124; View panorama with krpano Purchase Prints Visit Store Version 1: View Meteorite Thin Section Panoramas: View panorama with krpano Interact with [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[Thin section specimen of the Itqiy meteorite viewed in cross polarized light. Meteorite Studies: History and details regarding the Itqiy meteorite. Version 2: View Meteorite Thin Section Panoramas: Interact with image on Gigapan &#124; View panorama with krpano Purchase Prints Visit Store Version 1: View Meteorite Thin Section Panoramas: View panorama with krpano Interact with [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

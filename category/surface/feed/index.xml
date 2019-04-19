@@ -12,11 +12,14 @@
 	<atom:link href="https://solaranamnesis.com/category/surface/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 02 Apr 2019 02:50:22 +0000</lastBuildDate>
+	<lastBuildDate>
+	Fri, 19 Apr 2019 00:57:35 +0000	</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.4</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -28,7 +31,7 @@
 	<item>
 		<title>NWA 2224 Meteorite Surface</title>
 		<link>https://solaranamnesis.com/2019/04/02/nwa-2224-meteorite-surface/</link>
-		<pubDate>Tue, 02 Apr 2019 01:53:45 +0000</pubDate>
+				<pubDate>Tue, 02 Apr 2019 01:53:45 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[calcium-aluminium-rich inclusion]]></category>
@@ -43,12 +46,12 @@
 		<category><![CDATA[surface]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2256</guid>
-		<description><![CDATA[Surface panorama of the NWA 2224 meteorite. The images were captured in cross polarized reflected light with a Nikon Z6. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-		</item>
+				<description><![CDATA[Surface panorama of the NWA 2224 meteorite. The images were captured in cross polarized reflected light with a Nikon Z6. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+									</item>
 		<item>
 		<title>Aba Panu Meteorite Surface</title>
 		<link>https://solaranamnesis.com/2018/09/30/aba-panu-meteorite-surface/</link>
-		<pubDate>Sun, 30 Sep 2018 23:32:49 +0000</pubDate>
+				<pubDate>Sun, 30 Sep 2018 23:32:49 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[chondrite]]></category>
@@ -62,12 +65,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2015</guid>
-		<description><![CDATA[Object fell over Aba Panu, Nigeria on April 19, 2018. The Aba Panu meteorite has a recovered mass of 160 kilograms. Shown here are many interesting chondrules in a wide range of sizes. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-		</item>
+				<description><![CDATA[Object fell over Aba Panu, Nigeria on April 19, 2018. The Aba Panu meteorite has a recovered mass of 160 kilograms. Shown here are many interesting chondrules in a wide range of sizes. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+									</item>
 		<item>
 		<title>NWA 2364 Meteorite Surface</title>
 		<link>https://solaranamnesis.com/2017/06/06/nwa-2364-meteorite-surface/</link>
-		<pubDate>Tue, 06 Jun 2017 13:30:19 +0000</pubDate>
+				<pubDate>Tue, 06 Jun 2017 13:30:19 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[calcium-aluminium-rich inclusion]]></category>
@@ -82,12 +85,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=1227</guid>
-		<description><![CDATA[The NWA 2364 meteorite contains the oldest known calcium-aluminum-rich inclusions in the Solar System. In other words, there is no &#8220;pristine&#8221; surviving matter within the sphere of human knowledge which is older than inclusions in this meteorite. Future discoveries may yield even more ancient material, however, until that occurs this remains #1. The details are [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[The NWA 2364 meteorite contains the oldest known calcium-aluminum-rich inclusions in the Solar System. In other words, there is no &#8220;pristine&#8221; surviving matter within the sphere of human knowledge which is older than inclusions in this meteorite. Future discoveries may yield even more ancient material, however, until that occurs this remains #1. The details are [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>D&#8217;Orbigny Meteorite Surface</title>
 		<link>https://solaranamnesis.com/2016/02/13/dorbigny-3/</link>
-		<pubDate>Sat, 13 Feb 2016 16:59:37 +0000</pubDate>
+				<pubDate>Sat, 13 Feb 2016 16:59:37 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[A3550UPA CCD 5MP]]></category>
@@ -99,7 +102,7 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=420</guid>
-		<description><![CDATA[The D&#8217;Orbigny Meteorite provides amazing visuals no matter how the specimen is prepared. Whether looking at a thin section or gazing at its surface, the observer will be amazed at the natural beauty of this ancient fragment of the Solar System. The panorama photomicrograph displayed here was taken with a small piece of the D&#8217;Orbigny [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[The D&#8217;Orbigny Meteorite provides amazing visuals no matter how the specimen is prepared. Whether looking at a thin section or gazing at its surface, the observer will be amazed at the natural beauty of this ancient fragment of the Solar System. The panorama photomicrograph displayed here was taken with a small piece of the D&#8217;Orbigny [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

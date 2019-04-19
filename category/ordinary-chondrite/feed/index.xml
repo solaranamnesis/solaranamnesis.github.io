@@ -12,11 +12,14 @@
 	<atom:link href="https://solaranamnesis.com/category/ordinary-chondrite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 02 Apr 2019 02:50:22 +0000</lastBuildDate>
+	<lastBuildDate>
+	Fri, 19 Apr 2019 00:57:35 +0000	</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.4</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -28,7 +31,7 @@
 	<item>
 		<title>Aba Panu Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2019/01/20/aba-panu-meteorite-thin-section/</link>
-		<pubDate>Sun, 20 Jan 2019 22:38:52 +0000</pubDate>
+				<pubDate>Sun, 20 Jan 2019 22:38:52 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[chondrite]]></category>
@@ -41,12 +44,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2165</guid>
-		<description><![CDATA[The Aba Panu Meteorite thin section in cross polarized light. Check back later for animated gif comparing the original fragment as seen here: Aba Panu Meteorite Surface image. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-		</item>
+				<description><![CDATA[The Aba Panu Meteorite thin section in cross polarized light. Check back later for animated gif comparing the original fragment as seen here: Aba Panu Meteorite Surface image. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+									</item>
 		<item>
 		<title>NWA 10669 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2018/10/17/nwa-10669-meteorite-thin-section/</link>
-		<pubDate>Wed, 17 Oct 2018 02:02:51 +0000</pubDate>
+				<pubDate>Wed, 17 Oct 2018 02:02:51 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[chondrite]]></category>
@@ -59,12 +62,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2066</guid>
-		<description><![CDATA[This thin section of the NWA 10669 meteorite spans the entire breadth of my scope&#8217;s aperture, making it just a little over 30 millimeters. Thanks to its enormity there is much to look at and explore. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[This thin section of the NWA 10669 meteorite spans the entire breadth of my scope&#8217;s aperture, making it just a little over 30 millimeters. Thanks to its enormity there is much to look at and explore. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>Aba Panu Meteorite Surface</title>
 		<link>https://solaranamnesis.com/2018/09/30/aba-panu-meteorite-surface/</link>
-		<pubDate>Sun, 30 Sep 2018 23:32:49 +0000</pubDate>
+				<pubDate>Sun, 30 Sep 2018 23:32:49 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[chondrite]]></category>
@@ -78,12 +81,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2015</guid>
-		<description><![CDATA[Object fell over Aba Panu, Nigeria on April 19, 2018. The Aba Panu meteorite has a recovered mass of 160 kilograms. Shown here are many interesting chondrules in a wide range of sizes. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-		</item>
+				<description><![CDATA[Object fell over Aba Panu, Nigeria on April 19, 2018. The Aba Panu meteorite has a recovered mass of 160 kilograms. Shown here are many interesting chondrules in a wide range of sizes. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+									</item>
 		<item>
 		<title>NWA 3189 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2018/09/18/nwa-3189-meteorite-thin-section/</link>
-		<pubDate>Tue, 18 Sep 2018 02:16:03 +0000</pubDate>
+				<pubDate>Tue, 18 Sep 2018 02:16:03 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[chondrite]]></category>
@@ -96,12 +99,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=1998</guid>
-		<description><![CDATA[Good looking thin section of the NWA 3189 meteorite in cross-polarized light. Lots of chondrules with several distinct barred ones. Additional pictures at Meteorite Thin Section Gallery Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-		</item>
+				<description><![CDATA[Good looking thin section of the NWA 3189 meteorite in cross-polarized light. Lots of chondrules with several distinct barred ones. Additional pictures at Meteorite Thin Section Gallery Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+									</item>
 		<item>
 		<title>NWA 11038 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2017/09/20/nwa-11038-meteorite-thin-section/</link>
-		<pubDate>Wed, 20 Sep 2017 23:53:04 +0000</pubDate>
+				<pubDate>Wed, 20 Sep 2017 23:53:04 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[chondrite]]></category>
@@ -114,7 +117,7 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=1664</guid>
-		<description><![CDATA[NWA 11038 is a decent meteorite and nice example of an L3 chondrite. There are some pretty blue inclusions along with distinct chondrules. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-		</item>
+				<description><![CDATA[NWA 11038 is a decent meteorite and nice example of an L3 chondrite. There are some pretty blue inclusions along with distinct chondrules. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+									</item>
 	</channel>
 </rss>

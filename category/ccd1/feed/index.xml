@@ -12,11 +12,14 @@
 	<atom:link href="https://solaranamnesis.com/category/ccd1/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 02 Apr 2019 02:50:22 +0000</lastBuildDate>
+	<lastBuildDate>
+	Fri, 19 Apr 2019 00:57:35 +0000	</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.4</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -28,7 +31,7 @@
 	<item>
 		<title>Abee Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2015/10/19/abee/</link>
-		<pubDate>Mon, 19 Oct 2015 00:39:47 +0000</pubDate>
+				<pubDate>Mon, 19 Oct 2015 00:39:47 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[A35140U CCD 14MP]]></category>
@@ -40,12 +43,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=134</guid>
-		<description><![CDATA[Abee Meteorite thin section specimen. The photos were taken under blue cross polarized light. Abee is an example of the enstatite chondrite class of meteorites. The E Type chondrites are know for their reduced state and contain very little oxidized iron. Instead the iron is either metallic or joined with sulfur. They are mostly composed [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[Abee Meteorite thin section specimen. The photos were taken under blue cross polarized light. Abee is an example of the enstatite chondrite class of meteorites. The E Type chondrites are know for their reduced state and contain very little oxidized iron. Instead the iron is either metallic or joined with sulfur. They are mostly composed [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>Limerick Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2015/09/27/limerick/</link>
-		<pubDate>Sun, 27 Sep 2015 20:10:10 +0000</pubDate>
+				<pubDate>Sun, 27 Sep 2015 20:10:10 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[A35140U CCD 14MP]]></category>
@@ -56,12 +59,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=111</guid>
-		<description><![CDATA[Thin section specimen of the Limerick Meteorite in cross polarized light. The meteor was observed on September 10, 1813 and the meteorite recovered shortly after the event. Limerick is classed as a type 5 high iron ordinary chondrite. View Meteorite Thin Section Panoramas: View image on Gigapan &#124; View panorama with krpano Purchase Prints Visit [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[Thin section specimen of the Limerick Meteorite in cross polarized light. The meteor was observed on September 10, 1813 and the meteorite recovered shortly after the event. Limerick is classed as a type 5 high iron ordinary chondrite. View Meteorite Thin Section Panoramas: View image on Gigapan &#124; View panorama with krpano Purchase Prints Visit [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>NWA 5205 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2015/09/26/nwa-5205/</link>
-		<pubDate>Sat, 26 Sep 2015 11:46:08 +0000</pubDate>
+				<pubDate>Sat, 26 Sep 2015 11:46:08 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[A35140U CCD 14MP]]></category>
 		<category><![CDATA[chondrite]]></category>
@@ -70,12 +73,12 @@
 		<category><![CDATA[scope2]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=66</guid>
-		<description><![CDATA[NWA 5205 provides a unique glimpse at conditions present in the early solar nebula. If you look closely at the chondrules you can see many deformed ones. Here is a link to an informative paper written by Knut Metzler about NWA 5205. This paper investigates these deformed chondrules, along with other unique properties, and suggests [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[NWA 5205 provides a unique glimpse at conditions present in the early solar nebula. If you look closely at the chondrules you can see many deformed ones. Here is a link to an informative paper written by Knut Metzler about NWA 5205. This paper investigates these deformed chondrules, along with other unique properties, and suggests [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>D&#8217;Orbigny Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2015/09/23/dorbigny/</link>
-		<pubDate>Wed, 23 Sep 2015 01:30:55 +0000</pubDate>
+				<pubDate>Wed, 23 Sep 2015 01:30:55 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[A35140U CCD 14MP]]></category>
@@ -90,12 +93,12 @@
 		<category><![CDATA[zerene stacker]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=30</guid>
-		<description><![CDATA[This is a thin section specimen of the D&#8217;Orbigny Meteorite. The thin section photographs were taken under cross polarized light using two linear polarizing filters. The first set of pictures is from a nicer CCD and microscope. For a good link to more Angrite pictures, see here. Angrites always look spectacular in polarized light. Link [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[This is a thin section specimen of the D&#8217;Orbigny Meteorite. The thin section photographs were taken under cross polarized light using two linear polarizing filters. The first set of pictures is from a nicer CCD and microscope. For a good link to more Angrite pictures, see here. Angrites always look spectacular in polarized light. Link [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>Pasamonte Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2015/09/23/pasamonte/</link>
-		<pubDate>Wed, 23 Sep 2015 01:28:40 +0000</pubDate>
+				<pubDate>Wed, 23 Sep 2015 01:28:40 +0000</pubDate>
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[A35140U CCD 14MP]]></category>
@@ -105,7 +108,7 @@
 		<category><![CDATA[scope1]]></category>
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=27</guid>
-		<description><![CDATA[Taken in cross polarized light, this is a remarkably beautiful thin section of the Pasamonte Meteorite. The Pasamonte Meteorite is famous in history as the first observed fall to be photographed. Harvey Nininger played an important role in cataloging and recovering many of the specimens currently located in museums and private collections. The Pasamonte Meteorite [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[Taken in cross polarized light, this is a remarkably beautiful thin section of the Pasamonte Meteorite. The Pasamonte Meteorite is famous in history as the first observed fall to be photographed. Harvey Nininger played an important role in cataloging and recovering many of the specimens currently located in museums and private collections. The Pasamonte Meteorite [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>
