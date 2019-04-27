@@ -13,7 +13,7 @@
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
 	<lastBuildDate>
-	Fri, 19 Apr 2019 00:57:35 +0000	</lastBuildDate>
+	Sat, 27 Apr 2019 22:19:28 +0000	</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Julesburg Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com/2019/04/27/julesburg-meteorite-thin-section/</link>
+				<pubDate>Sat, 27 Apr 2019 21:13:20 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[10x/0.25]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon Z6]]></category>
+		<category><![CDATA[ordinary chondrite]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com/?p=2283</guid>
+				<description><![CDATA[The Julesburg Meteorite looks excellent in visible light, as it is presented here. View this March 1993 article in Meteoritics and Planetary Science for a detailed description of the object and its composition. The Nikon Z6 attached to the LMScope adapter is a simple setup that produces very sharp images at high magnification. Once focus [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>Aba Panu Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2019/01/20/aba-panu-meteorite-thin-section/</link>
 				<pubDate>Sun, 20 Jan 2019 22:38:52 +0000</pubDate>
@@ -100,24 +116,6 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=1998</guid>
 				<description><![CDATA[Good looking thin section of the NWA 3189 meteorite in cross-polarized light. Lots of chondrules with several distinct barred ones. Additional pictures at Meteorite Thin Section Gallery Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-									</item>
-		<item>
-		<title>NWA 11038 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2017/09/20/nwa-11038-meteorite-thin-section/</link>
-				<pubDate>Wed, 20 Sep 2017 23:53:04 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[northwest africa]]></category>
-		<category><![CDATA[ordinary chondrite]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=1664</guid>
-				<description><![CDATA[NWA 11038 is a decent meteorite and nice example of an L3 chondrite. There are some pretty blue inclusions along with distinct chondrules. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
 									</item>
 	</channel>
 </rss>

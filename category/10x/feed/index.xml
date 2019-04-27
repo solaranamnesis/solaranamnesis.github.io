@@ -13,7 +13,7 @@
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
 	<lastBuildDate>
-	Fri, 19 Apr 2019 00:57:35 +0000	</lastBuildDate>
+	Sat, 27 Apr 2019 22:19:28 +0000	</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Julesburg Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com/2019/04/27/julesburg-meteorite-thin-section/</link>
+				<pubDate>Sat, 27 Apr 2019 21:13:20 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[10x/0.25]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon Z6]]></category>
+		<category><![CDATA[ordinary chondrite]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com/?p=2283</guid>
+				<description><![CDATA[The Julesburg Meteorite looks excellent in visible light, as it is presented here. View this March 1993 article in Meteoritics and Planetary Science for a detailed description of the object and its composition. The Nikon Z6 attached to the LMScope adapter is a simple setup that produces very sharp images at high magnification. Once focus [&#8230;]]]></description>
+									</item>
+		<item>
 		<title>NWA 1950 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2018/01/01/nwa-1950-meteorite-thin-section/</link>
 				<pubDate>Mon, 01 Jan 2018 01:31:30 +0000</pubDate>
@@ -100,23 +116,6 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=1617</guid>
 				<description><![CDATA[A peculiar ungrouped-achondrite, NWA 7835 contains inclusions which are riddled with what appear to be streams of air bubbles. These streams occur in numerous patterns: parallel, helix, ribbon, single, bifurcating, and enlarging. Look closely, because all of these patterns are visible in this thin section. There are additional pictures of NWA 7835 which zoom in [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>NWA 4587 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2017/08/12/nwa-4587-meteorite-thin-section/</link>
-				<pubDate>Sat, 12 Aug 2017 18:02:14 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[10x/0.25]]></category>
-		<category><![CDATA[achondrite]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[northwest africa]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=1588</guid>
-				<description><![CDATA[The NWA 4587 meteorite makes a colorful polarized thin section. The unique intergranular recrystallized plagioclase texture gives it a spectacular appearance. This is the second example of this meteorite &#8212; see here for the first. NWA 2976 Anomalous Achondrite NWA 4901 Ungrouped Achondrite View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
