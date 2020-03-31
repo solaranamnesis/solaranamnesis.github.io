@@ -12,13 +12,13 @@
 	<atom:link href="https://solaranamnesis.com/category/named-fall/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Wed, 13 Mar 2019 06:02:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Mar 2020 17:19:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.2.1</generator>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Clarendon (c) Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com/2020/03/31/clarendon-meteorite-thin-section/</link>
+				<pubDate>Tue, 31 Mar 2020 16:22:25 +0000</pubDate>
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[named fall]]></category>
+		<category><![CDATA[Nikon Z6]]></category>
+		<category><![CDATA[ordinary chondrite]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+
+		<guid isPermaLink="false">https://solaranamnesis.com/?p=2319</guid>
+				<description><![CDATA[The Clarendon (c) meteorite is a wonderful example of a named L4 chondrite with fusion crust. In the gigapixel image below one may see many diverse and distinct chondritic inclusions. Full Screen Meteorite Thin Section Panoramas: View on Gigapan&#160;&#124;&#160;View with krpano Click to Load Purchase Prints Visit Store]]></description>
+									</item>
+		<item>
 		<title>Ozerki Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2019/02/03/ozerki-meteorite-thin-section/</link>
 				<pubDate>Sun, 03 Feb 2019 22:07:22 +0000</pubDate>
@@ -99,23 +116,6 @@
 
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2124</guid>
 				<description><![CDATA[Of all the classes of meteorites I have photographed, the one with the most out-of-this-world features is the CV class of meteorites. Every time I look at one in thin section I am just stunned at how exotic the material appears. But, in close second I would say is the CO class of meteorites. And [&#8230;]]]></description>
-									</item>
-		<item>
-		<title>Los Angeles 002 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2018/08/20/los-angeles-002-meteorite-thin-section/</link>
-				<pubDate>Mon, 20 Aug 2018 04:27:48 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[mars]]></category>
-		<category><![CDATA[named fall]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[polarized]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
-
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=1964</guid>
-				<description><![CDATA[Nice looking Shergottite thin section displaying colorful geometric grains and other, completely black ones. The Los Angeles Meteorite is a special meteorite due to its circumstantial discovery. Imagine having a Martian rock sitting in your garage without realizing it! There are probably thousands of unclassified meteorites all over the world right now, sitting in peoples [&#8230;]]]></description>
 									</item>
 	</channel>
 </rss>
