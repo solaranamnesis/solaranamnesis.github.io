@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -30,8 +30,9 @@
 	<item>
 		<title>Almahata Sitta Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2016/02/02/almahata-sitta/</link>
-				<pubDate>Tue, 02 Feb 2016 11:08:00 +0000</pubDate>
+		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+		<pubDate>Tue, 02 Feb 2016 11:08:00 +0000</pubDate>
 				<category><![CDATA[10x/0.25]]></category>
 		<category><![CDATA[A3550UPA CCD 5MP]]></category>
 		<category><![CDATA[achondrite]]></category>
@@ -40,15 +41,19 @@
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[ureilite]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=343</guid>
-				<description><![CDATA[The Almahata Sitta meteorite and its story made the history books in 2008. Before colliding into the atmosphere over North Africa, a sky survey identified an object on a collision course with Earth; astronomers gave this asteroid a temporary name: 8TA9D69. After the bright meteor was seen by observers, meteorite hunters scoured the desert of [&#8230;]]]></description>
-									</item>
+
+					<description><![CDATA[The Almahata Sitta meteorite and its story made the history books in 2008. Before colliding into the atmosphere over North Africa, a sky survey identified an object on a collision course with Earth; astronomers gave this asteroid a temporary name: 8TA9D69. After the bright meteor was seen by observers, meteorite hunters scoured the desert of [&#8230;]]]></description>
+		
+		
+		
+			</item>
 		<item>
 		<title>NWA 7630 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2015/09/23/nwa-7630/</link>
-				<pubDate>Wed, 23 Sep 2015 01:23:53 +0000</pubDate>
+		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2015 01:23:53 +0000</pubDate>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[A35140U CCD 14MP]]></category>
 		<category><![CDATA[A3550UPA CCD 5MP]]></category>
@@ -59,9 +64,12 @@
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[ureilite]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=21</guid>
-				<description><![CDATA[Thin section specimen of NWA 7630 in cross polarized light. Classified as a Dunitic Ureilite. Version 2 View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit Store Version 1 View Meteorite Thin Section Panoramas: View Panorama with krpano View and interact with image on Gigapan]]></description>
-									</item>
+
+					<description><![CDATA[Thin section specimen of NWA 7630 in cross polarized light. Classified as a Dunitic Ureilite. Version 2 View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit Store Version 1 View Meteorite Thin Section Panoramas: View Panorama with krpano View and interact with image on Gigapan]]></description>
+		
+		
+		
+			</item>
 	</channel>
 </rss>

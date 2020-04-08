@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -30,8 +30,9 @@
 	<item>
 		<title>NWA 8595 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2017/02/10/nwa-8595-meteorite-thin-section/</link>
-				<pubDate>Fri, 10 Feb 2017 01:56:00 +0000</pubDate>
+		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2017 01:56:00 +0000</pubDate>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[breccia]]></category>
 		<category><![CDATA[howardite]]></category>
@@ -40,9 +41,12 @@
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[Tucsen C30 3MP sCMOS]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=976</guid>
-				<description><![CDATA[As a Howardite, the NWA 8595 meteorite called Vesta 4 home for billions of years &#8212; until an impact knocked this regolith breccia off its lonely host and on a trajectory for the more hospitable land of Morocco, Earth. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit Store]]></description>
-									</item>
+
+					<description><![CDATA[As a Howardite, the NWA 8595 meteorite called Vesta 4 home for billions of years &#8212; until an impact knocked this regolith breccia off its lonely host and on a trajectory for the more hospitable land of Morocco, Earth. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit Store]]></description>
+		
+		
+		
+			</item>
 	</channel>
 </rss>

@@ -12,13 +12,13 @@
 	<atom:link href="https://solaranamnesis.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
-	<lastBuildDate>Tue, 31 Mar 2020 17:19:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Apr 2020 21:36:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -28,10 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NWA 7859 Meteorite Thin Section</title>
+		<link>https://solaranamnesis.com/2020/04/08/nwa-7859-meteorite-thin-section/</link>
+		
+		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2020 21:31:44 +0000</pubDate>
+				<category><![CDATA[4x/0.25]]></category>
+		<category><![CDATA[chondrite]]></category>
+		<category><![CDATA[LMScope]]></category>
+		<category><![CDATA[Nikon Z6]]></category>
+		<category><![CDATA[northwest africa]]></category>
+		<category><![CDATA[ordinary chondrite]]></category>
+		<category><![CDATA[scope2]]></category>
+		<category><![CDATA[zerene stacker]]></category>
+		<guid isPermaLink="false">https://solaranamnesis.com/?p=2336</guid>
+
+					<description><![CDATA[This visible light thin section gigapixel mosaic of the L3 NWA 7859 meteorite contains some highly unusual inclusions that appear to be characteristically grouped together. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Clarendon (c) Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2020/03/31/clarendon-meteorite-thin-section/</link>
-				<pubDate>Tue, 31 Mar 2020 16:22:25 +0000</pubDate>
+		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 16:22:25 +0000</pubDate>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[chondrite]]></category>
 		<category><![CDATA[LMScope]]></category>
@@ -40,15 +62,19 @@
 		<category><![CDATA[ordinary chondrite]]></category>
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2319</guid>
-				<description><![CDATA[The Clarendon (c) meteorite is a wonderful example of a named L4 chondrite with fusion crust. In the gigapixel image below one may see many diverse and distinct chondritic inclusions. Full Screen Meteorite Thin Section Panoramas: View on Gigapan&#160;&#124;&#160;View with krpano Click to Load Purchase Prints Visit Store]]></description>
-									</item>
+
+					<description><![CDATA[The Clarendon (c) meteorite is a wonderful example of a named L4 chondrite with fusion crust. In the gigapixel image below one may see many diverse and distinct chondritic inclusions. Full Screen Meteorite Thin Section Panoramas: View on Gigapan&#160;&#124;&#160;View with krpano Click to Load Purchase Prints Visit Store]]></description>
+		
+		
+		
+			</item>
 		<item>
 		<title>NWA 6472 Meteorite Surface</title>
 		<link>https://solaranamnesis.com/2019/06/12/nwa-6472-meteorite-surface/</link>
-				<pubDate>Wed, 12 Jun 2019 01:39:52 +0000</pubDate>
+		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2019 01:39:52 +0000</pubDate>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[chondrite]]></category>
 		<category><![CDATA[LMScope]]></category>
@@ -59,15 +85,19 @@
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[surface]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2304</guid>
-				<description><![CDATA[With a classification of LL3.2, the NWA 6472 meteorite provides an abundance of fascinating chondrules. The colors are really amazing in cross polarized reflected light as seen in this surface focus stacked panorama taken with the Nikon Z6 attached to the LM scope adapter. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View [&#8230;]]]></description>
-									</item>
+
+					<description><![CDATA[With a classification of LL3.2, the NWA 6472 meteorite provides an abundance of fascinating chondrules. The colors are really amazing in cross polarized reflected light as seen in this surface focus stacked panorama taken with the Nikon Z6 attached to the LM scope adapter. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View [&#8230;]]]></description>
+		
+		
+		
+			</item>
 		<item>
 		<title>Julesburg Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2019/04/27/julesburg-meteorite-thin-section/</link>
-				<pubDate>Sat, 27 Apr 2019 21:13:20 +0000</pubDate>
+		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+		<pubDate>Sat, 27 Apr 2019 21:13:20 +0000</pubDate>
 				<category><![CDATA[10x/0.25]]></category>
 		<category><![CDATA[chondrite]]></category>
 		<category><![CDATA[LMScope]]></category>
@@ -75,15 +105,19 @@
 		<category><![CDATA[ordinary chondrite]]></category>
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2283</guid>
-				<description><![CDATA[The Julesburg Meteorite looks excellent in visible light, as it is presented here. View this March 1993 article in Meteoritics and Planetary Science for a detailed description of the object and its composition. The Nikon Z6 attached to the LMScope adapter is a simple setup that produces very sharp images at high magnification. Once focus [&#8230;]]]></description>
-									</item>
+
+					<description><![CDATA[The Julesburg Meteorite looks excellent in visible light, as it is presented here. View this March 1993 article in Meteoritics and Planetary Science for a detailed description of the object and its composition. The Nikon Z6 attached to the LMScope adapter is a simple setup that produces very sharp images at high magnification. Once focus [&#8230;]]]></description>
+		
+		
+		
+			</item>
 		<item>
 		<title>NWA 2224 Meteorite Surface</title>
 		<link>https://solaranamnesis.com/2019/04/02/nwa-2224-meteorite-surface/</link>
-				<pubDate>Tue, 02 Apr 2019 01:53:45 +0000</pubDate>
+		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2019 01:53:45 +0000</pubDate>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[calcium-aluminium-rich inclusion]]></category>
 		<category><![CDATA[carbonaceous]]></category>
@@ -95,27 +129,12 @@
 		<category><![CDATA[polarized]]></category>
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[surface]]></category>
-
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=2256</guid>
-				<description><![CDATA[Surface panorama of the NWA 2224 meteorite. The images were captured in cross polarized reflected light with a Nikon Z6. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-									</item>
-		<item>
-		<title>NWA 2224 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2019/03/16/nwa-2224-meteorite-thin-section-2/</link>
-				<pubDate>Sat, 16 Mar 2019 20:36:41 +0000</pubDate>
-		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
-				<category><![CDATA[4x/0.25]]></category>
-		<category><![CDATA[carbonaceous]]></category>
-		<category><![CDATA[chondrite]]></category>
-		<category><![CDATA[CV]]></category>
-		<category><![CDATA[LMScope]]></category>
-		<category><![CDATA[Nikon D810]]></category>
-		<category><![CDATA[northwest africa]]></category>
-		<category><![CDATA[scope2]]></category>
-		<category><![CDATA[zerene stacker]]></category>
 
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=2238</guid>
-				<description><![CDATA[Presented here is the second in a series of three large panoramas of the NWA 2224 meteorite. The images were captured with light between polarization filters set to low degree for effect. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
-									</item>
+					<description><![CDATA[Surface panorama of the NWA 2224 meteorite. The images were captured in cross polarized reflected light with a Nikon Z6. Full Screen Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Click to Load Purchase Prints Visit Store]]></description>
+		
+		
+		
+			</item>
 	</channel>
 </rss>

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
 	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
@@ -30,8 +30,9 @@
 	<item>
 		<title>NWA 5426 Meteorite Thin Section</title>
 		<link>https://solaranamnesis.com/2015/12/12/nwa-5426/</link>
-				<pubDate>Sat, 12 Dec 2015 16:18:56 +0000</pubDate>
+		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2015 16:18:56 +0000</pubDate>
 				<category><![CDATA[4x/0.25]]></category>
 		<category><![CDATA[A3550UPA CCD 5MP]]></category>
 		<category><![CDATA[breccia]]></category>
@@ -41,9 +42,12 @@
 		<category><![CDATA[rumuruti]]></category>
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-
 		<guid isPermaLink="false">https://solaranamnesis.com/?p=272</guid>
-				<description><![CDATA[Cross polarized thin section specimen of NWA 5426. There are two really amazing chondrules you should try to find while viewing the panoramas. NWA 5426 is a R Type Chondrite; &#8220;R&#8221; symbolizing the type specimen found in Rumuruti, Kenya. According to Norton&#8217;s The Cambridge Encyclopedia of Meteorites, these R Type Chondrites are mostly brecciated. In [&#8230;]]]></description>
-									</item>
+
+					<description><![CDATA[Cross polarized thin section specimen of NWA 5426. There are two really amazing chondrules you should try to find while viewing the panoramas. NWA 5426 is a R Type Chondrite; &#8220;R&#8221; symbolizing the type specimen found in Rumuruti, Kenya. According to Norton&#8217;s The Cambridge Encyclopedia of Meteorites, these R Type Chondrites are mostly brecciated. In [&#8230;]]]></description>
+		
+		
+		
+			</item>
 	</channel>
 </rss>
