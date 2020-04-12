@@ -4,7 +4,11 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com.vn/</loc>
-	<lastmod>2020-04-08T21:44:06+00:00</lastmod>
+	<lastmod>2020-04-12T18:08:40+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com.vn/2020/04/12/nwa-7859-meteorite-thin-section-2/</loc>
+	<lastmod>2020-04-12T18:03:57+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/2020/04/08/nwa-7859-meteorite-thin-section/</loc>
@@ -452,6 +456,6 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com.vn/about-solar-anamnesis/thin-sections/</loc>
-	<lastmod>2020-04-08T21:38:12+00:00</lastmod>
+	<lastmod>2020-04-12T18:01:08+00:00</lastmod>
 </url>
 </urlset>
