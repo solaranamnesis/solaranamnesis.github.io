@@ -4,7 +4,11 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://solaranamnesis.com/</loc>
-	<lastmod>2020-04-12T18:08:40+00:00</lastmod>
+	<lastmod>2020-04-23T03:00:56+00:00</lastmod>
+</url>
+<url>
+	<loc>https://solaranamnesis.com/2020/04/23/nwa-980-meteorite-thin-section/</loc>
+	<lastmod>2020-04-23T02:49:33+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/2020/04/12/nwa-7859-meteorite-thin-section-2/</loc>
@@ -440,7 +444,7 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com/about-solar-anamnesis/</loc>
-	<lastmod>2019-04-19T00:57:35+00:00</lastmod>
+	<lastmod>2020-04-23T02:56:10+00:00</lastmod>
 </url>
 <url>
 	<loc>https://solaranamnesis.com/about-solar-anamnesis/meteorite-thin-section-purchase/</loc>
@@ -456,6 +460,6 @@
 </url>
 <url>
 	<loc>https://solaranamnesis.com/about-solar-anamnesis/thin-sections/</loc>
-	<lastmod>2020-04-12T18:01:08+00:00</lastmod>
+	<lastmod>2020-04-23T02:51:33+00:00</lastmod>
 </url>
 </urlset>
