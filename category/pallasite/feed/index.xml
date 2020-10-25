@@ -9,8 +9,8 @@
 
 <channel>
 	<title>pallasite &#8211; Solar Anamnesis</title>
-	<atom:link href="https://solaranamnesis.com/category/pallasite/feed/" rel="self" type="application/rss+xml" />
-	<link>https://solaranamnesis.com/</link>
+	<atom:link href="https://blog.solaranamnesis.com/category/pallasite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
 	<lastBuildDate>Fri, 20 Oct 2017 01:09:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
-	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
+	<url>https://blog.solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
 	<title>pallasite &#8211; Solar Anamnesis</title>
-	<link>https://solaranamnesis.com/</link>
+	<link>https://blog.solaranamnesis.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Seymchan Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2016/09/05/seymchan/</link>
+		<link>https://blog.solaranamnesis.com/2016/09/05/seymchan/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Mon, 05 Sep 2016 22:11:45 +0000</pubDate>
@@ -40,7 +40,7 @@
 		<category><![CDATA[polarized]]></category>
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=631</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=631</guid>
 
 					<description><![CDATA[Colorful cross-polarized thin section slice of a mostly olivine piece of the Seymchan meteorite. Russian information: Сеймчан метеорит pictures, click here. Addition information on the Seymchan Pallasite. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit Store]]></description>
 		
@@ -49,7 +49,7 @@
 			</item>
 		<item>
 		<title>Huckitta Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2016/07/26/huckitta/</link>
+		<link>https://blog.solaranamnesis.com/2016/07/26/huckitta/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Tue, 26 Jul 2016 13:49:36 +0000</pubDate>
@@ -62,7 +62,7 @@
 		<category><![CDATA[polarized]]></category>
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=607</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=607</guid>
 
 					<description><![CDATA[Presented here is a thin section slide, illuminated in cross polarized light, of the well-known Huckitta meteorite. It is an anomalous member of the Main Group of Pallasites. Link to PDF of original discovery story with pictures of main mass. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit [&#8230;]]]></description>
 		

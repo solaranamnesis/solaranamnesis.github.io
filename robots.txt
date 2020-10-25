@@ -1,6 +1,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://solaranamnesis.com/sitemap.xml
-Sitemap: https://solaranamnesis.com/sitemap.html
+Sitemap: https://blog.solaranamnesis.com/sitemap.xml
+Sitemap: https://blog.solaranamnesis.com/sitemap.html
 

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>earth &#8211; Solar Anamnesis</title>
-	<atom:link href="https://solaranamnesis.com/category/earth/feed/" rel="self" type="application/rss+xml" />
-	<link>https://solaranamnesis.com/</link>
+	<atom:link href="https://blog.solaranamnesis.com/category/earth/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
 	<lastBuildDate>Fri, 20 Oct 2017 01:12:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
-	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
+	<url>https://blog.solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
 	<title>earth &#8211; Solar Anamnesis</title>
-	<link>https://solaranamnesis.com/</link>
+	<link>https://blog.solaranamnesis.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NWA 5384 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2017/01/01/nwa-5384-meteorite-thin-section/</link>
+		<link>https://blog.solaranamnesis.com/2017/01/01/nwa-5384-meteorite-thin-section/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Sun, 01 Jan 2017 00:53:15 +0000</pubDate>
@@ -41,7 +41,7 @@
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[Tucsen C30 3MP sCMOS]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=822</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=822</guid>
 
 					<description><![CDATA[Primitive achondrite NWA 5384 (provisional) in thin section viewed with cross polarized light. There are additional images of other thin sections at thinsections.ch Daniel Ambrosi (danielambrosi.com) applied a custom version of Google&#8217;s DeepDream software to this panoramic image of NWA 5384. You can view the impressive Dreamscape in Ambrosi&#8217;s Portfolio: &#8220;Dreamscapes 2: From Inner Space [&#8230;]]]></description>
 		
@@ -50,7 +50,7 @@
 			</item>
 		<item>
 		<title>NWA 5400 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2016/03/07/nwa-5400/</link>
+		<link>https://blog.solaranamnesis.com/2016/03/07/nwa-5400/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Mon, 07 Mar 2016 01:48:08 +0000</pubDate>
@@ -62,7 +62,7 @@
 		<category><![CDATA[polarized]]></category>
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=438</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=438</guid>
 
 					<description><![CDATA[A fascinating ungrouped achondrite brachinite-like meteorite, North West Africa 5400 provides a spectacular visual display of an object associated with the Earth at the time of its formation. It is speculated that the parent body of this meteorite was either Earth itself, before the Moon formation or Theia &#8212; the hypothesized object which collided with [&#8230;]]]></description>
 		

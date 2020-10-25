@@ -9,8 +9,8 @@
 
 <channel>
 	<title>metachondrite &#8211; Solar Anamnesis</title>
-	<atom:link href="https://solaranamnesis.com/category/metachondrite/feed/" rel="self" type="application/rss+xml" />
-	<link>https://solaranamnesis.com/</link>
+	<atom:link href="https://blog.solaranamnesis.com/category/metachondrite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
 	<lastBuildDate>Mon, 08 Oct 2018 01:33:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
-	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
+	<url>https://blog.solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
 	<title>metachondrite &#8211; Solar Anamnesis</title>
-	<link>https://solaranamnesis.com/</link>
+	<link>https://blog.solaranamnesis.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NWA 10690 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2017/11/19/nwa-10690-meteorite-thin-section/</link>
+		<link>https://blog.solaranamnesis.com/2017/11/19/nwa-10690-meteorite-thin-section/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Sun, 19 Nov 2017 04:46:34 +0000</pubDate>
@@ -42,7 +42,7 @@
 		<category><![CDATA[polarized]]></category>
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=1839</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=1839</guid>
 
 					<description><![CDATA[This thin section of NWA 10690 gives a unique view of the transformations and processes occurring in ancient times. Within the large grains of similar color can be found smaller grains of various colors, shapes, and sizes which imply internal changes occurring within the source body. Paired with NWA 7030, it belongs to the LL7 [&#8230;]]]></description>
 		

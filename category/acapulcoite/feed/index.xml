@@ -9,8 +9,8 @@
 
 <channel>
 	<title>acapulcoite &#8211; Solar Anamnesis</title>
-	<atom:link href="https://solaranamnesis.com/category/acapulcoite/feed/" rel="self" type="application/rss+xml" />
-	<link>https://solaranamnesis.com/</link>
+	<atom:link href="https://blog.solaranamnesis.com/category/acapulcoite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
 	<lastBuildDate>Mon, 20 Aug 2018 05:34:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
-	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
+	<url>https://blog.solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
 	<title>acapulcoite &#8211; Solar Anamnesis</title>
-	<link>https://solaranamnesis.com/</link>
+	<link>https://blog.solaranamnesis.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Dhofar 125 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2018/08/12/dhofar-125-meteorite-thin-section/</link>
+		<link>https://blog.solaranamnesis.com/2018/08/12/dhofar-125-meteorite-thin-section/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Sun, 12 Aug 2018 22:33:29 +0000</pubDate>
@@ -41,7 +41,7 @@
 		<category><![CDATA[polarized]]></category>
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=1950</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=1950</guid>
 
 					<description><![CDATA[Dhofar 125 has the smallest mineral grains of known acapulcoites. The Meteorite Studies link below gives additional interesting facts, such as the fact that the acapulcoites have elemental ratio compositions identical to that of chondrites. It is also known that all acapulcoites have a narrow cosmic ray age of 4 – 7 million years, perhaps [&#8230;]]]></description>
 		
@@ -50,7 +50,7 @@
 			</item>
 		<item>
 		<title>NWA 2871 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2017/02/21/nwa-2871-meteorite-thin-section/</link>
+		<link>https://blog.solaranamnesis.com/2017/02/21/nwa-2871-meteorite-thin-section/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Tue, 21 Feb 2017 04:00:19 +0000</pubDate>
@@ -62,7 +62,7 @@
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[Tucsen C30 3MP sCMOS]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=1014</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=1014</guid>
 
 					<description><![CDATA[NWA 2871 Meteorite, classification &#8211; acapulcoite. Cross polarized light brings out a wide spectrum of coloration and geometric forms. The thin section has numerous interesting spots which interrupt the otherwise uniform colored textures. More information at Meteorite Studies. View Meteorite Thin Section Panoramas: View on Gigapan &#124; View with krpano Purchase Prints Visit Store]]></description>
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>diogenite &#8211; Solar Anamnesis</title>
-	<atom:link href="https://solaranamnesis.com/category/diogenite/feed/" rel="self" type="application/rss+xml" />
-	<link>https://solaranamnesis.com/</link>
+	<atom:link href="https://blog.solaranamnesis.com/category/diogenite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
 	<lastBuildDate>Fri, 20 Oct 2017 01:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
-	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
+	<url>https://blog.solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
 	<title>diogenite &#8211; Solar Anamnesis</title>
-	<link>https://solaranamnesis.com/</link>
+	<link>https://blog.solaranamnesis.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NWA 2824 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2017/01/28/nwa-2824-meteorite-thin-section/</link>
+		<link>https://blog.solaranamnesis.com/2017/01/28/nwa-2824-meteorite-thin-section/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Sat, 28 Jan 2017 17:07:55 +0000</pubDate>
@@ -40,7 +40,7 @@
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[Tucsen C30 3MP sCMOS]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=955</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=955</guid>
 
 					<description><![CDATA[Cross polarized thin section of NWA 2824, a diogenite with a multitude of white-gray needle like inclusions which, in their color and texture, resemble those found in the Ibitira Meteorite Thin Section. These are described as &#8220;Plagioclase recrystallized into complex spherulitic textures.&#8221;  See this link for more classification information on diogenites. Impactika has nice close-up [&#8230;]]]></description>
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>scope1 &#8211; Solar Anamnesis</title>
-	<atom:link href="https://solaranamnesis.com/category/scope1/feed/" rel="self" type="application/rss+xml" />
-	<link>https://solaranamnesis.com/</link>
+	<atom:link href="https://blog.solaranamnesis.com/category/scope1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.solaranamnesis.com/</link>
 	<description>Scenes from the Solar System&#039;s Youth</description>
 	<lastBuildDate>Fri, 20 Oct 2017 01:17:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.4</generator>
 
 <image>
-	<url>https://solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
+	<url>https://blog.solaranamnesis.com/wp-content/uploads/2016/12/144734287N03_l.jpg</url>
 	<title>scope1 &#8211; Solar Anamnesis</title>
-	<link>https://solaranamnesis.com/</link>
+	<link>https://blog.solaranamnesis.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>D&#8217;Orbigny Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2015/09/23/dorbigny/</link>
+		<link>https://blog.solaranamnesis.com/2015/09/23/dorbigny/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Wed, 23 Sep 2015 01:30:55 +0000</pubDate>
@@ -44,7 +44,7 @@
 		<category><![CDATA[scope1]]></category>
 		<category><![CDATA[scope2]]></category>
 		<category><![CDATA[zerene stacker]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=30</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=30</guid>
 
 					<description><![CDATA[This is a thin section specimen of the D&#8217;Orbigny Meteorite. The thin section photographs were taken under cross polarized light using two linear polarizing filters. The first set of pictures is from a nicer CCD and microscope. For a good link to more Angrite pictures, see here. Angrites always look spectacular in polarized light. Link [&#8230;]]]></description>
 		
@@ -53,7 +53,7 @@
 			</item>
 		<item>
 		<title>Pasamonte Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2015/09/23/pasamonte/</link>
+		<link>https://blog.solaranamnesis.com/2015/09/23/pasamonte/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Wed, 23 Sep 2015 01:28:40 +0000</pubDate>
@@ -63,7 +63,7 @@
 		<category><![CDATA[named fall]]></category>
 		<category><![CDATA[polarized]]></category>
 		<category><![CDATA[scope1]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=27</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=27</guid>
 
 					<description><![CDATA[Taken in cross polarized light, this is a remarkably beautiful thin section of the Pasamonte Meteorite. The Pasamonte Meteorite is famous in history as the first observed fall to be photographed. Harvey Nininger played an important role in cataloging and recovering many of the specimens currently located in museums and private collections. The Pasamonte Meteorite [&#8230;]]]></description>
 		
@@ -72,7 +72,7 @@
 			</item>
 		<item>
 		<title>NWA 8687 Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2015/09/23/nwa-8687/</link>
+		<link>https://blog.solaranamnesis.com/2015/09/23/nwa-8687/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Wed, 23 Sep 2015 01:27:28 +0000</pubDate>
@@ -81,7 +81,7 @@
 		<category><![CDATA[northwest africa]]></category>
 		<category><![CDATA[polarized]]></category>
 		<category><![CDATA[scope1]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=24</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=24</guid>
 
 					<description><![CDATA[NWA 8687 Lunar Troctolite Meteorite. View Meteorite Thin Section Panoramas: View and interact with image on Gigapan &#124; View Panorama with krpano Purchase Prints Visit Store]]></description>
 		
@@ -90,7 +90,7 @@
 			</item>
 		<item>
 		<title>Allende Meteorite Thin Section</title>
-		<link>https://solaranamnesis.com/2015/09/23/allende/</link>
+		<link>https://blog.solaranamnesis.com/2015/09/23/allende/</link>
 		
 		<dc:creator><![CDATA[solaranamnesis]]></dc:creator>
 		<pubDate>Wed, 23 Sep 2015 01:12:09 +0000</pubDate>
@@ -101,7 +101,7 @@
 		<category><![CDATA[named fall]]></category>
 		<category><![CDATA[polarized]]></category>
 		<category><![CDATA[scope1]]></category>
-		<guid isPermaLink="false">https://solaranamnesis.com/?p=11</guid>
+		<guid isPermaLink="false">https://blog.solaranamnesis.com/?p=11</guid>
 
 					<description><![CDATA[Thin section specimen of the Allende meteorite. Carbonaceous chondrite with numerous Calcium-Aluminum-Inclusions (CAIs). More information at Marmet Meteorites. View Meteorite Thin Section Panoramas: Interact with this image on Gigapan &#124; View Panorama with krpano (Preferred) Purchase Prints Visit Store]]></description>
 		
