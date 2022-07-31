@@ -248,7 +248,7 @@
 <p>33. Add background color as layer.</p>
 <p>34. Export final image as TIFF.</p>
 <p>35. Scale final image to low percentage for web viewing.</p>
-<p>Note, if the image is too big, i.e. larger than 4GB you will be unable to export it in one piece with GIMP as a TIFF. (Update June 2022: The latest version of GIMP supports the import and export of BiggTiff, so this step is optional) Thus, in GIMP you should add horizontal/vertical guide lines and then use the image guillotine tool to export individual images. Then, with ImageMagick use the command:</p>
+<p>Note, if the image is too big, i.e. larger than 4GB you will be unable to export it in one piece with GIMP as a TIFF. (Update June 2022: The latest version of GIMP, 2.10.32, supports the import and export of BigTIFF, so this step is now optional) Thus, in GIMP you should add horizontal/vertical guide lines and then use the image guillotine tool to export individual images. Then, with ImageMagick use the command:</p>
 <p>convert Image1.tiff Image2.tiff &#8230; -append TIFF64:Output.tiff</p>
 <p>36. Create krpano images.</p>
 <p>37. Upload to Gigapan.</p>
