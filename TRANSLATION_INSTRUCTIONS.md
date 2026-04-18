@@ -79,6 +79,8 @@ And:
 <title>Solar Anamnesis &#8211; Scènes de la Jeunesse du Système Solaire</title>
 ```
 
+**Note:** The `&#039;` entity (apostrophe in "System's") may not be needed in the target language. Replace the entire subtitle portion including any entities with the translated text from the JSON.
+
 #### Step 2.4: Update Navigation Menu Items
 
 The navigation menu appears **twice** in the HTML (once in `#widgets-wrapper` around line 41-45, and once in `#site-navigation` around line 175-179). Update **both** instances:
@@ -293,8 +295,7 @@ Below is the complete mapping of English text → location in HTML for the root 
 | 99 | `Become a Friend of GNOME` | 348 | `<img alt="...">` |
 | 100 | `[ GNU Link]` | 349 | `<img alt="...">` |
 | 101 | `Proudly powered by WordPress` | 350 | `<a>` text |
-| 102 | `Theme: Ryu by` | 352 | text node |
-| 103 | `WordPress.com` | 352 | `<a>` text (keep as-is, it's a proper noun/brand) |
+| 102 | `Theme: Ryu by WordPress.com` | 352 | Mixed text node + `<a>` link. Translate the pattern "Theme: Ryu by" while keeping "WordPress.com" as the `<a>` link text (it's a proper noun/brand). E.g., French: `Thème : Ryu par <a ...>WordPress.com</a>.` |
 
 ### Screen Reader / Format Badges
 | # | English Text | Lines | HTML Context |
