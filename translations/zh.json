@@ -1,0 +1,129 @@
+{
+  "extraction_date": "2026-04-18",
+  "source_file": "pasted-content-2026-04-18T04-15-59.txt",
+  "website_title": "Solar Anamnesis | 太阳系青春时期的景象",
+  "navigation_main": [
+    "仪表板",
+    "关于",
+    "画廊",
+    "商店",
+    "全景画廊"
+  ],
+  "sidebar_widgets": [
+    "搜索",
+    "搜索 Solar Anamnesis",
+    "陨石照片分类"
+  ],
+  "meteorite_categories": [
+    {"name": "10x/0.25", "count": 17},
+    {"name": "4x/0.25", "count": 86},
+    {"name": "A35140U CCD 14MP", "count": 10},
+    {"name": "A3550UPA CCD 5MP", "count": 37},
+    {"name": "阿帕卢科伊特", "count": 2},
+    {"name": "无球粒陨石", "count": 27},
+    {"name": "古铜钙长无球粒陨石", "count": 9},
+    {"name": "顽辉无球粒陨石", "count": 1},
+    {"name": "澳大利亚", "count": 3},
+    {"name": "角砾岩", "count": 13},
+    {"name": "富钙铝包裹体", "count": 9},
+    {"name": "碳质", "count": 19},
+    {"name": "球粒陨石", "count": 43},
+    {"name": "CO", "count": 4},
+    {"name": "CV", "count": 3},
+    {"name": "达阿勒加尼", "count": 2},
+    {"name": "辉石无球粒陨石", "count": 1},
+    {"name": "纯橄榄岩", "count": 1},
+    {"name": "地球", "count": 2},
+    {"name": "顽火辉石", "count": 2},
+    {"name": "钙长辉长无球粒陨石", "count": 9},
+    {"name": "霍华德石", "count": 1},
+    {"name": "LMScope", "count": 52},
+    {"name": "洛德兰石", "count": 2},
+    {"name": "月球", "count": 9},
+    {"name": "火星", "count": 12},
+    {"name": "中石铁陨石", "count": 1},
+    {"name": "变球粒陨石", "count": 1},
+    {"name": "命名坠落", "count": 30},
+    {"name": "Nikon D810", "count": 45},
+    {"name": "Nikon Z6", "count": 7},
+    {"name": "西北非", "count": 63},
+    {"name": "普通球粒陨石", "count": 19},
+    {"name": "帕拉斯陨石", "count": 2},
+    {"name": "偏振", "count": 98},
+    {"name": "原始无球粒陨石", "count": 3},
+    {"name": "鲁穆鲁提", "count": 1},
+    {"name": "scope1", "count": 4},
+    {"name": "scope2", "count": 103},
+    {"name": "表面", "count": 5},
+    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
+    {"name": "未覆盖", "count": 1},
+    {"name": "优雷林陨石", "count": 2},
+    {"name": "波延迟器", "count": 5},
+    {"name": "zerene stacker", "count": 99}
+  ],
+  "articles": [
+    {
+      "title": "NWA 980 陨石薄片",
+      "date": "2020 年 4 月 23 日",
+      "time": "凌晨 2:24",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "球粒陨石", "LMScope", "Nikon Z6", "西北非", "普通球粒陨石", "scope2", "zerene stacker"],
+      "body_text": [
+        "NWA 980 陨石的精美薄片，带有一个非常有趣的看似不同岩石学的大碎片。",
+        "全屏陨石薄片全景：",
+        "在 Gigapan 上查看",
+        "使用 krpano 查看",
+        "点击加载",
+        "在 Flickr 上查看",
+        "在 Tumblr 上查看"
+      ],
+      "image_caption": "NWA 980 陨石薄片"
+    },
+    {
+      "title": "NWA 7859 陨石薄片",
+      "date": "2020 年 4 月 12 日",
+      "time": "下午 5:59",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "球粒陨石", "LMScope", "Nikon Z6", "西北非", "普通球粒陨石", "偏振", "scope2", "zerene stacker"],
+      "body_text": [
+        "前一篇帖子中展示的相同薄片在此处以交叉偏振光显示。",
+        "全屏陨石薄片全景：",
+        "在 Gigapan 上查看",
+        "使用 krpano 查看",
+        "点击加载",
+        "在 Flickr 上查看",
+        "在 Tumblr 上查看"
+      ],
+      "image_caption": "NWA 7859 陨石薄片"
+    },
+    {
+      "title": "NWA 7859 陨石薄片",
+      "date": "2020 年 4 月 8 日",
+      "time": "晚上 9:31",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "球粒陨石", "LMScope", "Nikon Z6", "西北非", "普通球粒陨石", "scope2", "zerene stacker"],
+      "body_text": [
+        "这个 L3 型 NWA 7859 陨石可见光薄片的十亿像素马赛克包含一些高度异常的包裹体，这些包裹体似乎以特征性方式分组在一起。",
+        "全屏陨石薄片全景：",
+        "在 Gigapan 上查看",
+        "使用 krpano 查看",
+        "点击加载",
+        "在 Flickr 上查看",
+        "在 Tumblr 上查看"
+      ],
+      "image_caption": "NWA 7859 陨石薄片"
+    }
+  ],
+  "site_metadata": {
+    "platform": "WordPress 5.4",
+    "theme": "由 WordPress.com 提供的 Ryu 主题",
+    "site_description": "太阳系青春时期的景象",
+    "footer_links": [
+      "成为 GNOME 之友",
+      "GNU 链接",
+      "自豪地由 WordPress 提供支持",
+      "主题：由 WordPress.com 提供的 Ryu"
+    ]
+  },
+  "navigation_elements": ["小部件", "跳至内容", "菜单", "较旧的帖子"]
+}
