@@ -1,0 +1,129 @@
+{
+  "extraction_date": "2026-04-18",
+  "source_file": "pasted-content-2026-04-18T04-15-59.txt",
+  "website_title": "Solar Anamnesis | Cenas da Juventude do Sistema Solar",
+  "navigation_main": [
+    "Painel de Controle",
+    "Sobre",
+    "Galeria",
+    "Loja",
+    "Galeria de Panoramas"
+  ],
+  "sidebar_widgets": [
+    "Pesquisar",
+    "Pesquisar Solar Anamnesis",
+    "Categorias de Fotos de Meteoritos"
+  ],
+  "meteorite_categories": [
+    {"name": "10x/0.25", "count": 17},
+    {"name": "4x/0.25", "count": 86},
+    {"name": "A35140U CCD 14MP", "count": 10},
+    {"name": "A3550UPA CCD 5MP", "count": 37},
+    {"name": "acapulcoito", "count": 2},
+    {"name": "acondrito", "count": 27},
+    {"name": "angrito", "count": 9},
+    {"name": "aubrito", "count": 1},
+    {"name": "Austrália", "count": 3},
+    {"name": "brecha", "count": 13},
+    {"name": "inclusão rica em cálcio e alumínio", "count": 9},
+    {"name": "carbonáceo", "count": 19},
+    {"name": "condrito", "count": 43},
+    {"name": "CO", "count": 4},
+    {"name": "CV", "count": 3},
+    {"name": "Dar al Gani", "count": 2},
+    {"name": "diogenito", "count": 1},
+    {"name": "dunito", "count": 1},
+    {"name": "Terra", "count": 2},
+    {"name": "enstatito", "count": 2},
+    {"name": "eucrito", "count": 9},
+    {"name": "howardito", "count": 1},
+    {"name": "LMScope", "count": 52},
+    {"name": "lodranito", "count": 2},
+    {"name": "lunar", "count": 9},
+    {"name": "Marte", "count": 12},
+    {"name": "mesossiderito", "count": 1},
+    {"name": "metaccondrito", "count": 1},
+    {"name": "queda nomeada", "count": 30},
+    {"name": "Nikon D810", "count": 45},
+    {"name": "Nikon Z6", "count": 7},
+    {"name": "noroeste da África", "count": 63},
+    {"name": "condrito ordinário", "count": 19},
+    {"name": "pallasito", "count": 2},
+    {"name": "polarizado", "count": 98},
+    {"name": "acondrito primitivo", "count": 3},
+    {"name": "Rumuruti", "count": 1},
+    {"name": "scope1", "count": 4},
+    {"name": "scope2", "count": 103},
+    {"name": "superfície", "count": 5},
+    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
+    {"name": "descoberto", "count": 1},
+    {"name": "ureilito", "count": 2},
+    {"name": "atrasador de onda", "count": 5},
+    {"name": "zerene stacker", "count": 99}
+  ],
+  "articles": [
+    {
+      "title": "Lâmina Delgada do Meteorito NWA 980",
+      "date": "23 de abril de 2020",
+      "time": "02:24",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "condrito", "LMScope", "Nikon Z6", "noroeste da África", "condrito ordinário", "scope2", "zerene stacker"],
+      "body_text": [
+        "Bonita lâmina delgada do meteorito NWA 980 com um grande fragmento muito interessante de litologia aparentemente diferente.",
+        "Panoramas de lâminas delgadas de meteoritos em tela cheia:",
+        "Ver no Gigapan",
+        "Ver com krpano",
+        "Clique para carregar",
+        "Ver no Flickr",
+        "Ver no Tumblr"
+      ],
+      "image_caption": "Lâmina Delgada do Meteorito NWA 980"
+    },
+    {
+      "title": "Lâmina Delgada do Meteorito NWA 7859",
+      "date": "12 de abril de 2020",
+      "time": "17:59",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "condrito", "LMScope", "Nikon Z6", "noroeste da África", "condrito ordinário", "polarizado", "scope2", "zerene stacker"],
+      "body_text": [
+        "A mesma lâmina delgada apresentada na postagem anterior é vista aqui em luz polarizada cruzada.",
+        "Panoramas de lâminas delgadas de meteoritos em tela cheia:",
+        "Ver no Gigapan",
+        "Ver com krpano",
+        "Clique para carregar",
+        "Ver no Flickr",
+        "Ver no Tumblr"
+      ],
+      "image_caption": "Lâmina Delgada do Meteorito NWA 7859"
+    },
+    {
+      "title": "Lâmina Delgada do Meteorito NWA 7859",
+      "date": "8 de abril de 2020",
+      "time": "21:31",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "condrito", "LMScope", "Nikon Z6", "noroeste da África", "condrito ordinário", "scope2", "zerene stacker"],
+      "body_text": [
+        "Este mosaico gigapixel de lâmina delgada em luz visível do meteorito L3 NWA 7859 contém algumas inclusões altamente incomuns que parecem estar agrupadas de forma característica.",
+        "Panoramas de lâminas delgadas de meteoritos em tela cheia:",
+        "Ver no Gigapan",
+        "Ver com krpano",
+        "Clique para carregar",
+        "Ver no Flickr",
+        "Ver no Tumblr"
+      ],
+      "image_caption": "Lâmina Delgada do Meteorito NWA 7859"
+    }
+  ],
+  "site_metadata": {
+    "platform": "WordPress 5.4",
+    "theme": "Ryu por WordPress.com",
+    "site_description": "Cenas da Juventude do Sistema Solar",
+    "footer_links": [
+      "Torne-se um amigo do GNOME",
+      "Link GNU",
+      "Com orgulho movido por WordPress",
+      "Tema: Ryu por WordPress.com"
+    ]
+  },
+  "navigation_elements": ["Widgets", "Ir para o conteúdo", "Menu", "Postagens antigas"]
+}
