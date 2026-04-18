@@ -125,6 +125,15 @@ Use the `meteorite_categories` array from the JSON, matching by position (the or
 
 **Note:** Some category names are proper nouns or technical terms that may stay the same (e.g., "CO", "CV", "LMScope", "Nikon D810"). Use whatever the JSON provides.
 
+**Important — Two distinct HTML patterns for categories:**
+
+Category names appear in **two different HTML contexts** that require separate find-and-replace patterns:
+
+1. **Sidebar categories** (lines 50-139): Pattern is `/category/SLUG/">CATEGORY_NAME</a>`
+2. **Article category tags** (lines 194, 240, 286): Pattern is `/category/SLUG/" rel="category tag">CATEGORY_NAME</a>`
+
+Both patterns must be replaced. A simple global replace on `>CATEGORY_NAME</a>` will handle both, but if using context-aware matching, be sure to target both patterns.
+
 #### Step 2.7: Update Accessibility & UI Strings
 
 | English | Location | JSON source |
@@ -165,9 +174,12 @@ For each of the three articles (posts), update:
    - "View on Gigapan" → body_text[2]
    - "View with krpano" → body_text[3]
    - "Click to Load" → body_text[4]
-   - "Purchase Prints" / "Visit Store" links → see `body_text[5]` and `body_text[6]` if provided
+
+**Known issue with body_text[5] and body_text[6]:** The JSON may provide translations labeled "View on Flickr" / "View on Tumblr" (body_text[5] and body_text[6]), but the actual HTML contains "Purchase Prints" and "Visit Store" at those positions. These strings need to be translated separately — do **not** use body_text[5] or body_text[6] from the JSON for these. Translate "Purchase Prints" and "Visit Store" manually or add them to the JSON schema as `purchase_prints` and `visit_store` fields.
 
 **Important:** The "View on Gigapan | View with krpano" text has both link texts on one line separated by " | ". Replace each link text individually.
+
+**Important — Article 3 embedded link:** Article 3's body paragraph contains an inline `<a>` link around "NWA 7859" in the text. When replacing this paragraph, the `<a href="...">NWA 7859</a>` link must be preserved in the translated text. The JSON body_text provides the translation as plain text (without the link), so the translator must manually reinsert the link around "NWA 7859" in the French output.
 
 #### Step 2.10: Update Footer
 
@@ -373,3 +385,19 @@ To add a new language translation:
 - **Hreflang tags** — Add `<link rel="alternate" hreflang="fr" href="index-fr.html" />` tags to each page for SEO
 - **RTL support** — For Arabic (`ar`) and Hebrew (`he`), add `dir="rtl"` to `<html>` tag
 - **Automated CI validation** — GitHub Action to validate translated files haven't drifted from the English structure
+
+---
+
+## Known Issues Discovered During French Translation
+
+These issues were found when creating `index-fr.html` and should be addressed for future translations:
+
+1. **JSON body_text[5] and body_text[6] mismatch:** The JSON provides "Voir sur Flickr" and "Voir sur Tumblr" but the HTML has "Purchase Prints" and "Visit Store" at those positions. The JSON extraction tool apparently misidentified these strings. For the French translation, we used manual translations: "Acheter des tirages" and "Visiter la boutique". Future JSON files should include correct translations for these fields, or add dedicated `purchase_prints` and `visit_store` fields to the schema.
+
+2. **Article category tags use a different HTML pattern than sidebar categories:** Sidebar uses `/category/SLUG/">NAME</a>` while article tags use `/category/SLUG/" rel="category tag">NAME</a>`. Any automated script must target **both** patterns to fully translate category display names.
+
+3. **Article 3 body paragraph has an embedded `<a>` link:** The JSON provides body_text as plain text, but the HTML wraps "NWA 7859" in a hyperlink (`<a href="...">NWA 7859</a>`). The translation script must preserve this link structure while replacing the surrounding text.
+
+4. **"View all posts by solaranamnesis" title attribute:** This `title` attribute on the author link was not included in the JSON and remains in English. Future JSON schemas should include this string.
+
+5. **"A Semantic Personal Publishing Platform" title attribute:** This `title` on the WordPress footer link was not included in the JSON and remains in English. It's a minor accessibility string.
