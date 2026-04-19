@@ -15,51 +15,186 @@
     "Kategorier for meteorittbilder"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "acapulcoitt", "count": 2},
-    {"name": "achondritt", "count": 27},
-    {"name": "angritt", "count": 9},
-    {"name": "aubritt", "count": 1},
-    {"name": "Australia", "count": 3},
-    {"name": "breksje", "count": 13},
-    {"name": "kalsium- og aluminiumsrike inneslutninger", "count": 9},
-    {"name": "karbonholdig", "count": 19},
-    {"name": "chondritt", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "Dar al Gani", "count": 2},
-    {"name": "diogenitt", "count": 1},
-    {"name": "dunit", "count": 1},
-    {"name": "Jorden", "count": 2},
-    {"name": "enstatitt", "count": 2},
-    {"name": "eukritt", "count": 9},
-    {"name": "howarditt", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranitt", "count": 2},
-    {"name": "Månen", "count": 9},
-    {"name": "Mars", "count": 12},
-    {"name": "mesosideritt", "count": 1},
-    {"name": "metachondritt", "count": 1},
-    {"name": "navngitt fall", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "Nordvest-Afrika", "count": 63},
-    {"name": "vanlig chondritt", "count": 19},
-    {"name": "pallasitt", "count": 2},
-    {"name": "polarisert", "count": 98},
-    {"name": "primitiv achondritt", "count": 3},
-    {"name": "Rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "overflate", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "u-dekket", "count": 1},
-    {"name": "ureilit", "count": 2},
-    {"name": "bølgeforsinkelse", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "acapulcoitt",
+      "count": 2
+    },
+    {
+      "name": "achondritt",
+      "count": 27
+    },
+    {
+      "name": "angritt",
+      "count": 9
+    },
+    {
+      "name": "aubritt",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 3
+    },
+    {
+      "name": "breksje",
+      "count": 13
+    },
+    {
+      "name": "kalsium- og aluminiumsrike inneslutninger",
+      "count": 9
+    },
+    {
+      "name": "karbonholdig",
+      "count": 19
+    },
+    {
+      "name": "chondritt",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "Dar al Gani",
+      "count": 2
+    },
+    {
+      "name": "diogenitt",
+      "count": 1
+    },
+    {
+      "name": "dunit",
+      "count": 1
+    },
+    {
+      "name": "Jorden",
+      "count": 2
+    },
+    {
+      "name": "enstatitt",
+      "count": 2
+    },
+    {
+      "name": "eukritt",
+      "count": 9
+    },
+    {
+      "name": "howarditt",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranitt",
+      "count": 2
+    },
+    {
+      "name": "Månen",
+      "count": 9
+    },
+    {
+      "name": "Mars",
+      "count": 12
+    },
+    {
+      "name": "mesosideritt",
+      "count": 1
+    },
+    {
+      "name": "metachondritt",
+      "count": 1
+    },
+    {
+      "name": "navngitt fall",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "Nordvest-Afrika",
+      "count": 63
+    },
+    {
+      "name": "vanlig chondritt",
+      "count": 19
+    },
+    {
+      "name": "pallasitt",
+      "count": 2
+    },
+    {
+      "name": "polarisert",
+      "count": 98
+    },
+    {
+      "name": "primitiv achondritt",
+      "count": 3
+    },
+    {
+      "name": "Rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "overflate",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "u-dekket",
+      "count": 1
+    },
+    {
+      "name": "ureilit",
+      "count": 2
+    },
+    {
+      "name": "bølgeforsinkelse",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
@@ -67,15 +202,24 @@
       "date": "23. april 2020",
       "time": "02:24",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondritt", "LMScope", "Nikon Z6", "Nordvest-Afrika", "vanlig chondritt", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondritt",
+        "LMScope",
+        "Nikon Z6",
+        "Nordvest-Afrika",
+        "vanlig chondritt",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Vakkert tynn slip av meteoritten NWA 980 med et svært interessant stort fragment av tilsynelatende annen litologi.",
         "Panoramaer av meteoritt-tynde sliper på full skjerm:",
         "Se på Gigapan",
         "Se med krpano",
         "Klikk for å laste inn",
-        "Se på Flickr",
-        "Se på Tumblr"
+        "Kjøp Trykk",
+        "Besøk Butikken"
       ],
       "image_caption": "Tynn slip av meteoritten NWA 980"
     },
@@ -84,15 +228,25 @@
       "date": "12. april 2020",
       "time": "17:59",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondritt", "LMScope", "Nikon Z6", "Nordvest-Afrika", "vanlig chondritt", "polarisert", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondritt",
+        "LMScope",
+        "Nikon Z6",
+        "Nordvest-Afrika",
+        "vanlig chondritt",
+        "polarisert",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Den samme tynne slipen som ble presentert i forrige innlegg, er synlig her i krysspolarisert lys.",
         "Panoramaer av meteoritt-tynde sliper på full skjerm:",
         "Se på Gigapan",
         "Se med krpano",
         "Klikk for å laste inn",
-        "Se på Flickr",
-        "Se på Tumblr"
+        "Kjøp Trykk",
+        "Besøk Butikken"
       ],
       "image_caption": "Tynn slip av meteoritten NWA 7859"
     },
@@ -101,15 +255,24 @@
       "date": "8. april 2020",
       "time": "21:31",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondritt", "LMScope", "Nikon Z6", "Nordvest-Afrika", "vanlig chondritt", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondritt",
+        "LMScope",
+        "Nikon Z6",
+        "Nordvest-Afrika",
+        "vanlig chondritt",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Dette gigapixel-mosaikken av en tynn slip i synlig lys av meteoritten L3 NWA 7859 inneholder noen svært uvanlige inneslutninger som ser ut til å være gruppert på en karakteristisk måte.",
         "Panoramaer av meteoritt-tynde sliper på full skjerm:",
         "Se på Gigapan",
         "Se med krpano",
         "Klikk for å laste inn",
-        "Se på Flickr",
-        "Se på Tumblr"
+        "Kjøp Trykk",
+        "Besøk Butikken"
       ],
       "image_caption": "Tynn slip av meteoritten NWA 7859"
     }
@@ -125,5 +288,10 @@
       "Tema: Ryu av WordPress.com"
     ]
   },
-  "navigation_elements": ["Widgets", "Gå til innhold", "Meny", "Eldre innlegg"]
+  "navigation_elements": [
+    "Widgets",
+    "Gå til innhold",
+    "Meny",
+    "Eldre innlegg"
+  ]
 }

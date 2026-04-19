@@ -15,51 +15,186 @@
     "Categorías de fotos de meteoritos"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "acapulcoita", "count": 2},
-    {"name": "acondrita", "count": 27},
-    {"name": "angrita", "count": 9},
-    {"name": "aubrita", "count": 1},
-    {"name": "Australia", "count": 3},
-    {"name": "brecha", "count": 13},
-    {"name": "inclusión rica en calcio y aluminio", "count": 9},
-    {"name": "carbonácea", "count": 19},
-    {"name": "condrita", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "Dar al Gani", "count": 2},
-    {"name": "diogenita", "count": 1},
-    {"name": "dunita", "count": 1},
-    {"name": "tierra", "count": 2},
-    {"name": "enstatita", "count": 2},
-    {"name": "eucrita", "count": 9},
-    {"name": "howardita", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranita", "count": 2},
-    {"name": "lunar", "count": 9},
-    {"name": "Marte", "count": 12},
-    {"name": "mesosiderita", "count": 1},
-    {"name": "metaccondrita", "count": 1},
-    {"name": "caída nombrada", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "noroeste de África", "count": 63},
-    {"name": "condrita ordinaria", "count": 19},
-    {"name": "pallasita", "count": 2},
-    {"name": "polarizada", "count": 98},
-    {"name": "acondrita primitiva", "count": 3},
-    {"name": "Rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "superficie", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "descubierta", "count": 1},
-    {"name": "ureilita", "count": 2},
-    {"name": "retrasador de onda", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "acapulcoita",
+      "count": 2
+    },
+    {
+      "name": "acondrita",
+      "count": 27
+    },
+    {
+      "name": "angrita",
+      "count": 9
+    },
+    {
+      "name": "aubrita",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 3
+    },
+    {
+      "name": "brecha",
+      "count": 13
+    },
+    {
+      "name": "inclusión rica en calcio y aluminio",
+      "count": 9
+    },
+    {
+      "name": "carbonácea",
+      "count": 19
+    },
+    {
+      "name": "condrita",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "Dar al Gani",
+      "count": 2
+    },
+    {
+      "name": "diogenita",
+      "count": 1
+    },
+    {
+      "name": "dunita",
+      "count": 1
+    },
+    {
+      "name": "tierra",
+      "count": 2
+    },
+    {
+      "name": "enstatita",
+      "count": 2
+    },
+    {
+      "name": "eucrita",
+      "count": 9
+    },
+    {
+      "name": "howardita",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranita",
+      "count": 2
+    },
+    {
+      "name": "lunar",
+      "count": 9
+    },
+    {
+      "name": "Marte",
+      "count": 12
+    },
+    {
+      "name": "mesosiderita",
+      "count": 1
+    },
+    {
+      "name": "metaccondrita",
+      "count": 1
+    },
+    {
+      "name": "caída nombrada",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "noroeste de África",
+      "count": 63
+    },
+    {
+      "name": "condrita ordinaria",
+      "count": 19
+    },
+    {
+      "name": "pallasita",
+      "count": 2
+    },
+    {
+      "name": "polarizada",
+      "count": 98
+    },
+    {
+      "name": "acondrita primitiva",
+      "count": 3
+    },
+    {
+      "name": "Rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "superficie",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "descubierta",
+      "count": 1
+    },
+    {
+      "name": "ureilita",
+      "count": 2
+    },
+    {
+      "name": "retrasador de onda",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
@@ -67,15 +202,24 @@
       "date": "23 de abril de 2020",
       "time": "2:24 a. m.",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "condrita", "LMScope", "Nikon Z6", "noroeste de África", "condrita ordinaria", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "condrita",
+        "LMScope",
+        "Nikon Z6",
+        "noroeste de África",
+        "condrita ordinaria",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Hermosa sección delgada del meteorito NWA 980 con un fragmento grande e interesante de litología aparentemente diferente.",
         "Panoramas de sección delgada de meteoritos en pantalla completa:",
         "Ver en Gigapan",
         "Ver con krpano",
         "Haga clic para cargar",
-        "Ver en Flickr",
-        "Ver en Tumblr"
+        "Comprar Impresiones",
+        "Visitar Tienda"
       ],
       "image_caption": "Sección delgada del meteorito NWA 980"
     },
@@ -84,15 +228,25 @@
       "date": "12 de abril de 2020",
       "time": "5:59 p. m.",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "condrita", "LMScope", "Nikon Z6", "noroeste de África", "condrita ordinaria", "polarizada", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "condrita",
+        "LMScope",
+        "Nikon Z6",
+        "noroeste de África",
+        "condrita ordinaria",
+        "polarizada",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "La misma sección delgada presentada en la publicación anterior se ve aquí en luz polarizada cruzada.",
         "Panoramas de sección delgada de meteoritos en pantalla completa:",
         "Ver en Gigapan",
         "Ver con krpano",
         "Haga clic para cargar",
-        "Ver en Flickr",
-        "Ver en Tumblr"
+        "Comprar Impresiones",
+        "Visitar Tienda"
       ],
       "image_caption": "Sección delgada del meteorito NWA 7859"
     },
@@ -101,15 +255,24 @@
       "date": "8 de abril de 2020",
       "time": "9:31 p. m.",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "condrita", "LMScope", "Nikon Z6", "noroeste de África", "condrita ordinaria", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "condrita",
+        "LMScope",
+        "Nikon Z6",
+        "noroeste de África",
+        "condrita ordinaria",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Este mosaico gigapíxel de sección delgada en luz visible del meteorito L3 NWA 7859 contiene algunas inclusiones altamente inusuales que parecen estar agrupadas de manera característica.",
         "Panoramas de sección delgada de meteoritos en pantalla completa:",
         "Ver en Gigapan",
         "Ver con krpano",
         "Haga clic para cargar",
-        "Ver en Flickr",
-        "Ver en Tumblr"
+        "Comprar Impresiones",
+        "Visitar Tienda"
       ],
       "image_caption": "Sección delgada del meteorito NWA 7859"
     }
@@ -125,5 +288,10 @@
       "Tema: Ryu por WordPress.com"
     ]
   },
-  "navigation_elements": ["Widgets", "Saltar al contenido", "Menú", "Publicaciones anteriores"]
+  "navigation_elements": [
+    "Widgets",
+    "Saltar al contenido",
+    "Menú",
+    "Publicaciones anteriores"
+  ]
 }

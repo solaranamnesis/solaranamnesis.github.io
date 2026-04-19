@@ -15,51 +15,186 @@
     "Meteorito kuyuchiykuna"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "acapulcoite", "count": 2},
-    {"name": "achondrite", "count": 27},
-    {"name": "angrite", "count": 9},
-    {"name": "aubrite", "count": 1},
-    {"name": "Australia", "count": 3},
-    {"name": "breccia", "count": 13},
-    {"name": "calcium-hina aluminium-hina churanakuna", "count": 9},
-    {"name": "carbono", "count": 19},
-    {"name": "chondrite", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "Dar al Gani", "count": 2},
-    {"name": "diogenite", "count": 1},
-    {"name": "dunite", "count": 1},
-    {"name": "Pacha", "count": 2},
-    {"name": "enstatite", "count": 2},
-    {"name": "eucrite", "count": 9},
-    {"name": "howardite", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranite", "count": 2},
-    {"name": "Killa", "count": 9},
-    {"name": "Mars", "count": 12},
-    {"name": "mesosiderite", "count": 1},
-    {"name": "metachondrite", "count": 1},
-    {"name": "sutichasqa urmay", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "Antikuna ñawpaqman", "count": 63},
-    {"name": "allin chondrite", "count": 19},
-    {"name": "pallasite", "count": 2},
-    {"name": "polarizado", "count": 98},
-    {"name": "ñawpaq achondrite", "count": 3},
-    {"name": "Rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "q'uñi", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "mana tapasqa", "count": 1},
-    {"name": "ureilite", "count": 2},
-    {"name": "onda hark'ay", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "acapulcoite",
+      "count": 2
+    },
+    {
+      "name": "achondrite",
+      "count": 27
+    },
+    {
+      "name": "angrite",
+      "count": 9
+    },
+    {
+      "name": "aubrite",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 3
+    },
+    {
+      "name": "breccia",
+      "count": 13
+    },
+    {
+      "name": "calcium-hina aluminium-hina churanakuna",
+      "count": 9
+    },
+    {
+      "name": "carbono",
+      "count": 19
+    },
+    {
+      "name": "chondrite",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "Dar al Gani",
+      "count": 2
+    },
+    {
+      "name": "diogenite",
+      "count": 1
+    },
+    {
+      "name": "dunite",
+      "count": 1
+    },
+    {
+      "name": "Pacha",
+      "count": 2
+    },
+    {
+      "name": "enstatite",
+      "count": 2
+    },
+    {
+      "name": "eucrite",
+      "count": 9
+    },
+    {
+      "name": "howardite",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranite",
+      "count": 2
+    },
+    {
+      "name": "Killa",
+      "count": 9
+    },
+    {
+      "name": "Mars",
+      "count": 12
+    },
+    {
+      "name": "mesosiderite",
+      "count": 1
+    },
+    {
+      "name": "metachondrite",
+      "count": 1
+    },
+    {
+      "name": "sutichasqa urmay",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "Antikuna ñawpaqman",
+      "count": 63
+    },
+    {
+      "name": "allin chondrite",
+      "count": 19
+    },
+    {
+      "name": "pallasite",
+      "count": 2
+    },
+    {
+      "name": "polarizado",
+      "count": 98
+    },
+    {
+      "name": "ñawpaq achondrite",
+      "count": 3
+    },
+    {
+      "name": "Rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "q'uñi",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "mana tapasqa",
+      "count": 1
+    },
+    {
+      "name": "ureilite",
+      "count": 2
+    },
+    {
+      "name": "onda hark'ay",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
@@ -67,15 +202,24 @@
       "date": "2020 paqarina 23",
       "time": "02:24",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "Antikuna ñawpaqman", "allin chondrite", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "Antikuna ñawpaqman",
+        "allin chondrite",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "NWA 980 meteoritoq allin ch'usaq q'illaynin, huk ancha allin hatun t'aqayuq, huk laya litología nisqayuq.",
         "Meteoritoq ch'usaq q'illaykunap pantallapi qhawarinankuna:",
         "Gigapanpi qhaway",
         "krpanowan qhaway",
         "Carganapaq k'itikuy",
-        "Flickrpi qhaway",
-        "Tumblrpi qhaway"
+        "Rantiy Ñit'isqakunata",
+        "Watukuy Qhatuna Wasita"
       ],
       "image_caption": "NWA 980 meteoritoq ch'usaq q'illaynin"
     },
@@ -84,15 +228,25 @@
       "date": "2020 paqarina 12",
       "time": "17:59",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "Antikuna ñawpaqman", "allin chondrite", "polarizado", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "Antikuna ñawpaqman",
+        "allin chondrite",
+        "polarizado",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Ñawpaq qillqapi rikuchisqa chay ch'usaq q'illaymi kaypi rikukun cruzado polarizado k'anchaypi.",
         "Meteoritoq ch'usaq q'illaykunap pantallapi qhawarinankuna:",
         "Gigapanpi qhaway",
         "krpanowan qhaway",
         "Carganapaq k'itikuy",
-        "Flickrpi qhaway",
-        "Tumblrpi qhaway"
+        "Rantiy Ñit'isqakunata",
+        "Watukuy Qhatuna Wasita"
       ],
       "image_caption": "NWA 7859 meteoritoq ch'usaq q'illaynin"
     },
@@ -101,15 +255,24 @@
       "date": "2020 paqarina 8",
       "time": "21:31",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "Antikuna ñawpaqman", "allin chondrite", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "Antikuna ñawpaqman",
+        "allin chondrite",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Kay gigapixel mosaico L3 NWA 7859 meteoritoq k'anchay rikukuq ch'usaq q'illayninpiqa, hukniraq mana allin churanakunam kachkan, chaykunaqa hukllasqa kanku hina.",
         "Meteoritoq ch'usaq q'illaykunap pantallapi qhawarinankuna:",
         "Gigapanpi qhaway",
         "krpanowan qhaway",
         "Carganapaq k'itikuy",
-        "Flickrpi qhaway",
-        "Tumblrpi qhaway"
+        "Rantiy Ñit'isqakunata",
+        "Watukuy Qhatuna Wasita"
       ],
       "image_caption": "NWA 7859 meteoritoq ch'usaq q'illaynin"
     }
@@ -196,8 +359,8 @@
     "Gigapanpi qhaway",
     "krpanowan qhaway",
     "Carganapaq k'itikuy",
-    "Flickrpi qhaway",
-    "Tumblrpi qhaway",
+    "Rantiy Ñit'isqakunata",
+    "Watukuy Qhatuna Wasita",
     "2020 paqarina 23",
     "02:24",
     "solaranamnesis",

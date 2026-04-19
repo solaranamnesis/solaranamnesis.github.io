@@ -15,51 +15,186 @@
     "Catégories de photos de météorites"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "acapulcoïte", "count": 2},
-    {"name": "achondrite", "count": 27},
-    {"name": "angrite", "count": 9},
-    {"name": "aubrite", "count": 1},
-    {"name": "australie", "count": 3},
-    {"name": "brèche", "count": 13},
-    {"name": "inclusion riche en aluminium et calcium", "count": 9},
-    {"name": "carbonacée", "count": 19},
-    {"name": "chondrite", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "dar al gani", "count": 2},
-    {"name": "diogénite", "count": 1},
-    {"name": "dunite", "count": 1},
-    {"name": "terre", "count": 2},
-    {"name": "enstatite", "count": 2},
-    {"name": "eucrite", "count": 9},
-    {"name": "howardite", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranite", "count": 2},
-    {"name": "lunaire", "count": 9},
-    {"name": "mars", "count": 12},
-    {"name": "mésosidérîte", "count": 1},
-    {"name": "métachondrite", "count": 1},
-    {"name": "chute nommée", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "nord-ouest de l'Afrique", "count": 63},
-    {"name": "chondrite ordinaire", "count": 19},
-    {"name": "pallasite", "count": 2},
-    {"name": "polarisée", "count": 98},
-    {"name": "achondrite primitive", "count": 3},
-    {"name": "rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "surface", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "non couverte", "count": 1},
-    {"name": "uréilite", "count": 2},
-    {"name": "retardateur d'onde", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "acapulcoïte",
+      "count": 2
+    },
+    {
+      "name": "achondrite",
+      "count": 27
+    },
+    {
+      "name": "angrite",
+      "count": 9
+    },
+    {
+      "name": "aubrite",
+      "count": 1
+    },
+    {
+      "name": "australie",
+      "count": 3
+    },
+    {
+      "name": "brèche",
+      "count": 13
+    },
+    {
+      "name": "inclusion riche en aluminium et calcium",
+      "count": 9
+    },
+    {
+      "name": "carbonacée",
+      "count": 19
+    },
+    {
+      "name": "chondrite",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "dar al gani",
+      "count": 2
+    },
+    {
+      "name": "diogénite",
+      "count": 1
+    },
+    {
+      "name": "dunite",
+      "count": 1
+    },
+    {
+      "name": "terre",
+      "count": 2
+    },
+    {
+      "name": "enstatite",
+      "count": 2
+    },
+    {
+      "name": "eucrite",
+      "count": 9
+    },
+    {
+      "name": "howardite",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranite",
+      "count": 2
+    },
+    {
+      "name": "lunaire",
+      "count": 9
+    },
+    {
+      "name": "mars",
+      "count": 12
+    },
+    {
+      "name": "mésosidérîte",
+      "count": 1
+    },
+    {
+      "name": "métachondrite",
+      "count": 1
+    },
+    {
+      "name": "chute nommée",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "nord-ouest de l'Afrique",
+      "count": 63
+    },
+    {
+      "name": "chondrite ordinaire",
+      "count": 19
+    },
+    {
+      "name": "pallasite",
+      "count": 2
+    },
+    {
+      "name": "polarisée",
+      "count": 98
+    },
+    {
+      "name": "achondrite primitive",
+      "count": 3
+    },
+    {
+      "name": "rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "surface",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "non couverte",
+      "count": 1
+    },
+    {
+      "name": "uréilite",
+      "count": 2
+    },
+    {
+      "name": "retardateur d'onde",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
@@ -67,15 +202,24 @@
       "date": "23 avril 2020",
       "time": "2h24",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "nord-ouest de l'Afrique", "chondrite ordinaire", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "nord-ouest de l'Afrique",
+        "chondrite ordinaire",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Belle section mince de la météorite NWA 980 avec un très intéressant grand fragment de lithologie apparemment différente.",
         "Panoramas en plein écran des sections minces de météorites :",
         "Voir sur Gigapan",
         "Voir avec krpano",
         "Cliquez pour charger",
-        "Voir sur Flickr",
-        "Voir sur Tumblr"
+        "Acheter des tirages",
+        "Visiter la boutique"
       ],
       "image_caption": "Section mince de la météorite NWA 980"
     },
@@ -84,15 +228,25 @@
       "date": "12 avril 2020",
       "time": "17h59",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "nord-ouest de l'Afrique", "chondrite ordinaire", "polarisée", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "nord-ouest de l'Afrique",
+        "chondrite ordinaire",
+        "polarisée",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "La même section mince présentée dans le post précédent est ici vue en lumière polarisée croisée.",
         "Panoramas en plein écran des sections minces de météorites :",
         "Voir sur Gigapan",
         "Voir avec krpano",
         "Cliquez pour charger",
-        "Voir sur Flickr",
-        "Voir sur Tumblr"
+        "Acheter des tirages",
+        "Visiter la boutique"
       ],
       "image_caption": "Section mince de la météorite NWA 7859"
     },
@@ -101,15 +255,24 @@
       "date": "8 avril 2020",
       "time": "21h31",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "nord-ouest de l'Afrique", "chondrite ordinaire", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "nord-ouest de l'Afrique",
+        "chondrite ordinaire",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Ce mosaïque gigapixel de section mince en lumière visible de la météorite L3 NWA 7859 contient certaines inclusions hautement inhabituelles qui semblent être regroupées de manière caractéristique.",
         "Panoramas en plein écran des sections minces de météorites :",
         "Voir sur Gigapan",
         "Voir avec krpano",
         "Cliquez pour charger",
-        "Voir sur Flickr",
-        "Voir sur Tumblr"
+        "Acheter des tirages",
+        "Visiter la boutique"
       ],
       "image_caption": "Section mince de la météorite NWA 7859"
     }
@@ -196,8 +359,8 @@
     "Voir sur Gigapan",
     "Voir avec krpano",
     "Cliquez pour charger",
-    "Voir sur Flickr",
-    "Voir sur Tumblr",
+    "Acheter des tirages",
+    "Visiter la boutique",
     "23 avril 2020",
     "2h24",
     "solaranamnesis",
