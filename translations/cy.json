@@ -1,0 +1,129 @@
+{
+  "extraction_date": "2026-04-19",
+  "source_file": "index.html",
+  "website_title": "Solar Anamnesis | Golygfeydd o Ieuenctid y System Solar",
+  "navigation_main": [
+    "Dangosfwrdd",
+    "Amdanom",
+    "Oriel",
+    "Siop",
+    "Oriel Panorama"
+  ],
+  "sidebar_widgets": [
+    "Chwilio",
+    "Chwilio Solar Anamnesis",
+    "Categorïau Ffotograffau Meteorit"
+  ],
+  "meteorite_categories": [
+    {"name": "10x/0.25", "count": 17},
+    {"name": "4x/0.25", "count": 86},
+    {"name": "A35140U CCD 14MP", "count": 10},
+    {"name": "A3550UPA CCD 5MP", "count": 37},
+    {"name": "acapwlcoit", "count": 2},
+    {"name": "acondrit", "count": 27},
+    {"name": "angrit", "count": 9},
+    {"name": "awbrit", "count": 1},
+    {"name": "Awstralia", "count": 3},
+    {"name": "brecsia", "count": 13},
+    {"name": "cynhwysyn calsiwm-alwminiwm-cyfoethog", "count": 9},
+    {"name": "carbonasaidd", "count": 19},
+    {"name": "condrit", "count": 43},
+    {"name": "CO", "count": 4},
+    {"name": "CV", "count": 3},
+    {"name": "dar al gani", "count": 2},
+    {"name": "diogenit", "count": 1},
+    {"name": "dwnit", "count": 1},
+    {"name": "y ddaear", "count": 2},
+    {"name": "enstatit", "count": 2},
+    {"name": "ewcrit", "count": 9},
+    {"name": "howardit", "count": 1},
+    {"name": "LMScope", "count": 52},
+    {"name": "lodranit", "count": 2},
+    {"name": "lleuadol", "count": 9},
+    {"name": "Mawrth", "count": 12},
+    {"name": "mesosiderit", "count": 1},
+    {"name": "metacondrit", "count": 1},
+    {"name": "cwymp enwedig", "count": 30},
+    {"name": "Nikon D810", "count": 45},
+    {"name": "Nikon Z6", "count": 7},
+    {"name": "gogledd-orllewin Affrica", "count": 63},
+    {"name": "condrit cyffredin", "count": 19},
+    {"name": "pallasit", "count": 2},
+    {"name": "polareiddiedig", "count": 98},
+    {"name": "acondrit cyntefig", "count": 3},
+    {"name": "rumuruti", "count": 1},
+    {"name": "scope1", "count": 4},
+    {"name": "scope2", "count": 103},
+    {"name": "arwyneb", "count": 5},
+    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
+    {"name": "heb orchudd", "count": 1},
+    {"name": "wreilit", "count": 2},
+    {"name": "oedydd ton", "count": 5},
+    {"name": "zerene stacker", "count": 99}
+  ],
+  "articles": [
+    {
+      "title": "Toriad Tenau Meteorit NWA 980",
+      "date": "23 Ebrill 2020",
+      "time": "2:24 y.b.",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "condrit", "LMScope", "Nikon Z6", "gogledd-orllewin Affrica", "condrit cyffredin", "scope2", "zerene stacker"],
+      "body_text": [
+        "Toriad tenau prydferth o'r meteorit NWA 980 gyda darn mawr diddorol iawn o litholeg sy'n ymddangos yn wahanol.",
+        "Panoramâu toriad tenau meteorit sgrin lawn:",
+        "Gweld ar Gigapan",
+        "Gweld gyda krpano",
+        "Cliciwch i lwytho",
+        "Gweld ar Flickr",
+        "Gweld ar Tumblr"
+      ],
+      "image_caption": "Toriad Tenau Meteorit NWA 980"
+    },
+    {
+      "title": "Toriad Tenau Meteorit NWA 7859",
+      "date": "12 Ebrill 2020",
+      "time": "5:59 y.h.",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "condrit", "LMScope", "Nikon Z6", "gogledd-orllewin Affrica", "condrit cyffredin", "polareiddiedig", "scope2", "zerene stacker"],
+      "body_text": [
+        "Mae'r un toriad tenau a ddangoswyd yn y postiad blaenorol i'w weld yma mewn golau wedi'i groesbolareiddio.",
+        "Panoramâu toriad tenau meteorit sgrin lawn:",
+        "Gweld ar Gigapan",
+        "Gweld gyda krpano",
+        "Cliciwch i lwytho",
+        "Gweld ar Flickr",
+        "Gweld ar Tumblr"
+      ],
+      "image_caption": "Toriad Tenau Meteorit NWA 7859"
+    },
+    {
+      "title": "Toriad Tenau Meteorit NWA 7859",
+      "date": "8 Ebrill 2020",
+      "time": "9:31 y.h.",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "condrit", "LMScope", "Nikon Z6", "gogledd-orllewin Affrica", "condrit cyffredin", "scope2", "zerene stacker"],
+      "body_text": [
+        "Mae'r mosaig toriad tenau golau gweladwy gigapicsel hwn o'r meteorit L3 NWA 7859 yn cynnwys rhai cynhwysion hynod anarferol sy'n ymddangos fel pe baent wedi'u grwpio'n nodweddiadol.",
+        "Panoramâu toriad tenau meteorit sgrin lawn:",
+        "Gweld ar Gigapan",
+        "Gweld gyda krpano",
+        "Cliciwch i lwytho",
+        "Gweld ar Flickr",
+        "Gweld ar Tumblr"
+      ],
+      "image_caption": "Toriad Tenau Meteorit NWA 7859"
+    }
+  ],
+  "site_metadata": {
+    "platform": "WordPress 5.4",
+    "theme": "Ryu gan WordPress.com",
+    "site_description": "Golygfeydd o Ieuenctid y System Solar",
+    "footer_links": [
+      "Dewch yn Ffrind GNOME",
+      "Dolen GNU",
+      "Wedi'i bweru'n falch gan WordPress",
+      "Thema: Ryu gan WordPress.com"
+    ]
+  },
+  "navigation_elements": ["Teclynnau", "Neidio i'r cynnwys", "Dewislen", "Postiadau hŷn"]
+}

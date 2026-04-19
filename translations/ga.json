@@ -1,0 +1,129 @@
+{
+  "extraction_date": "2026-04-19",
+  "source_file": "index.html",
+  "website_title": "Solar Anamnesis | Radhairc ó Óige an Ghrianchórais",
+  "navigation_main": [
+    "Deais",
+    "Maidir Linn",
+    "Gailearaí",
+    "Siopa",
+    "Gailearaí Panoráma"
+  ],
+  "sidebar_widgets": [
+    "Cuardaigh",
+    "Cuardaigh Solar Anamnesis",
+    "Catagóirí Grianghraf Meiteaírít"
+  ],
+  "meteorite_categories": [
+    {"name": "10x/0.25", "count": 17},
+    {"name": "4x/0.25", "count": 86},
+    {"name": "A35140U CCD 14MP", "count": 10},
+    {"name": "A3550UPA CCD 5MP", "count": 37},
+    {"name": "acapulcóit", "count": 2},
+    {"name": "aicondrait", "count": 27},
+    {"name": "aingrít", "count": 9},
+    {"name": "áibrit", "count": 1},
+    {"name": "an Astráil", "count": 3},
+    {"name": "breirise", "count": 13},
+    {"name": "ionchlúideadh saibhir i gcailciam-alúmanam", "count": 9},
+    {"name": "carbónach", "count": 19},
+    {"name": "condrait", "count": 43},
+    {"name": "CO", "count": 4},
+    {"name": "CV", "count": 3},
+    {"name": "dar al gani", "count": 2},
+    {"name": "dióigeinít", "count": 1},
+    {"name": "dúinít", "count": 1},
+    {"name": "an domhan", "count": 2},
+    {"name": "einstaitít", "count": 2},
+    {"name": "eocrít", "count": 9},
+    {"name": "howardít", "count": 1},
+    {"name": "LMScope", "count": 52},
+    {"name": "lodranít", "count": 2},
+    {"name": "gealaí", "count": 9},
+    {"name": "Mars", "count": 12},
+    {"name": "méasaisidéirít", "count": 1},
+    {"name": "meatacondrait", "count": 1},
+    {"name": "titim ainmnithe", "count": 30},
+    {"name": "Nikon D810", "count": 45},
+    {"name": "Nikon Z6", "count": 7},
+    {"name": "iarthuaisceart na hAfraice", "count": 63},
+    {"name": "gnáthchondrait", "count": 19},
+    {"name": "pallaisít", "count": 2},
+    {"name": "polaraithe", "count": 98},
+    {"name": "aicondrait phríomhúil", "count": 3},
+    {"name": "rumuruti", "count": 1},
+    {"name": "scope1", "count": 4},
+    {"name": "scope2", "count": 103},
+    {"name": "dromchla", "count": 5},
+    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
+    {"name": "gan chlúdach", "count": 1},
+    {"name": "úiréilít", "count": 2},
+    {"name": "moilleoir tonnta", "count": 5},
+    {"name": "zerene stacker", "count": 99}
+  ],
+  "articles": [
+    {
+      "title": "Gearradh Tanaí Meiteaírít NWA 980",
+      "date": "23 Aibreán 2020",
+      "time": "2:24 r.n.",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "condrait", "LMScope", "Nikon Z6", "iarthuaisceart na hAfraice", "gnáthchondrait", "scope2", "zerene stacker"],
+      "body_text": [
+        "Gearradh tanaí álainn den mheiteaírít NWA 980 le blúire mór an-suimiúil de liteolaíocht atá cosúil le bheith difriúil.",
+        "Panorámaí gearradh tanaí meiteaírít lánscáileáin:",
+        "Féach ar Gigapan",
+        "Féach le krpano",
+        "Cliceáil chun luchtú",
+        "Féach ar Flickr",
+        "Féach ar Tumblr"
+      ],
+      "image_caption": "Gearradh Tanaí Meiteaírít NWA 980"
+    },
+    {
+      "title": "Gearradh Tanaí Meiteaírít NWA 7859",
+      "date": "12 Aibreán 2020",
+      "time": "5:59 i.n.",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "condrait", "LMScope", "Nikon Z6", "iarthuaisceart na hAfraice", "gnáthchondrait", "polaraithe", "scope2", "zerene stacker"],
+      "body_text": [
+        "Tá an gearradh tanaí céanna a bhí sa phostáil roimhe seo le feiceáil anseo i solas traspolaraithe.",
+        "Panorámaí gearradh tanaí meiteaírít lánscáileáin:",
+        "Féach ar Gigapan",
+        "Féach le krpano",
+        "Cliceáil chun luchtú",
+        "Féach ar Flickr",
+        "Féach ar Tumblr"
+      ],
+      "image_caption": "Gearradh Tanaí Meiteaírít NWA 7859"
+    },
+    {
+      "title": "Gearradh Tanaí Meiteaírít NWA 7859",
+      "date": "8 Aibreán 2020",
+      "time": "9:31 i.n.",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "condrait", "LMScope", "Nikon Z6", "iarthuaisceart na hAfraice", "gnáthchondrait", "scope2", "zerene stacker"],
+      "body_text": [
+        "Tá roinnt ionchlúideadh an-neamhghnách sa mhósáic gígiphicteailín solas infheicthe seo de ghearradh tanaí den mheiteaírít L3 NWA 7859 a bhfuil cuma orthu go bhfuil siad grúpáilte go tréithiúil.",
+        "Panorámaí gearradh tanaí meiteaírít lánscáileáin:",
+        "Féach ar Gigapan",
+        "Féach le krpano",
+        "Cliceáil chun luchtú",
+        "Féach ar Flickr",
+        "Féach ar Tumblr"
+      ],
+      "image_caption": "Gearradh Tanaí Meiteaírít NWA 7859"
+    }
+  ],
+  "site_metadata": {
+    "platform": "WordPress 5.4",
+    "theme": "Ryu le WordPress.com",
+    "site_description": "Radhairc ó Óige an Ghrianchórais",
+    "footer_links": [
+      "Bí i do Chara GNOME",
+      "Nasc GNU",
+      "Cumhachtaithe go bródúil ag WordPress",
+      "Téama: Ryu le WordPress.com"
+    ]
+  },
+  "navigation_elements": ["Giuirléidí", "Scipeáil chuig ábhar", "Roghchlár", "Postálacha níos sine"]
+}

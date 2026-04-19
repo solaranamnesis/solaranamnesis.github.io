@@ -1,0 +1,129 @@
+{
+  "extraction_date": "2026-04-19",
+  "source_file": "index.html",
+  "website_title": "Solar Anamnesis | Dîmenên ji Ciwaniya Pergala Rojê",
+  "navigation_main": [
+    "Panel",
+    "Der barê",
+    "Galerî",
+    "Firotgeh",
+    "Galeriya Panoramayê"
+  ],
+  "sidebar_widgets": [
+    "Lêgerîn",
+    "Li Solar Anamnesis bigere",
+    "Kategoriyên Wêneyên Meteorîtan"
+  ],
+  "meteorite_categories": [
+    {"name": "10x/0.25", "count": 17},
+    {"name": "4x/0.25", "count": 86},
+    {"name": "A35140U CCD 14MP", "count": 10},
+    {"name": "A3550UPA CCD 5MP", "count": 37},
+    {"name": "akapulkoit", "count": 2},
+    {"name": "akondrît", "count": 27},
+    {"name": "angrît", "count": 9},
+    {"name": "obrît", "count": 1},
+    {"name": "Awistralya", "count": 3},
+    {"name": "brekçî", "count": 13},
+    {"name": "tevlîheviya dewlemend bi kalsiyûm-alumînyûm", "count": 9},
+    {"name": "karbonî", "count": 19},
+    {"name": "kondrît", "count": 43},
+    {"name": "CO", "count": 4},
+    {"name": "CV", "count": 3},
+    {"name": "dar al gani", "count": 2},
+    {"name": "diyojenît", "count": 1},
+    {"name": "dunît", "count": 1},
+    {"name": "erd", "count": 2},
+    {"name": "enstatît", "count": 2},
+    {"name": "okrît", "count": 9},
+    {"name": "howardît", "count": 1},
+    {"name": "LMScope", "count": 52},
+    {"name": "lodranît", "count": 2},
+    {"name": "heyvî", "count": 9},
+    {"name": "Mars", "count": 12},
+    {"name": "mezosîderît", "count": 1},
+    {"name": "metakondrît", "count": 1},
+    {"name": "ketina bi nav", "count": 30},
+    {"name": "Nikon D810", "count": 45},
+    {"name": "Nikon Z6", "count": 7},
+    {"name": "bakurê rojavayê Afrîkayê", "count": 63},
+    {"name": "kondrîta asayî", "count": 19},
+    {"name": "pallasît", "count": 2},
+    {"name": "polarîzekirî", "count": 98},
+    {"name": "akondrîta seretayî", "count": 3},
+    {"name": "rumuruti", "count": 1},
+    {"name": "scope1", "count": 4},
+    {"name": "scope2", "count": 103},
+    {"name": "rûerd", "count": 5},
+    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
+    {"name": "vekirî", "count": 1},
+    {"name": "ureîlît", "count": 2},
+    {"name": "derengkerê pêlê", "count": 5},
+    {"name": "zerene stacker", "count": 99}
+  ],
+  "articles": [
+    {
+      "title": "Beşa Zirav a Meteorîta NWA 980",
+      "date": "23ê Avrêl 2020",
+      "time": "2:24 bn.",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "kondrît", "LMScope", "Nikon Z6", "bakurê rojavayê Afrîkayê", "kondrîta asayî", "scope2", "zerene stacker"],
+      "body_text": [
+        "Beşa zirav a bedew a meteorîta NWA 980 bi perçeyek mezin a pir balkêş a lîtolojiya ku xuya ye cûda ye.",
+        "Panoramayên beşên zirav ên meteorîtan bi dîmenê tam:",
+        "Li ser Gigapan bibîne",
+        "Bi krpano bibîne",
+        "Bikirtîne ji bo barkirinê",
+        "Li ser Flickr bibîne",
+        "Li ser Tumblr bibîne"
+      ],
+      "image_caption": "Beşa Zirav a Meteorîta NWA 980"
+    },
+    {
+      "title": "Beşa Zirav a Meteorîta NWA 7859",
+      "date": "12ê Avrêl 2020",
+      "time": "5:59 pn.",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "kondrît", "LMScope", "Nikon Z6", "bakurê rojavayê Afrîkayê", "kondrîta asayî", "polarîzekirî", "scope2", "zerene stacker"],
+      "body_text": [
+        "Heman beşa zirav a ku di şandiya berê de hatibû pêşkêşkirin li vir di ronahiya xaçpolarîzekirî de tê dîtin.",
+        "Panoramayên beşên zirav ên meteorîtan bi dîmenê tam:",
+        "Li ser Gigapan bibîne",
+        "Bi krpano bibîne",
+        "Bikirtîne ji bo barkirinê",
+        "Li ser Flickr bibîne",
+        "Li ser Tumblr bibîne"
+      ],
+      "image_caption": "Beşa Zirav a Meteorîta NWA 7859"
+    },
+    {
+      "title": "Beşa Zirav a Meteorîta NWA 7859",
+      "date": "8ê Avrêl 2020",
+      "time": "9:31 êv.",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "kondrît", "LMScope", "Nikon Z6", "bakurê rojavayê Afrîkayê", "kondrîta asayî", "scope2", "zerene stacker"],
+      "body_text": [
+        "Ev mozaîka gîgapîksel a beşa zirav a ronahiya xuya ya meteorîta L3 NWA 7859 hin tevlîheviyên pir neasayî dihewîne ku xuya ye bi taybetmendî hatine komkirin.",
+        "Panoramayên beşên zirav ên meteorîtan bi dîmenê tam:",
+        "Li ser Gigapan bibîne",
+        "Bi krpano bibîne",
+        "Bikirtîne ji bo barkirinê",
+        "Li ser Flickr bibîne",
+        "Li ser Tumblr bibîne"
+      ],
+      "image_caption": "Beşa Zirav a Meteorîta NWA 7859"
+    }
+  ],
+  "site_metadata": {
+    "platform": "WordPress 5.4",
+    "theme": "Ryu ji hêla WordPress.com",
+    "site_description": "Dîmenên ji Ciwaniya Pergala Rojê",
+    "footer_links": [
+      "Bibe Hevalê GNOME",
+      "Girêdana GNU",
+      "Bi serbilindî ji hêla WordPress ve tê xebitandin",
+      "Tema: Ryu ji hêla WordPress.com"
+    ]
+  },
+  "navigation_elements": ["Widgetan", "Biçe ser naverokê", "Menû", "Şandiyên kevntir"]
+}
