@@ -1,0 +1,129 @@
+{
+  "extraction_date": "2026-04-18",
+  "source_file": "pasted-content-2026-04-18T04-15-59.txt",
+  "website_title": "Solar Anamnesis | Scener fra solsystemets ungdom",
+  "navigation_main": [
+    "Dashboard",
+    "Om os",
+    "Galleri",
+    "Shop",
+    "Panorama galleri"
+  ],
+  "sidebar_widgets": [
+    "Søg",
+    "Søg i Solar Anamnesis",
+    "Kategorier for meteoritfotos"
+  ],
+  "meteorite_categories": [
+    {"name": "10x/0.25", "count": 17},
+    {"name": "4x/0.25", "count": 86},
+    {"name": "A35140U CCD 14MP", "count": 10},
+    {"name": "A3550UPA CCD 5MP", "count": 37},
+    {"name": "acapulcoit", "count": 2},
+    {"name": "achondrit", "count": 27},
+    {"name": "angrit", "count": 9},
+    {"name": "aubrit", "count": 1},
+    {"name": "Australien", "count": 3},
+    {"name": "brekchie", "count": 13},
+    {"name": "kalcium- og aluminiumsrige indeslutninger", "count": 9},
+    {"name": "kulstofholdig", "count": 19},
+    {"name": "chondrit", "count": 43},
+    {"name": "CO", "count": 4},
+    {"name": "CV", "count": 3},
+    {"name": "Dar al Gani", "count": 2},
+    {"name": "diogenit", "count": 1},
+    {"name": "dunit", "count": 1},
+    {"name": "Jorden", "count": 2},
+    {"name": "enstatit", "count": 2},
+    {"name": "eukrit", "count": 9},
+    {"name": "howardit", "count": 1},
+    {"name": "LMScope", "count": 52},
+    {"name": "lodranit", "count": 2},
+    {"name": "Månen", "count": 9},
+    {"name": "Mars", "count": 12},
+    {"name": "mesosiderit", "count": 1},
+    {"name": "metachondrit", "count": 1},
+    {"name": "navngivet fald", "count": 30},
+    {"name": "Nikon D810", "count": 45},
+    {"name": "Nikon Z6", "count": 7},
+    {"name": "Nordvestlige Afrika", "count": 63},
+    {"name": "almindelig chondrit", "count": 19},
+    {"name": "pallasit", "count": 2},
+    {"name": "polariseret", "count": 98},
+    {"name": "primitiv achondrit", "count": 3},
+    {"name": "Rumuruti", "count": 1},
+    {"name": "scope1", "count": 4},
+    {"name": "scope2", "count": 103},
+    {"name": "overflade", "count": 5},
+    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
+    {"name": "uafdækket", "count": 1},
+    {"name": "ureilit", "count": 2},
+    {"name": "bølgeforsinkelse", "count": 5},
+    {"name": "zerene stacker", "count": 99}
+  ],
+  "articles": [
+    {
+      "title": "Tyndt slib af meteoritten NWA 980",
+      "date": "23. april 2020",
+      "time": "02:24",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "chondrit", "LMScope", "Nikon Z6", "Nordvestlige Afrika", "almindelig chondrit", "scope2", "zerene stacker"],
+      "body_text": [
+        "Smukt tyndt slib af meteoritten NWA 980 med et meget interessant stort fragment af tilsyneladende anden litologi.",
+        "Panoramaer af meteorit-tynde slibe på fuld skærm:",
+        "Se på Gigapan",
+        "Se med krpano",
+        "Klik for at indlæse",
+        "Se på Flickr",
+        "Se på Tumblr"
+      ],
+      "image_caption": "Tyndt slib af meteoritten NWA 980"
+    },
+    {
+      "title": "Tyndt slib af meteoritten NWA 7859",
+      "date": "12. april 2020",
+      "time": "17:59",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "chondrit", "LMScope", "Nikon Z6", "Nordvestlige Afrika", "almindelig chondrit", "polariseret", "scope2", "zerene stacker"],
+      "body_text": [
+        "Det samme tynde slib, der blev præsenteret i det foregående indlæg, ses her i krydspolariseret lys.",
+        "Panoramaer af meteorit-tynde slibe på fuld skærm:",
+        "Se på Gigapan",
+        "Se med krpano",
+        "Klik for at indlæse",
+        "Se på Flickr",
+        "Se på Tumblr"
+      ],
+      "image_caption": "Tyndt slib af meteoritten NWA 7859"
+    },
+    {
+      "title": "Tyndt slib af meteoritten NWA 7859",
+      "date": "8. april 2020",
+      "time": "21:31",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "chondrit", "LMScope", "Nikon Z6", "Nordvestlige Afrika", "almindelig chondrit", "scope2", "zerene stacker"],
+      "body_text": [
+        "Dette gigapixel-mosaik af et tyndt slib i synligt lys af meteoritten L3 NWA 7859 indeholder nogle meget usædvanlige indeslutninger, der ser ud til at være grupperet på en karakteristisk måde.",
+        "Panoramaer af meteorit-tynde slibe på fuld skærm:",
+        "Se på Gigapan",
+        "Se med krpano",
+        "Klik for at indlæse",
+        "Se på Flickr",
+        "Se på Tumblr"
+      ],
+      "image_caption": "Tyndt slib af meteoritten NWA 7859"
+    }
+  ],
+  "site_metadata": {
+    "platform": "WordPress 5.4",
+    "theme": "Ryu af WordPress.com",
+    "site_description": "Scener fra solsystemets ungdom",
+    "footer_links": [
+      "Bliv en ven af GNOME",
+      "GNU-link",
+      "Stolt drevet af WordPress",
+      "Tema: Ryu af WordPress.com"
+    ]
+  },
+  "navigation_elements": ["Widgets", "Gå til indhold", "Menu", "Ældre indlæg"]
+}
