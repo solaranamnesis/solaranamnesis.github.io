@@ -1,0 +1,129 @@
+{
+  "extraction_date": "2026-04-19",
+  "source_file": "index.html",
+  "website_title": "Solar Anamnesis | Scenoj el la Juneco de la Sunsistemo",
+  "navigation_main": [
+    "Panelo",
+    "Pri ni",
+    "Galerio",
+    "Butiko",
+    "Panorama Galerio"
+  ],
+  "sidebar_widgets": [
+    "Serĉi",
+    "Serĉi Solar Anamnesis",
+    "Kategorioj de Meteoritaj Fotoj"
+  ],
+  "meteorite_categories": [
+    {"name": "10x/0.25", "count": 17},
+    {"name": "4x/0.25", "count": 86},
+    {"name": "A35140U CCD 14MP", "count": 10},
+    {"name": "A3550UPA CCD 5MP", "count": 37},
+    {"name": "akapulkoito", "count": 2},
+    {"name": "aĥondrito", "count": 27},
+    {"name": "angrito", "count": 9},
+    {"name": "aŭbrito", "count": 1},
+    {"name": "Aŭstralio", "count": 3},
+    {"name": "breĉo", "count": 13},
+    {"name": "kalcio-aluminio-riĉa inkluzio", "count": 9},
+    {"name": "karbonhava", "count": 19},
+    {"name": "ĥondrito", "count": 43},
+    {"name": "CO", "count": 4},
+    {"name": "CV", "count": 3},
+    {"name": "dar al gani", "count": 2},
+    {"name": "diogenito", "count": 1},
+    {"name": "dunito", "count": 1},
+    {"name": "tero", "count": 2},
+    {"name": "enstatito", "count": 2},
+    {"name": "eŭkrito", "count": 9},
+    {"name": "hovardito", "count": 1},
+    {"name": "LMScope", "count": 52},
+    {"name": "lodranito", "count": 2},
+    {"name": "luna", "count": 9},
+    {"name": "Marso", "count": 12},
+    {"name": "mezosiderito", "count": 1},
+    {"name": "metaĥondrito", "count": 1},
+    {"name": "nomita falo", "count": 30},
+    {"name": "Nikon D810", "count": 45},
+    {"name": "Nikon Z6", "count": 7},
+    {"name": "nordokcidenta Afriko", "count": 63},
+    {"name": "ordinara ĥondrito", "count": 19},
+    {"name": "palasito", "count": 2},
+    {"name": "polarizita", "count": 98},
+    {"name": "primitiva aĥondrito", "count": 3},
+    {"name": "rumuruti", "count": 1},
+    {"name": "scope1", "count": 4},
+    {"name": "scope2", "count": 103},
+    {"name": "surfaco", "count": 5},
+    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
+    {"name": "malkovrita", "count": 1},
+    {"name": "ureilito", "count": 2},
+    {"name": "ondoretardilo", "count": 5},
+    {"name": "zerene stacker", "count": 99}
+  ],
+  "articles": [
+    {
+      "title": "Maldika Sekcio de Meteorito NWA 980",
+      "date": "23-a de aprilo 2020",
+      "time": "02:24",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "ĥondrito", "LMScope", "Nikon Z6", "nordokcidenta Afriko", "ordinara ĥondrito", "scope2", "zerene stacker"],
+      "body_text": [
+        "Bela maldika sekcio de la meteorito NWA 980 kun tre interesa granda fragmento de ŝajne malsama litologio.",
+        "Plenekranaj panoramoj de meteoritaj maldikaj sekcioj:",
+        "Vidi ĉe Gigapan",
+        "Vidi per krpano",
+        "Klaku por ŝargi",
+        "Vidi ĉe Flickr",
+        "Vidi ĉe Tumblr"
+      ],
+      "image_caption": "Maldika Sekcio de Meteorito NWA 980"
+    },
+    {
+      "title": "Maldika Sekcio de Meteorito NWA 7859",
+      "date": "12-a de aprilo 2020",
+      "time": "17:59",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "ĥondrito", "LMScope", "Nikon Z6", "nordokcidenta Afriko", "ordinara ĥondrito", "polarizita", "scope2", "zerene stacker"],
+      "body_text": [
+        "La sama maldika sekcio prezentita en la antaŭa afiŝo estas vidata ĉi tie en krucpolarizita lumo.",
+        "Plenekranaj panoramoj de meteoritaj maldikaj sekcioj:",
+        "Vidi ĉe Gigapan",
+        "Vidi per krpano",
+        "Klaku por ŝargi",
+        "Vidi ĉe Flickr",
+        "Vidi ĉe Tumblr"
+      ],
+      "image_caption": "Maldika Sekcio de Meteorito NWA 7859"
+    },
+    {
+      "title": "Maldika Sekcio de Meteorito NWA 7859",
+      "date": "8-a de aprilo 2020",
+      "time": "21:31",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "ĥondrito", "LMScope", "Nikon Z6", "nordokcidenta Afriko", "ordinara ĥondrito", "scope2", "zerene stacker"],
+      "body_text": [
+        "Ĉi tiu gigapiksela mozaiko de maldika sekcio en videbla lumo de la meteorito L3 NWA 7859 enhavas kelkajn tre nekutimajn inkluziojn, kiuj ŝajnas esti karakterize grupigitaj.",
+        "Plenekranaj panoramoj de meteoritaj maldikaj sekcioj:",
+        "Vidi ĉe Gigapan",
+        "Vidi per krpano",
+        "Klaku por ŝargi",
+        "Vidi ĉe Flickr",
+        "Vidi ĉe Tumblr"
+      ],
+      "image_caption": "Maldika Sekcio de Meteorito NWA 7859"
+    }
+  ],
+  "site_metadata": {
+    "platform": "WordPress 5.4",
+    "theme": "Ryu de WordPress.com",
+    "site_description": "Scenoj el la Juneco de la Sunsistemo",
+    "footer_links": [
+      "Fariĝu Amiko de GNOME",
+      "GNU-Ligilo",
+      "Fiere funkciigata per WordPress",
+      "Etoso: Ryu de WordPress.com"
+    ]
+  },
+  "navigation_elements": ["Fenestraĵoj", "Salti al enhavo", "Menuo", "Pli malnovaj afiŝoj"]
+}
