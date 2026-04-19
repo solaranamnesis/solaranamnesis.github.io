@@ -1,0 +1,129 @@
+{
+  "extraction_date": "2026-04-18",
+  "source_file": "pasted-content-2026-04-18T04-15-59.txt",
+  "website_title": "Solar Anamnesis | Scény z mládí Sluneční soustavy",
+  "navigation_main": [
+    "Nástěnka",
+    "O nás",
+    "Galerie",
+    "Obchod",
+    "Panoramatická galerie"
+  ],
+  "sidebar_widgets": [
+    "Hledat",
+    "Hledat v Solar Anamnesis",
+    "Kategorie fotografií meteoritů"
+  ],
+  "meteorite_categories": [
+    {"name": "10x/0.25", "count": 17},
+    {"name": "4x/0.25", "count": 86},
+    {"name": "A35140U CCD 14MP", "count": 10},
+    {"name": "A3550UPA CCD 5MP", "count": 37},
+    {"name": "acapulcoit", "count": 2},
+    {"name": "achondrit", "count": 27},
+    {"name": "angrit", "count": 9},
+    {"name": "aubrit", "count": 1},
+    {"name": "Austrálie", "count": 3},
+    {"name": "brekcie", "count": 13},
+    {"name": "vložky bohaté na vápník a hliník", "count": 9},
+    {"name": "uhlíkatý", "count": 19},
+    {"name": "chondrit", "count": 43},
+    {"name": "CO", "count": 4},
+    {"name": "CV", "count": 3},
+    {"name": "Dar al Gani", "count": 2},
+    {"name": "diogenit", "count": 1},
+    {"name": "dunit", "count": 1},
+    {"name": "Země", "count": 2},
+    {"name": "enstatit", "count": 2},
+    {"name": "eukrit", "count": 9},
+    {"name": "howardit", "count": 1},
+    {"name": "LMScope", "count": 52},
+    {"name": "lodranit", "count": 2},
+    {"name": "Měsíc", "count": 9},
+    {"name": "Mars", "count": 12},
+    {"name": "mesosiderit", "count": 1},
+    {"name": "metachondrit", "count": 1},
+    {"name": "pojmenovaný pád", "count": 30},
+    {"name": "Nikon D810", "count": 45},
+    {"name": "Nikon Z6", "count": 7},
+    {"name": "Severozápadní Afrika", "count": 63},
+    {"name": "běžný chondrit", "count": 19},
+    {"name": "pallasit", "count": 2},
+    {"name": "polarizovaný", "count": 98},
+    {"name": "primitivní achondrit", "count": 3},
+    {"name": "Rumuruti", "count": 1},
+    {"name": "scope1", "count": 4},
+    {"name": "scope2", "count": 103},
+    {"name": "plocha", "count": 5},
+    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
+    {"name": "nezakrytý", "count": 1},
+    {"name": "ureilit", "count": 2},
+    {"name": "zpožďovač vln", "count": 5},
+    {"name": "zerene stacker", "count": 99}
+  ],
+  "articles": [
+    {
+      "title": "Tenký řez meteoritu NWA 980",
+      "date": "23. dubna 2020",
+      "time": "02:24",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "chondrit", "LMScope", "Nikon Z6", "Severozápadní Afrika", "běžný chondrit", "scope2", "zerene stacker"],
+      "body_text": [
+        "Krásný tenký řez meteoritu NWA 980 s velmi zajímavým velkým úlomkem zřejmě odlišné litologie.",
+        "Panoramata tenkých řezů meteoritů v plném režimu:",
+        "Zobrazit na Gigapan",
+        "Zobrazit pomocí krpano",
+        "Klikněte pro načtení",
+        "Zobrazit na Flickr",
+        "Zobrazit na Tumblr"
+      ],
+      "image_caption": "Tenký řez meteoritu NWA 980"
+    },
+    {
+      "title": "Tenký řez meteoritu NWA 7859",
+      "date": "12. dubna 2020",
+      "time": "17:59",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "chondrit", "LMScope", "Nikon Z6", "Severozápadní Afrika", "běžný chondrit", "polarizovaný", "scope2", "zerene stacker"],
+      "body_text": [
+        "Stejný tenký řez představený v předchozím příspěvku je zde vidět v křížově polarizovaném světle.",
+        "Panoramata tenkých řezů meteoritů v plném režimu:",
+        "Zobrazit na Gigapan",
+        "Zobrazit pomocí krpano",
+        "Klikněte pro načtení",
+        "Zobrazit na Flickr",
+        "Zobrazit na Tumblr"
+      ],
+      "image_caption": "Tenký řez meteoritu NWA 7859"
+    },
+    {
+      "title": "Tenký řez meteoritu NWA 7859",
+      "date": "8. dubna 2020",
+      "time": "21:31",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "chondrit", "LMScope", "Nikon Z6", "Severozápadní Afrika", "běžný chondrit", "scope2", "zerene stacker"],
+      "body_text": [
+        "Toto gigapixelové mozaika tenkého řezu ve viditelném světle meteoritu L3 NWA 7859 obsahuje několik vysoce neobvyklých vložek, které se zdají být charakteristicky seskupeny.",
+        "Panoramata tenkých řezů meteoritů v plném režimu:",
+        "Zobrazit na Gigapan",
+        "Zobrazit pomocí krpano",
+        "Klikněte pro načtení",
+        "Zobrazit na Flickr",
+        "Zobrazit na Tumblr"
+      ],
+      "image_caption": "Tenký řez meteoritu NWA 7859"
+    }
+  ],
+  "site_metadata": {
+    "platform": "WordPress 5.4",
+    "theme": "Ryu od WordPress.com",
+    "site_description": "Scény z mládí Sluneční soustavy",
+    "footer_links": [
+      "Staňte se přítelem GNOME",
+      "GNU odkaz",
+      "Hrdě poháněno WordPress",
+      "Téma: Ryu od WordPress.com"
+    ]
+  },
+  "navigation_elements": ["Widgety", "Přejít na obsah", "Nabídka", "Starší příspěvky"]
+}
