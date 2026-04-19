@@ -1,0 +1,134 @@
+{
+  "extraction_date": "2026-04-18",
+  "source_file": "pasted-content-2026-04-18T04-15-59.txt",
+  "website_title": "Solar Anamnesis | Tonele uit die jeug van die Sonnestelsel",
+  "navigation_main": [
+    "Dashbord",
+    "Oor ons",
+    "Gaalery",
+    "Winkel",
+    "Panorama Galery"
+  ],
+  "sidebar_widgets": [
+    "Soek",
+    "Soek in Solar Anamnesis",
+    "Meteoriet foto kategorieë"
+  ],
+  "meteorite_categories": [
+    {"name": "10x/0.25", "count": 17},
+    {"name": "4x/0.25", "count": 86},
+    {"name": "A35140U CCD 14MP", "count": 10},
+    {"name": "A3550UPA CCD 5MP", "count": 37},
+    {"name": "acapulcoïet", "count": 2},
+    {"name": "achondriet", "count": 27},
+    {"name": "angriet", "count": 9},
+    {"name": "aubriet", "count": 1},
+    {"name": "Australië", "count": 3},
+    {"name": "breksie", "count": 13},
+    {"name": "kalsium- en aluminiumryke insluitings", "count": 9},
+    {"name": "koolstofhoudend", "count": 19},
+    {"name": "chondriet", "count": 43},
+    {"name": "CO", "count": 4},
+    {"name": "CV", "count": 3},
+    {"name": "Dar al Gani", "count": 2},
+    {"name": "diogeniet", "count": 1},
+    {"name": "dunit", "count": 1},
+    {"name": "Aarde", "count": 2},
+    {"name": "enstatiet", "count": 2},
+    {"name": "eukriet", "count": 9},
+    {"name": "howardiet", "count": 1},
+    {"name": "LMScope", "count": 52},
+    {"name": "lodraniet", "count": 2},
+    {"name": "Maan", "count": 9},
+    {"name": "Mars", "count": 12},
+    {"name": "mesosideriet", "count": 1},
+    {"name": "metachondriet", "count": 1},
+    {"name": "genoemde val", "count": 30},
+    {"name": "Nikon D810", "count": 45},
+    {"name": "Nikon Z6", "count": 7},
+    {"name": "Noordwes-Afrika", "count": 63},
+    {"name": "gewone chondriet", "count": 19},
+    {"name": "pallasiet", "count": 2},
+    {"name": "gepolariseer", "count": 98},
+    {"name": "primitiewe achondriet", "count": 3},
+    {"name": "Rumuruti", "count": 1},
+    {"name": "scope1", "count": 4},
+    {"name": "scope2", "count": 103},
+    {"name": "oppervlak", "count": 5},
+    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
+    {"name": "onbedek", "count": 1},
+    {"name": "ureïliet", "count": 2},
+    {"name": "golfvertrager", "count": 5},
+    {"name": "zerene stacker", "count": 99}
+  ],
+  "articles": [
+    {
+      "title": "Dun snit van meteoriet NWA 980",
+      "date": "23 April 2020",
+      "time": "02:24",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "chondriet", "LMScope", "Nikon Z6", "Noordwes-Afrika", "gewone chondriet", "scope2", "zerene stacker"],
+      "body_text": [
+        "Mooi dun snit van die meteoriet NWA 980 met 'n baie interessante groot fragment van ogenskynlik verskillende litologie.",
+        "Panorama's van meteoriet dun snitte op volle skerm:",
+        "Sien op Gigapan",
+        "Sien met krpano",
+        "Kliek om te laai",
+        "Sien op Flickr",
+        "Sien op Tumblr"
+      ],
+      "image_caption": "Dun snit van meteoriet NWA 980"
+    },
+    {
+      "title": "Dun snit van meteoriet NWA 7859",
+      "date": "12 April 2020",
+      "time": "17:59",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "chondriet", "LMScope", "Nikon Z6", "Noordwes-Afrika", "gewone chondriet", "gepolariseer", "scope2", "zerene stacker"],
+      "body_text": [
+        "Dieselfde dun snit wat in die vorige pos aangebied is, word hier gesien in gekruisde gepolariseerde lig.",
+        "Panorama's van meteoriet dun snitte op volle skerm:",
+        "Sien op Gigapan",
+        "Sien met krpano",
+        "Kliek om te laai",
+        "Sien op Flickr",
+        "Sien op Tumblr"
+      ],
+      "image_caption": "Dun snit van meteoriet NWA 7859"
+    },
+    {
+      "title": "Dun snit van meteoriet NWA 7859",
+      "date": "8 April 2020",
+      "time": "21:31",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "chondriet", "LMScope", "Nikon Z6", "Noordwes-Afrika", "gewone chondriet", "scope2", "zerene stacker"],
+      "body_text": [
+        "Hierdie gigapixel mozaïek van 'n dun snit in sigbare lig van die meteoriet L3 NWA 7859 bevat sommige uiters ongewone insluitings wat lyk asof hulle kenmerkend gegroepeer is.",
+        "Panorama's van meteoriet dun snitte op volle skerm:",
+        "Sien op Gigapan",
+        "Sien met krpano",
+        "Kliek om te laai",
+        "Sien op Flickr",
+        "Sien op Tumblr"
+      ],
+      "image_caption": "Dun snit van meteoriet NWA 7859"
+    }
+  ],
+  "site_metadata": {
+    "platform": "WordPress 5.4",
+    "theme": "Ryu deur WordPress.com",
+    "site_description": "Tonele uit die jeug van die Sonnestelsel",
+    "footer_links": [
+      "Word 'n vriend van GNOME",
+      "GNU skakel",
+      "Met trots aangedryf deur WordPress",
+      "Tema: Ryu deur WordPress.com"
+    ]
+  },
+  "navigation_elements": [
+    "Widgets",
+    "Spring na inhoud",
+    "Kieslys",
+    "Vorige pos"
+  ]
+}
