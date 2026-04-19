@@ -15,51 +15,186 @@
     "Meteorit fotó kategóriák"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "acapulcoit", "count": 2},
-    {"name": "achondrit", "count": 27},
-    {"name": "angrit", "count": 9},
-    {"name": "aubrit", "count": 1},
-    {"name": "Ausztrália", "count": 3},
-    {"name": "breccsa", "count": 13},
-    {"name": "kalcium- és alumíniumban gazdag zárvány", "count": 9},
-    {"name": "szén tartalmú", "count": 19},
-    {"name": "kondrit", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "Dar al Gani", "count": 2},
-    {"name": "diogenit", "count": 1},
-    {"name": "dunit", "count": 1},
-    {"name": "Föld", "count": 2},
-    {"name": "enstatit", "count": 2},
-    {"name": "eukrit", "count": 9},
-    {"name": "howardit", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranit", "count": 2},
-    {"name": "hold", "count": 9},
-    {"name": "Mars", "count": 12},
-    {"name": "mesosiderit", "count": 1},
-    {"name": "metakondrit", "count": 1},
-    {"name": "elnevezett esés", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "északnyugat-Afrika", "count": 63},
-    {"name": "szokásos kondrit", "count": 19},
-    {"name": "pallaszit", "count": 2},
-    {"name": "polarizált", "count": 98},
-    {"name": "ősi achondrit", "count": 3},
-    {"name": "Rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "felszín", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "fedetlen", "count": 1},
-    {"name": "ureilit", "count": 2},
-    {"name": "hullám késleltető", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "acapulcoit",
+      "count": 2
+    },
+    {
+      "name": "achondrit",
+      "count": 27
+    },
+    {
+      "name": "angrit",
+      "count": 9
+    },
+    {
+      "name": "aubrit",
+      "count": 1
+    },
+    {
+      "name": "Ausztrália",
+      "count": 3
+    },
+    {
+      "name": "breccsa",
+      "count": 13
+    },
+    {
+      "name": "kalcium- és alumíniumban gazdag zárvány",
+      "count": 9
+    },
+    {
+      "name": "szén tartalmú",
+      "count": 19
+    },
+    {
+      "name": "kondrit",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "Dar al Gani",
+      "count": 2
+    },
+    {
+      "name": "diogenit",
+      "count": 1
+    },
+    {
+      "name": "dunit",
+      "count": 1
+    },
+    {
+      "name": "Föld",
+      "count": 2
+    },
+    {
+      "name": "enstatit",
+      "count": 2
+    },
+    {
+      "name": "eukrit",
+      "count": 9
+    },
+    {
+      "name": "howardit",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranit",
+      "count": 2
+    },
+    {
+      "name": "hold",
+      "count": 9
+    },
+    {
+      "name": "Mars",
+      "count": 12
+    },
+    {
+      "name": "mesosiderit",
+      "count": 1
+    },
+    {
+      "name": "metakondrit",
+      "count": 1
+    },
+    {
+      "name": "elnevezett esés",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "északnyugat-Afrika",
+      "count": 63
+    },
+    {
+      "name": "szokásos kondrit",
+      "count": 19
+    },
+    {
+      "name": "pallaszit",
+      "count": 2
+    },
+    {
+      "name": "polarizált",
+      "count": 98
+    },
+    {
+      "name": "ősi achondrit",
+      "count": 3
+    },
+    {
+      "name": "Rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "felszín",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "fedetlen",
+      "count": 1
+    },
+    {
+      "name": "ureilit",
+      "count": 2
+    },
+    {
+      "name": "hullám késleltető",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
@@ -67,15 +202,24 @@
       "date": "2020. április 23.",
       "time": "02:24",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "kondrit", "LMScope", "Nikon Z6", "északnyugat-Afrika", "szokásos kondrit", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "kondrit",
+        "LMScope",
+        "Nikon Z6",
+        "északnyugat-Afrika",
+        "szokásos kondrit",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Szép vékony csiszolat az NWA 980 meteoritról, egy nagyon érdekes, nagy töredékkel, amely látszólag más litológiájú.",
         "Teljes képernyős meteorit vékony csiszolat panorámák:",
         "Megtekintés a Gigapan-on",
         "Megtekintés krpano-val",
         "Kattintson a betöltéshez",
-        "Megtekintés a Flickr-en",
-        "Megtekintés a Tumblr-en"
+        "Nyomatok Vásárlása",
+        "Bolt Meglátogatása"
       ],
       "image_caption": "NWA 980 meteorit vékony csiszolata"
     },
@@ -84,15 +228,25 @@
       "date": "2020. április 12.",
       "time": "17:59",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "kondrit", "LMScope", "Nikon Z6", "északnyugat-Afrika", "szokásos kondrit", "polarizált", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "kondrit",
+        "LMScope",
+        "Nikon Z6",
+        "északnyugat-Afrika",
+        "szokásos kondrit",
+        "polarizált",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "A korábbi bejegyzésben bemutatott ugyanaz a vékony csiszolat itt keresztezett polarizált fényben látható.",
         "Teljes képernyős meteorit vékony csiszolat panorámák:",
         "Megtekintés a Gigapan-on",
         "Megtekintés krpano-val",
         "Kattintson a betöltéshez",
-        "Megtekintés a Flickr-en",
-        "Megtekintés a Tumblr-en"
+        "Nyomatok Vásárlása",
+        "Bolt Meglátogatása"
       ],
       "image_caption": "NWA 7859 meteorit vékony csiszolata"
     },
@@ -101,15 +255,24 @@
       "date": "2020. április 8.",
       "time": "21:31",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "kondrit", "LMScope", "Nikon Z6", "északnyugat-Afrika", "szokásos kondrit", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "kondrit",
+        "LMScope",
+        "Nikon Z6",
+        "északnyugat-Afrika",
+        "szokásos kondrit",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Ez a látható fényű vékony csiszolat gigapixeles mozaikja az L3 NWA 7859 meteoritról néhány rendkívül szokatlan zárványt tartalmaz, amelyek jellegzetesen csoportosultnak tűnnek.",
         "Teljes képernyős meteorit vékony csiszolat panorámák:",
         "Megtekintés a Gigapan-on",
         "Megtekintés krpano-val",
         "Kattintson a betöltéshez",
-        "Megtekintés a Flickr-en",
-        "Megtekintés a Tumblr-en"
+        "Nyomatok Vásárlása",
+        "Bolt Meglátogatása"
       ],
       "image_caption": "NWA 7859 meteorit vékony csiszolata"
     }
@@ -125,5 +288,10 @@
       "Téma: Ryu a WordPress.com-tól"
     ]
   },
-  "navigation_elements": ["Widgetek", "Ugrás a tartalomhoz", "Menü", "Régebbi bejegyzések"]
+  "navigation_elements": [
+    "Widgetek",
+    "Ugrás a tartalomhoz",
+    "Menü",
+    "Régebbi bejegyzések"
+  ]
 }

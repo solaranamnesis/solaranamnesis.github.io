@@ -15,51 +15,186 @@
     "Categorii de Fotografii cu Meteoriți"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "acapulcoit", "count": 2},
-    {"name": "acondrit", "count": 27},
-    {"name": "angrit", "count": 9},
-    {"name": "aubrit", "count": 1},
-    {"name": "Australia", "count": 3},
-    {"name": "brecie", "count": 13},
-    {"name": "incluziune bogată în calciu-aluminiu", "count": 9},
-    {"name": "carbonaceu", "count": 19},
-    {"name": "condrit", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "dar al gani", "count": 2},
-    {"name": "diogenit", "count": 1},
-    {"name": "dunit", "count": 1},
-    {"name": "pământ", "count": 2},
-    {"name": "enstatit", "count": 2},
-    {"name": "eucrit", "count": 9},
-    {"name": "howardit", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranit", "count": 2},
-    {"name": "lunar", "count": 9},
-    {"name": "Marte", "count": 12},
-    {"name": "mesosiderit", "count": 1},
-    {"name": "metacondrit", "count": 1},
-    {"name": "cădere denumită", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "Africa de nord-vest", "count": 63},
-    {"name": "condrit ordinar", "count": 19},
-    {"name": "palasit", "count": 2},
-    {"name": "polarizat", "count": 98},
-    {"name": "acondrit primitiv", "count": 3},
-    {"name": "rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "suprafață", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "neacoperit", "count": 1},
-    {"name": "ureilit", "count": 2},
-    {"name": "întârzietor de undă", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "acapulcoit",
+      "count": 2
+    },
+    {
+      "name": "acondrit",
+      "count": 27
+    },
+    {
+      "name": "angrit",
+      "count": 9
+    },
+    {
+      "name": "aubrit",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 3
+    },
+    {
+      "name": "brecie",
+      "count": 13
+    },
+    {
+      "name": "incluziune bogată în calciu-aluminiu",
+      "count": 9
+    },
+    {
+      "name": "carbonaceu",
+      "count": 19
+    },
+    {
+      "name": "condrit",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "dar al gani",
+      "count": 2
+    },
+    {
+      "name": "diogenit",
+      "count": 1
+    },
+    {
+      "name": "dunit",
+      "count": 1
+    },
+    {
+      "name": "pământ",
+      "count": 2
+    },
+    {
+      "name": "enstatit",
+      "count": 2
+    },
+    {
+      "name": "eucrit",
+      "count": 9
+    },
+    {
+      "name": "howardit",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranit",
+      "count": 2
+    },
+    {
+      "name": "lunar",
+      "count": 9
+    },
+    {
+      "name": "Marte",
+      "count": 12
+    },
+    {
+      "name": "mesosiderit",
+      "count": 1
+    },
+    {
+      "name": "metacondrit",
+      "count": 1
+    },
+    {
+      "name": "cădere denumită",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "Africa de nord-vest",
+      "count": 63
+    },
+    {
+      "name": "condrit ordinar",
+      "count": 19
+    },
+    {
+      "name": "palasit",
+      "count": 2
+    },
+    {
+      "name": "polarizat",
+      "count": 98
+    },
+    {
+      "name": "acondrit primitiv",
+      "count": 3
+    },
+    {
+      "name": "rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "suprafață",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "neacoperit",
+      "count": 1
+    },
+    {
+      "name": "ureilit",
+      "count": 2
+    },
+    {
+      "name": "întârzietor de undă",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
@@ -67,15 +202,24 @@
       "date": "23 aprilie 2020",
       "time": "02:24",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "condrit", "LMScope", "Nikon Z6", "Africa de nord-vest", "condrit ordinar", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "condrit",
+        "LMScope",
+        "Nikon Z6",
+        "Africa de nord-vest",
+        "condrit ordinar",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Secțiune subțire frumoasă a meteoritului NWA 980, cu un fragment mare foarte interesant de litologie aparent diferită.",
         "Panorame în ecran complet ale secțiunilor subțiri de meteoriți:",
         "Vezi pe Gigapan",
         "Vezi cu krpano",
         "Clic pentru a încărca",
-        "Vezi pe Flickr",
-        "Vezi pe Tumblr"
+        "Cumpărați Tipărituri",
+        "Vizitați Magazinul"
       ],
       "image_caption": "Secțiune Subțire de Meteorit NWA 980"
     },
@@ -84,15 +228,25 @@
       "date": "12 aprilie 2020",
       "time": "17:59",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "condrit", "LMScope", "Nikon Z6", "Africa de nord-vest", "condrit ordinar", "polarizat", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "condrit",
+        "LMScope",
+        "Nikon Z6",
+        "Africa de nord-vest",
+        "condrit ordinar",
+        "polarizat",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Aceeași secțiune subțire prezentată în postarea anterioară este văzută aici în lumină polarizată încrucișată.",
         "Panorame în ecran complet ale secțiunilor subțiri de meteoriți:",
         "Vezi pe Gigapan",
         "Vezi cu krpano",
         "Clic pentru a încărca",
-        "Vezi pe Flickr",
-        "Vezi pe Tumblr"
+        "Cumpărați Tipărituri",
+        "Vizitați Magazinul"
       ],
       "image_caption": "Secțiune Subțire de Meteorit NWA 7859"
     },
@@ -101,15 +255,24 @@
       "date": "8 aprilie 2020",
       "time": "21:31",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "condrit", "LMScope", "Nikon Z6", "Africa de nord-vest", "condrit ordinar", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "condrit",
+        "LMScope",
+        "Nikon Z6",
+        "Africa de nord-vest",
+        "condrit ordinar",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Acest mozaic gigapixel în lumină vizibilă al secțiunii subțiri a meteoritului L3 NWA 7859 conține câteva incluziuni extrem de neobișnuite care par să fie grupate în mod caracteristic.",
         "Panorame în ecran complet ale secțiunilor subțiri de meteoriți:",
         "Vezi pe Gigapan",
         "Vezi cu krpano",
         "Clic pentru a încărca",
-        "Vezi pe Flickr",
-        "Vezi pe Tumblr"
+        "Cumpărați Tipărituri",
+        "Vizitați Magazinul"
       ],
       "image_caption": "Secțiune Subțire de Meteorit NWA 7859"
     }
@@ -125,5 +288,10 @@
       "Temă: Ryu de WordPress.com"
     ]
   },
-  "navigation_elements": ["Widgeturi", "Sari la conținut", "Meniu", "Postări mai vechi"]
+  "navigation_elements": [
+    "Widgeturi",
+    "Sari la conținut",
+    "Meniu",
+    "Postări mai vechi"
+  ]
 }

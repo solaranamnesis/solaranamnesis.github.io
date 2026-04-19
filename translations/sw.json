@@ -15,51 +15,186 @@
     "Jamii za Picha za Nyota"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "acapulcoite", "count": 2},
-    {"name": "achondrite", "count": 27},
-    {"name": "angrite", "count": 9},
-    {"name": "aubrite", "count": 1},
-    {"name": "Australia", "count": 3},
-    {"name": "breccia", "count": 13},
-    {"name": "ujumuishaji wenye kalsiamu na alumini", "count": 9},
-    {"name": "kaboni", "count": 19},
-    {"name": "chondrite", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "Dar al Gani", "count": 2},
-    {"name": "diogenite", "count": 1},
-    {"name": "dunite", "count": 1},
-    {"name": "Dunia", "count": 2},
-    {"name": "enstatite", "count": 2},
-    {"name": "eucrite", "count": 9},
-    {"name": "howardite", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranite", "count": 2},
-    {"name": "Mwezi", "count": 9},
-    {"name": "Mars", "count": 12},
-    {"name": "mesosiderite", "count": 1},
-    {"name": "metachondrite", "count": 1},
-    {"name": "anguko iliyopewa jina", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "Magharibi mwa Afrika", "count": 63},
-    {"name": "chondrite ya kawaida", "count": 19},
-    {"name": "pallasite", "count": 2},
-    {"name": "polarized", "count": 98},
-    {"name": "achondrite ya asili", "count": 3},
-    {"name": "Rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "uso", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "haijafunikwa", "count": 1},
-    {"name": "ureilite", "count": 2},
-    {"name": "kizuizi cha wimbi", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "acapulcoite",
+      "count": 2
+    },
+    {
+      "name": "achondrite",
+      "count": 27
+    },
+    {
+      "name": "angrite",
+      "count": 9
+    },
+    {
+      "name": "aubrite",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 3
+    },
+    {
+      "name": "breccia",
+      "count": 13
+    },
+    {
+      "name": "ujumuishaji wenye kalsiamu na alumini",
+      "count": 9
+    },
+    {
+      "name": "kaboni",
+      "count": 19
+    },
+    {
+      "name": "chondrite",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "Dar al Gani",
+      "count": 2
+    },
+    {
+      "name": "diogenite",
+      "count": 1
+    },
+    {
+      "name": "dunite",
+      "count": 1
+    },
+    {
+      "name": "Dunia",
+      "count": 2
+    },
+    {
+      "name": "enstatite",
+      "count": 2
+    },
+    {
+      "name": "eucrite",
+      "count": 9
+    },
+    {
+      "name": "howardite",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranite",
+      "count": 2
+    },
+    {
+      "name": "Mwezi",
+      "count": 9
+    },
+    {
+      "name": "Mars",
+      "count": 12
+    },
+    {
+      "name": "mesosiderite",
+      "count": 1
+    },
+    {
+      "name": "metachondrite",
+      "count": 1
+    },
+    {
+      "name": "anguko iliyopewa jina",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "Magharibi mwa Afrika",
+      "count": 63
+    },
+    {
+      "name": "chondrite ya kawaida",
+      "count": 19
+    },
+    {
+      "name": "pallasite",
+      "count": 2
+    },
+    {
+      "name": "polarized",
+      "count": 98
+    },
+    {
+      "name": "achondrite ya asili",
+      "count": 3
+    },
+    {
+      "name": "Rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "uso",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "haijafunikwa",
+      "count": 1
+    },
+    {
+      "name": "ureilite",
+      "count": 2
+    },
+    {
+      "name": "kizuizi cha wimbi",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
@@ -67,15 +202,24 @@
       "date": "23 Aprili 2020",
       "time": "02:24 asubuhi",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "Magharibi mwa Afrika", "chondrite ya kawaida", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "Magharibi mwa Afrika",
+        "chondrite ya kawaida",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Sehemu nzuri ya nyota NWA 980 na kipande kikubwa sana cha kuvutia cha jiolojia tofauti.",
         "Panoorama za sehemu nya nyota kwa skrini nzima:",
         "Tazama kwenye Gigapan",
         "Tazama na krpano",
         "Bonyeza kupakia",
-        "Tazama kwenye Flickr",
-        "Tazama kwenye Tumblr"
+        "Nunua Machapisho",
+        "Tembelea Duka"
       ],
       "image_caption": "Sehemu Nya nyota NWA 980"
     },
@@ -84,15 +228,25 @@
       "date": "12 Aprili 2020",
       "time": "17:59 jioni",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "Magharibi mwa Afrika", "chondrite ya kawaida", "polarized", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "Magharibi mwa Afrika",
+        "chondrite ya kawaida",
+        "polarized",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Sehemu ileile iliyowasilishwa katika chapuo ya awali inaonekana hapa katika mwanga uliopolarized msalaba.",
         "Panoorama za sehemu nya nyota kwa skrini nzima:",
         "Tazama kwenye Gigapan",
         "Tazama na krpano",
         "Bonyeza kupakia",
-        "Tazama kwenye Flickr",
-        "Tazama kwenye Tumblr"
+        "Nunua Machapisho",
+        "Tembelea Duka"
       ],
       "image_caption": "Sehemu Nya nyota NWA 7859"
     },
@@ -101,15 +255,24 @@
       "date": "8 Aprili 2020",
       "time": "21:31 usiku",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "Magharibi mwa Afrika", "chondrite ya kawaida", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "Magharibi mwa Afrika",
+        "chondrite ya kawaida",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Mosaic ya gigapixel ya sehemu nya nyota katika mwanga unaoonekana wa nyota L3 NWA 7859 ina ujumuishaji fulani usio wa kawaida sana unaonekana kuwa imejumuishwa kwa namna maalum.",
         "Panoorama za sehemu nya nyota kwa skrini nzima:",
         "Tazama kwenye Gigapan",
         "Tazama na krpano",
         "Bonyeza kupakia",
-        "Tazama kwenye Flickr",
-        "Tazama kwenye Tumblr"
+        "Nunua Machapisho",
+        "Tembelea Duka"
       ],
       "image_caption": "Sehemu Nya nyota NWA 7859"
     }
@@ -125,5 +288,10 @@
       "Mada: Ryu na WordPress.com"
     ]
   },
-  "navigation_elements": ["Wijeti", "Ruka hadi yaliyomo", "Menyu", "Chapuo za zamani"]
+  "navigation_elements": [
+    "Wijeti",
+    "Ruka hadi yaliyomo",
+    "Menyu",
+    "Chapuo za zamani"
+  ]
 }

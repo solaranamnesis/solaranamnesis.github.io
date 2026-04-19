@@ -1,7 +1,7 @@
 {
   "extraction_date": "2026-04-18",
   "source_file": "pasted-content-2026-04-18T04-15-59.txt",
-  "website_title": "Solar Anamnesis | Sceny z m\u0142odo\u015bci Uk\u0142adu S\u0142onecznego",
+  "website_title": "Solar Anamnesis | Sceny z młodości Układu Słonecznego",
   "navigation_main": [
     "Pulpit",
     "O nas",
@@ -12,118 +12,286 @@
   "sidebar_widgets": [
     "Szukaj",
     "Szukaj w Solar Anamnesis",
-    "Kategorie zdj\u0119\u0107 meteoryt\u00f3w"
+    "Kategorie zdjęć meteorytów"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "akapulkoit", "count": 2},
-    {"name": "achondryt", "count": 27},
-    {"name": "angryt", "count": 9},
-    {"name": "aubryt", "count": 1},
-    {"name": "Australia", "count": 3},
-    {"name": "brekcja", "count": 13},
-    {"name": "w\u0142\u0105czenia bogate w wap\u0144 i glin", "count": 9},
-    {"name": "w\u0119glowy", "count": 19},
-    {"name": "chondryt", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "Dar al Gani", "count": 2},
-    {"name": "diogenit", "count": 1},
-    {"name": "dunit", "count": 1},
-    {"name": "Ziemia", "count": 2},
-    {"name": "enstatyt", "count": 2},
-    {"name": "eukryt", "count": 9},
-    {"name": "howardyty", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranit", "count": 2},
-    {"name": "ksi\u0119\u017cycowy", "count": 9},
-    {"name": "Mars", "count": 12},
-    {"name": "mezosyderyt", "count": 1},
-    {"name": "metachondryt", "count": 1},
-    {"name": "upadek nazwany", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "p\u00f3\u0142nocno-zachodnia Afryka", "count": 63},
-    {"name": "chondryt zwyk\u0142y", "count": 19},
-    {"name": "pallasit", "count": 2},
-    {"name": "spolaryzowany", "count": 98},
-    {"name": "prymitywny achondryt", "count": 3},
-    {"name": "Rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "powierzchnia", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "niepokryty", "count": 1},
-    {"name": "ureilit", "count": 2},
-    {"name": "op\u00f3\u017aniacz fali", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "akapulkoit",
+      "count": 2
+    },
+    {
+      "name": "achondryt",
+      "count": 27
+    },
+    {
+      "name": "angryt",
+      "count": 9
+    },
+    {
+      "name": "aubryt",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 3
+    },
+    {
+      "name": "brekcja",
+      "count": 13
+    },
+    {
+      "name": "włączenia bogate w wapń i glin",
+      "count": 9
+    },
+    {
+      "name": "węglowy",
+      "count": 19
+    },
+    {
+      "name": "chondryt",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "Dar al Gani",
+      "count": 2
+    },
+    {
+      "name": "diogenit",
+      "count": 1
+    },
+    {
+      "name": "dunit",
+      "count": 1
+    },
+    {
+      "name": "Ziemia",
+      "count": 2
+    },
+    {
+      "name": "enstatyt",
+      "count": 2
+    },
+    {
+      "name": "eukryt",
+      "count": 9
+    },
+    {
+      "name": "howardyty",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranit",
+      "count": 2
+    },
+    {
+      "name": "księżycowy",
+      "count": 9
+    },
+    {
+      "name": "Mars",
+      "count": 12
+    },
+    {
+      "name": "mezosyderyt",
+      "count": 1
+    },
+    {
+      "name": "metachondryt",
+      "count": 1
+    },
+    {
+      "name": "upadek nazwany",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "północno-zachodnia Afryka",
+      "count": 63
+    },
+    {
+      "name": "chondryt zwykły",
+      "count": 19
+    },
+    {
+      "name": "pallasit",
+      "count": 2
+    },
+    {
+      "name": "spolaryzowany",
+      "count": 98
+    },
+    {
+      "name": "prymitywny achondryt",
+      "count": 3
+    },
+    {
+      "name": "Rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "powierzchnia",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "niepokryty",
+      "count": 1
+    },
+    {
+      "name": "ureilit",
+      "count": 2
+    },
+    {
+      "name": "opóźniacz fali",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
-      "title": "Przekr\u00f3j cienki meteorytu NWA 980",
+      "title": "Przekrój cienki meteorytu NWA 980",
       "date": "23 kwietnia 2020",
       "time": "02:24",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondryt", "LMScope", "Nikon Z6", "p\u00f3\u0142nocno-zachodnia Afryka", "chondryt zwyk\u0142y", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondryt",
+        "LMScope",
+        "Nikon Z6",
+        "północno-zachodnia Afryka",
+        "chondryt zwykły",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
-        "Pi\u0119kny przekr\u00f3j cienki meteorytu NWA 980 z bardzo interesuj\u0105cym du\u017cym od\u0142amkiem pozornie innej litologii.",
-        "Pe\u0142noekranowe panoramy przekroj\u00f3w cienkich meteoryt\u00f3w:",
+        "Piękny przekrój cienki meteorytu NWA 980 z bardzo interesującym dużym odłamkiem pozornie innej litologii.",
+        "Pełnoekranowe panoramy przekrojów cienkich meteorytów:",
         "Zobacz na Gigapan",
         "Zobacz z krpano",
-        "Kliknij aby za\u0142adowa\u0107",
-        "Zobacz na Flickr",
-        "Zobacz na Tumblr"
+        "Kliknij aby załadować",
+        "Kup Wydruki",
+        "Odwiedź Sklep"
       ],
-      "image_caption": "Przekr\u00f3j cienki meteorytu NWA 980"
+      "image_caption": "Przekrój cienki meteorytu NWA 980"
     },
     {
-      "title": "Przekr\u00f3j cienki meteorytu NWA 7859",
+      "title": "Przekrój cienki meteorytu NWA 7859",
       "date": "12 kwietnia 2020",
       "time": "17:59",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondryt", "LMScope", "Nikon Z6", "p\u00f3\u0142nocno-zachodnia Afryka", "chondryt zwyk\u0142y", "spolaryzowany", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondryt",
+        "LMScope",
+        "Nikon Z6",
+        "północno-zachodnia Afryka",
+        "chondryt zwykły",
+        "spolaryzowany",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
-        "Ten sam przekr\u00f3j cienki przedstawiony w poprzednim po\u015bcie jest widoczny tutaj w \u015bwietle spolaryzowanym poprzecznie.",
-        "Pe\u0142noekranowe panoramy przekroj\u00f3w cienkich meteoryt\u00f3w:",
+        "Ten sam przekrój cienki przedstawiony w poprzednim poście jest widoczny tutaj w świetle spolaryzowanym poprzecznie.",
+        "Pełnoekranowe panoramy przekrojów cienkich meteorytów:",
         "Zobacz na Gigapan",
         "Zobacz z krpano",
-        "Kliknij aby za\u0142adowa\u0107",
-        "Zobacz na Flickr",
-        "Zobacz na Tumblr"
+        "Kliknij aby załadować",
+        "Kup Wydruki",
+        "Odwiedź Sklep"
       ],
-      "image_caption": "Przekr\u00f3j cienki meteorytu NWA 7859"
+      "image_caption": "Przekrój cienki meteorytu NWA 7859"
     },
     {
-      "title": "Przekr\u00f3j cienki meteorytu NWA 7859",
+      "title": "Przekrój cienki meteorytu NWA 7859",
       "date": "8 kwietnia 2020",
       "time": "21:31",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondryt", "LMScope", "Nikon Z6", "p\u00f3\u0142nocno-zachodnia Afryka", "chondryt zwyk\u0142y", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondryt",
+        "LMScope",
+        "Nikon Z6",
+        "północno-zachodnia Afryka",
+        "chondryt zwykły",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
-        "Ta mozaika gigapikseli przekroju cienkiego w \u015bwietle widzialnym meteorytu L3 NWA 7859 zawiera niekt\u00f3re wyj\u0105tkowo nietyp\u00f3we wtr\u0105cenia, kt\u00f3re wydaj\u0105 si\u0119 by\u0107 charakterystycznie pogrupowane.",
-        "Pe\u0142noekranowe panoramy przekroj\u00f3w cienkich meteoryt\u00f3w:",
+        "Ta mozaika gigapikseli przekroju cienkiego w świetle widzialnym meteorytu L3 NWA 7859 zawiera niektóre wyjątkowo nietypówe wtrącenia, które wydają się być charakterystycznie pogrupowane.",
+        "Pełnoekranowe panoramy przekrojów cienkich meteorytów:",
         "Zobacz na Gigapan",
         "Zobacz z krpano",
-        "Kliknij aby za\u0142adowa\u0107",
-        "Zobacz na Flickr",
-        "Zobacz na Tumblr"
+        "Kliknij aby załadować",
+        "Kup Wydruki",
+        "Odwiedź Sklep"
       ],
-      "image_caption": "Przekr\u00f3j cienki meteorytu NWA 7859"
+      "image_caption": "Przekrój cienki meteorytu NWA 7859"
     }
   ],
   "site_metadata": {
     "platform": "WordPress 5.4",
     "theme": "Ryu przez WordPress.com",
-    "site_description": "Sceny z m\u0142odo\u015bci Uk\u0142adu S\u0142onecznego",
+    "site_description": "Sceny z młodości Układu Słonecznego",
     "footer_links": [
-      "Zosta\u0144 przyjacielem GNOME",
+      "Zostań przyjacielem GNOME",
       "Link GNU",
-      "Dumnie obs\u0142ugiwany przez WordPress",
+      "Dumnie obsługiwany przez WordPress",
       "Motyw: Ryu przez WordPress.com"
     ]
   },
-  "navigation_elements": ["Wid\u017cety", "Przejd\u017a do tre\u015bci", "Menu", "Starsze wpisy"]
+  "navigation_elements": [
+    "Widżety",
+    "Przejdź do treści",
+    "Menu",
+    "Starsze wpisy"
+  ]
 }

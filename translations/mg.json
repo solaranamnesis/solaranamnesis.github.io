@@ -15,51 +15,186 @@
     "Karazan-tsary meteorite"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "acapulcoite", "count": 2},
-    {"name": "achondrite", "count": 27},
-    {"name": "angrite", "count": 9},
-    {"name": "aubrite", "count": 1},
-    {"name": "Aostralia", "count": 3},
-    {"name": "breccia", "count": 13},
-    {"name": "fampidirana misy calcium sy aluminium", "count": 9},
-    {"name": "karbona", "count": 19},
-    {"name": "chondrite", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "Dar al Gani", "count": 2},
-    {"name": "diogenite", "count": 1},
-    {"name": "dunite", "count": 1},
-    {"name": "Tany", "count": 2},
-    {"name": "enstatite", "count": 2},
-    {"name": "eucrite", "count": 9},
-    {"name": "howardite", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranite", "count": 2},
-    {"name": "Volana", "count": 9},
-    {"name": "Mars", "count": 12},
-    {"name": "mesosiderite", "count": 1},
-    {"name": "metachondrite", "count": 1},
-    {"name": "fanaraha-maso voatonona", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "Andrefana Avaratra Afrika", "count": 63},
-    {"name": "chondrite mahazatra", "count": 19},
-    {"name": "pallasite", "count": 2},
-    {"name": "polarized", "count": 98},
-    {"name": "achondrite voalohany", "count": 3},
-    {"name": "Rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "faritra", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "tsy voasarona", "count": 1},
-    {"name": "ureilite", "count": 2},
-    {"name": "mpampihemotra onja", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "acapulcoite",
+      "count": 2
+    },
+    {
+      "name": "achondrite",
+      "count": 27
+    },
+    {
+      "name": "angrite",
+      "count": 9
+    },
+    {
+      "name": "aubrite",
+      "count": 1
+    },
+    {
+      "name": "Aostralia",
+      "count": 3
+    },
+    {
+      "name": "breccia",
+      "count": 13
+    },
+    {
+      "name": "fampidirana misy calcium sy aluminium",
+      "count": 9
+    },
+    {
+      "name": "karbona",
+      "count": 19
+    },
+    {
+      "name": "chondrite",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "Dar al Gani",
+      "count": 2
+    },
+    {
+      "name": "diogenite",
+      "count": 1
+    },
+    {
+      "name": "dunite",
+      "count": 1
+    },
+    {
+      "name": "Tany",
+      "count": 2
+    },
+    {
+      "name": "enstatite",
+      "count": 2
+    },
+    {
+      "name": "eucrite",
+      "count": 9
+    },
+    {
+      "name": "howardite",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranite",
+      "count": 2
+    },
+    {
+      "name": "Volana",
+      "count": 9
+    },
+    {
+      "name": "Mars",
+      "count": 12
+    },
+    {
+      "name": "mesosiderite",
+      "count": 1
+    },
+    {
+      "name": "metachondrite",
+      "count": 1
+    },
+    {
+      "name": "fanaraha-maso voatonona",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "Andrefana Avaratra Afrika",
+      "count": 63
+    },
+    {
+      "name": "chondrite mahazatra",
+      "count": 19
+    },
+    {
+      "name": "pallasite",
+      "count": 2
+    },
+    {
+      "name": "polarized",
+      "count": 98
+    },
+    {
+      "name": "achondrite voalohany",
+      "count": 3
+    },
+    {
+      "name": "Rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "faritra",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "tsy voasarona",
+      "count": 1
+    },
+    {
+      "name": "ureilite",
+      "count": 2
+    },
+    {
+      "name": "mpampihemotra onja",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
@@ -67,15 +202,24 @@
       "date": "23 Aprily 2020",
       "time": "02:24",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "Andrefana Avaratra Afrika", "chondrite mahazatra", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "Andrefana Avaratra Afrika",
+        "chondrite mahazatra",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Fizarana manify tsara ho an'ny meteorite NWA 980 misy ampahany lehibe be dia be izay toa lithology hafa.",
         "Panorama amin'ny fizarana manify amin'ny meteorite amin'ny efijery feno:",
         "Jereo amin'ny Gigapan",
         "Jereo amin'ny krpano",
         "Kliky mba hampitovina",
-        "Jereo amin'ny Flickr",
-        "Jereo amin'ny Tumblr"
+        "Mividiana Printy",
+        "Tsidiho ny Fivarotana"
       ],
       "image_caption": "Fizarana manify amin'ny meteorite NWA 980"
     },
@@ -84,15 +228,25 @@
       "date": "12 Aprily 2020",
       "time": "17:59",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "Andrefana Avaratra Afrika", "chondrite mahazatra", "polarized", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "Andrefana Avaratra Afrika",
+        "chondrite mahazatra",
+        "polarized",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Ny fizarana manify mitovy izay nampiseho tamin'ny lahatsoratra teo aloha dia hita eto amin'ny hazavana polarized mifanitsy.",
         "Panorama amin'ny fizarana manify amin'ny meteorite amin'ny efijery feno:",
         "Jereo amin'ny Gigapan",
         "Jereo amin'ny krpano",
         "Kliky mba hampitovina",
-        "Jereo amin'ny Flickr",
-        "Jereo amin'ny Tumblr"
+        "Mividiana Printy",
+        "Tsidiho ny Fivarotana"
       ],
       "image_caption": "Fizarana manify amin'ny meteorite NWA 7859"
     },
@@ -101,15 +255,24 @@
       "date": "8 Aprily 2020",
       "time": "21:31",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "chondrite", "LMScope", "Nikon Z6", "Andrefana Avaratra Afrika", "chondrite mahazatra", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "chondrite",
+        "LMScope",
+        "Nikon Z6",
+        "Andrefana Avaratra Afrika",
+        "chondrite mahazatra",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Ity mosaïque gigapixel amin'ny fizarana manify amin'ny hazavana hita maso amin'ny meteorite L3 NWA 7859 ity dia misy fampidirana sasany izay tsy mahazatra be ary toa voaikidy amin'ny fomba manokana.",
         "Panorama amin'ny fizarana manify amin'ny meteorite amin'ny efijery feno:",
         "Jereo amin'ny Gigapan",
         "Jereo amin'ny krpano",
         "Kliky mba hampitovina",
-        "Jereo amin'ny Flickr",
-        "Jereo amin'ny Tumblr"
+        "Mividiana Printy",
+        "Tsidiho ny Fivarotana"
       ],
       "image_caption": "Fizarana manify amin'ny meteorite NWA 7859"
     }
@@ -196,8 +359,8 @@
     "Jereo amin'ny Gigapan",
     "Jereo amin'ny krpano",
     "Kliky mba hampitovina",
-    "Jereo amin'ny Flickr",
-    "Jereo amin'ny Tumblr",
+    "Mividiana Printy",
+    "Tsidiho ny Fivarotana",
     "23 Aprily 2020",
     "02:24",
     "solaranamnesis",

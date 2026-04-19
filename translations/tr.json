@@ -15,51 +15,186 @@
     "Meteorit Fotoğraf Kategorileri"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "acapulcoit", "count": 2},
-    {"name": "akondrit", "count": 27},
-    {"name": "angrit", "count": 9},
-    {"name": "aubrit", "count": 1},
-    {"name": "Avustralya", "count": 3},
-    {"name": "brekçia", "count": 13},
-    {"name": "kalsiyum-alüminyum açısından zengin dahil", "count": 9},
-    {"name": "karbonlu", "count": 19},
-    {"name": "kondrit", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "Dar al Gani", "count": 2},
-    {"name": "diogenit", "count": 1},
-    {"name": "dunit", "count": 1},
-    {"name": "Dünya", "count": 2},
-    {"name": "enstatit", "count": 2},
-    {"name": "eukrit", "count": 9},
-    {"name": "howardit", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranit", "count": 2},
-    {"name": "Ay", "count": 9},
-    {"name": "Mars", "count": 12},
-    {"name": "mesosiderit", "count": 1},
-    {"name": "metakondrit", "count": 1},
-    {"name": "adlandırılmış düşüş", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "Kuzeybatı Afrika", "count": 63},
-    {"name": "normal kondrit", "count": 19},
-    {"name": "pallasit", "count": 2},
-    {"name": "polarize", "count": 98},
-    {"name": "ilkel akondrit", "count": 3},
-    {"name": "Rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "yüzey", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "örtülü değil", "count": 1},
-    {"name": "üreilit", "count": 2},
-    {"name": "dalga geciktirici", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "acapulcoit",
+      "count": 2
+    },
+    {
+      "name": "akondrit",
+      "count": 27
+    },
+    {
+      "name": "angrit",
+      "count": 9
+    },
+    {
+      "name": "aubrit",
+      "count": 1
+    },
+    {
+      "name": "Avustralya",
+      "count": 3
+    },
+    {
+      "name": "brekçia",
+      "count": 13
+    },
+    {
+      "name": "kalsiyum-alüminyum açısından zengin dahil",
+      "count": 9
+    },
+    {
+      "name": "karbonlu",
+      "count": 19
+    },
+    {
+      "name": "kondrit",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "Dar al Gani",
+      "count": 2
+    },
+    {
+      "name": "diogenit",
+      "count": 1
+    },
+    {
+      "name": "dunit",
+      "count": 1
+    },
+    {
+      "name": "Dünya",
+      "count": 2
+    },
+    {
+      "name": "enstatit",
+      "count": 2
+    },
+    {
+      "name": "eukrit",
+      "count": 9
+    },
+    {
+      "name": "howardit",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranit",
+      "count": 2
+    },
+    {
+      "name": "Ay",
+      "count": 9
+    },
+    {
+      "name": "Mars",
+      "count": 12
+    },
+    {
+      "name": "mesosiderit",
+      "count": 1
+    },
+    {
+      "name": "metakondrit",
+      "count": 1
+    },
+    {
+      "name": "adlandırılmış düşüş",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "Kuzeybatı Afrika",
+      "count": 63
+    },
+    {
+      "name": "normal kondrit",
+      "count": 19
+    },
+    {
+      "name": "pallasit",
+      "count": 2
+    },
+    {
+      "name": "polarize",
+      "count": 98
+    },
+    {
+      "name": "ilkel akondrit",
+      "count": 3
+    },
+    {
+      "name": "Rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "yüzey",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "örtülü değil",
+      "count": 1
+    },
+    {
+      "name": "üreilit",
+      "count": 2
+    },
+    {
+      "name": "dalga geciktirici",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
@@ -67,15 +202,24 @@
       "date": "23 Nisan 2020",
       "time": "02:24",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "kondrit", "LMScope", "Nikon Z6", "Kuzeybatı Afrika", "normal kondrit", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "kondrit",
+        "LMScope",
+        "Nikon Z6",
+        "Kuzeybatı Afrika",
+        "normal kondrit",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Görünüşe göre farklı litolojiye sahip çok ilginç büyük bir parça ile güzel NWA 980 meteoriti ince kesiti.",
         "Tam ekran meteorit ince kesit panoramaları:",
         "Gigapan'da Görüntüle",
         "krpano ile Görüntüle",
         "Yüklemek için tıklayın",
-        "Flickr'da Görüntüle",
-        "Tumblr'da Görüntüle"
+        "Baskıları Satın Al",
+        "Mağazayı Ziyaret Et"
       ],
       "image_caption": "NWA 980 Meteoriti İnce Kesiti"
     },
@@ -84,15 +228,25 @@
       "date": "12 Nisan 2020",
       "time": "17:59",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "kondrit", "LMScope", "Nikon Z6", "Kuzeybatı Afrika", "normal kondrit", "polarize", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "kondrit",
+        "LMScope",
+        "Nikon Z6",
+        "Kuzeybatı Afrika",
+        "normal kondrit",
+        "polarize",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Önceki gönderide sunulan aynı ince kesit burada çapraz polarize ışıkta görülmektedir.",
         "Tam ekran meteorit ince kesit panoramaları:",
         "Gigapan'da Görüntüle",
         "krpano ile Görüntüle",
         "Yüklemek için tıklayın",
-        "Flickr'da Görüntüle",
-        "Tumblr'da Görüntüle"
+        "Baskıları Satın Al",
+        "Mağazayı Ziyaret Et"
       ],
       "image_caption": "NWA 7859 Meteoriti İnce Kesiti"
     },
@@ -101,15 +255,24 @@
       "date": "8 Nisan 2020",
       "time": "21:31",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "kondrit", "LMScope", "Nikon Z6", "Kuzeybatı Afrika", "normal kondrit", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "kondrit",
+        "LMScope",
+        "Nikon Z6",
+        "Kuzeybatı Afrika",
+        "normal kondrit",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "L3 NWA 7859 meteoritinin görünür ışık ince kesitinin bu gigapiksel mozaiği, karakteristik olarak gruplanmış gibi görünen bazı son derece alışılmadık dahil olanları içeriyor.",
         "Tam ekran meteorit ince kesit panoramaları:",
         "Gigapan'da Görüntüle",
         "krpano ile Görüntüle",
         "Yüklemek için tıklayın",
-        "Flickr'da Görüntüle",
-        "Tumblr'da Görüntüle"
+        "Baskıları Satın Al",
+        "Mağazayı Ziyaret Et"
       ],
       "image_caption": "NWA 7859 Meteoriti İnce Kesiti"
     }
@@ -125,5 +288,10 @@
       "Tema: WordPress.com tarafından Ryu"
     ]
   },
-  "navigation_elements": ["Araçlar", "İçeriğe geç", "Menü", "Eski gönderiler"]
+  "navigation_elements": [
+    "Araçlar",
+    "İçeriğe geç",
+    "Menü",
+    "Eski gönderiler"
+  ]
 }

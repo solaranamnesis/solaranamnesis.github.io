@@ -15,51 +15,186 @@
     "Categories de fotos de meteorits"
   ],
   "meteorite_categories": [
-    {"name": "10x/0.25", "count": 17},
-    {"name": "4x/0.25", "count": 86},
-    {"name": "A35140U CCD 14MP", "count": 10},
-    {"name": "A3550UPA CCD 5MP", "count": 37},
-    {"name": "acapulcoït", "count": 2},
-    {"name": "acòndrit", "count": 27},
-    {"name": "angrit", "count": 9},
-    {"name": "aubrit", "count": 1},
-    {"name": "Austràlia", "count": 3},
-    {"name": "breccia", "count": 13},
-    {"name": "inclusions riques en calci i alumini", "count": 9},
-    {"name": "carbonaci", "count": 19},
-    {"name": "condrit", "count": 43},
-    {"name": "CO", "count": 4},
-    {"name": "CV", "count": 3},
-    {"name": "Dar al Gani", "count": 2},
-    {"name": "diogenit", "count": 1},
-    {"name": "dunit", "count": 1},
-    {"name": "Terra", "count": 2},
-    {"name": "enstatit", "count": 2},
-    {"name": "eucrit", "count": 9},
-    {"name": "howardit", "count": 1},
-    {"name": "LMScope", "count": 52},
-    {"name": "lodranit", "count": 2},
-    {"name": "Lluna", "count": 9},
-    {"name": "Mart", "count": 12},
-    {"name": "mesosiderit", "count": 1},
-    {"name": "metacòndrit", "count": 1},
-    {"name": "caiguda anomenada", "count": 30},
-    {"name": "Nikon D810", "count": 45},
-    {"name": "Nikon Z6", "count": 7},
-    {"name": "Nord-oest d'Àfrica", "count": 63},
-    {"name": "condrit comú", "count": 19},
-    {"name": "pallasit", "count": 2},
-    {"name": "polaritzat", "count": 98},
-    {"name": "acòndrit primitiu", "count": 3},
-    {"name": "Rumuruti", "count": 1},
-    {"name": "scope1", "count": 4},
-    {"name": "scope2", "count": 103},
-    {"name": "superfície", "count": 5},
-    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
-    {"name": "despullat", "count": 1},
-    {"name": "ureilit", "count": 2},
-    {"name": "retrasador d'ona", "count": 5},
-    {"name": "zerene stacker", "count": 99}
+    {
+      "name": "10x/0.25",
+      "count": 17
+    },
+    {
+      "name": "4x/0.25",
+      "count": 86
+    },
+    {
+      "name": "A35140U CCD 14MP",
+      "count": 10
+    },
+    {
+      "name": "A3550UPA CCD 5MP",
+      "count": 37
+    },
+    {
+      "name": "acapulcoït",
+      "count": 2
+    },
+    {
+      "name": "acòndrit",
+      "count": 27
+    },
+    {
+      "name": "angrit",
+      "count": 9
+    },
+    {
+      "name": "aubrit",
+      "count": 1
+    },
+    {
+      "name": "Austràlia",
+      "count": 3
+    },
+    {
+      "name": "breccia",
+      "count": 13
+    },
+    {
+      "name": "inclusions riques en calci i alumini",
+      "count": 9
+    },
+    {
+      "name": "carbonaci",
+      "count": 19
+    },
+    {
+      "name": "condrit",
+      "count": 43
+    },
+    {
+      "name": "CO",
+      "count": 4
+    },
+    {
+      "name": "CV",
+      "count": 3
+    },
+    {
+      "name": "Dar al Gani",
+      "count": 2
+    },
+    {
+      "name": "diogenit",
+      "count": 1
+    },
+    {
+      "name": "dunit",
+      "count": 1
+    },
+    {
+      "name": "Terra",
+      "count": 2
+    },
+    {
+      "name": "enstatit",
+      "count": 2
+    },
+    {
+      "name": "eucrit",
+      "count": 9
+    },
+    {
+      "name": "howardit",
+      "count": 1
+    },
+    {
+      "name": "LMScope",
+      "count": 52
+    },
+    {
+      "name": "lodranit",
+      "count": 2
+    },
+    {
+      "name": "Lluna",
+      "count": 9
+    },
+    {
+      "name": "Mart",
+      "count": 12
+    },
+    {
+      "name": "mesosiderit",
+      "count": 1
+    },
+    {
+      "name": "metacòndrit",
+      "count": 1
+    },
+    {
+      "name": "caiguda anomenada",
+      "count": 30
+    },
+    {
+      "name": "Nikon D810",
+      "count": 45
+    },
+    {
+      "name": "Nikon Z6",
+      "count": 7
+    },
+    {
+      "name": "Nord-oest d'Àfrica",
+      "count": 63
+    },
+    {
+      "name": "condrit comú",
+      "count": 19
+    },
+    {
+      "name": "pallasit",
+      "count": 2
+    },
+    {
+      "name": "polaritzat",
+      "count": 98
+    },
+    {
+      "name": "acòndrit primitiu",
+      "count": 3
+    },
+    {
+      "name": "Rumuruti",
+      "count": 1
+    },
+    {
+      "name": "scope1",
+      "count": 4
+    },
+    {
+      "name": "scope2",
+      "count": 103
+    },
+    {
+      "name": "superfície",
+      "count": 5
+    },
+    {
+      "name": "Tucsen C30 3MP sCMOS",
+      "count": 13
+    },
+    {
+      "name": "despullat",
+      "count": 1
+    },
+    {
+      "name": "ureilit",
+      "count": 2
+    },
+    {
+      "name": "retrasador d'ona",
+      "count": 5
+    },
+    {
+      "name": "zerene stacker",
+      "count": 99
+    }
   ],
   "articles": [
     {
@@ -67,15 +202,24 @@
       "date": "23 d'abril de 2020",
       "time": "02:24",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "condrit", "LMScope", "Nikon Z6", "Nord-oest d'Àfrica", "condrit comú", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "condrit",
+        "LMScope",
+        "Nikon Z6",
+        "Nord-oest d'Àfrica",
+        "condrit comú",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Bonic tall prim del meteorit NWA 980 amb un fragment gran i molt interessant de litologia aparentment diferent.",
         "Panoràmiques de talls prim de meteorits a pantalla completa:",
         "Veure a Gigapan",
         "Veure amb krpano",
         "Feu clic per carregar",
-        "Veure a Flickr",
-        "Veure a Tumblr"
+        "Comprar Impressions",
+        "Visitar la Botiga"
       ],
       "image_caption": "Tall prim del meteorit NWA 980"
     },
@@ -84,15 +228,25 @@
       "date": "12 d'abril de 2020",
       "time": "17:59",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "condrit", "LMScope", "Nikon Z6", "Nord-oest d'Àfrica", "condrit comú", "polaritzat", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "condrit",
+        "LMScope",
+        "Nikon Z6",
+        "Nord-oest d'Àfrica",
+        "condrit comú",
+        "polaritzat",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "El mateix tall prim presentat a la publicació anterior es veu aquí en llum polaritzada creuada.",
         "Panoràmiques de talls prim de meteorits a pantalla completa:",
         "Veure a Gigapan",
         "Veure amb krpano",
         "Feu clic per carregar",
-        "Veure a Flickr",
-        "Veure a Tumblr"
+        "Comprar Impressions",
+        "Visitar la Botiga"
       ],
       "image_caption": "Tall prim del meteorit NWA 7859"
     },
@@ -101,15 +255,24 @@
       "date": "8 d'abril de 2020",
       "time": "21:31",
       "author": "solaranamnesis",
-      "categories": ["4x/0.25", "condrit", "LMScope", "Nikon Z6", "Nord-oest d'Àfrica", "condrit comú", "scope2", "zerene stacker"],
+      "categories": [
+        "4x/0.25",
+        "condrit",
+        "LMScope",
+        "Nikon Z6",
+        "Nord-oest d'Àfrica",
+        "condrit comú",
+        "scope2",
+        "zerene stacker"
+      ],
       "body_text": [
         "Aquest mosaic de gigapíxels del tall prim en llum visible del meteorit L3 NWA 7859 conté algunes inclusions molt inusuals que semblen estar agrupades de manera característica.",
         "Panoràmiques de talls prim de meteorits a pantalla completa:",
         "Veure a Gigapan",
         "Veure amb krpano",
         "Feu clic per carregar",
-        "Veure a Flickr",
-        "Veure a Tumblr"
+        "Comprar Impressions",
+        "Visitar la Botiga"
       ],
       "image_caption": "Tall prim del meteorit NWA 7859"
     }
@@ -196,8 +359,8 @@
     "Veure a Gigapan",
     "Veure amb krpano",
     "Feu clic per carregar",
-    "Veure a Flickr",
-    "Veure a Tumblr",
+    "Comprar Impressions",
+    "Visitar la Botiga",
     "23 d'abril de 2020",
     "02:24",
     "solaranamnesis",
