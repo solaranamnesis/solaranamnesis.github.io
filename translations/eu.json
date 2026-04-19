@@ -1,0 +1,129 @@
+{
+  "extraction_date": "2026-04-18",
+  "source_file": "pasted-content-2026-04-18T04-15-59.txt",
+  "website_title": "Solar Anamnesis | Eguzki-sistemaren gaztetasunaren eszenak",
+  "navigation_main": [
+    "Mahaigaina",
+    "Guri buruz",
+    "Galeria",
+    "Denda",
+    "Panorama Galeria"
+  ],
+  "sidebar_widgets": [
+    "Bilatu",
+    "Bilatu Solar Anamnesis-en",
+    "Meteoritoen argazkien kategoriak"
+  ],
+  "meteorite_categories": [
+    {"name": "10x/0.25", "count": 17},
+    {"name": "4x/0.25", "count": 86},
+    {"name": "A35140U CCD 14MP", "count": 10},
+    {"name": "A3550UPA CCD 5MP", "count": 37},
+    {"name": "acapulcoita", "count": 2},
+    {"name": "akondrita", "count": 27},
+    {"name": "angrita", "count": 9},
+    {"name": "aubrita", "count": 1},
+    {"name": "Australia", "count": 3},
+    {"name": "brekzia", "count": 13},
+    {"name": "kaltzio-aluminio aberatsa", "count": 9},
+    {"name": "karbonatua", "count": 19},
+    {"name": "kondrita", "count": 43},
+    {"name": "CO", "count": 4},
+    {"name": "CV", "count": 3},
+    {"name": "Dar al Gani", "count": 2},
+    {"name": "diogenita", "count": 1},
+    {"name": "dunita", "count": 1},
+    {"name": "Lurra", "count": 2},
+    {"name": "enstatita", "count": 2},
+    {"name": "eukrita", "count": 9},
+    {"name": "howardita", "count": 1},
+    {"name": "LMScope", "count": 52},
+    {"name": "lodranita", "count": 2},
+    {"name": "Ilargia", "count": 9},
+    {"name": "Marte", "count": 12},
+    {"name": "mesosiderita", "count": 1},
+    {"name": "metakondrita", "count": 1},
+    {"name": "izendatutako erorketa", "count": 30},
+    {"name": "Nikon D810", "count": 45},
+    {"name": "Nikon Z6", "count": 7},
+    {"name": "Ipar-mendebaldeko Afrika", "count": 63},
+    {"name": "kondrita arrunta", "count": 19},
+    {"name": "pallasita", "count": 2},
+    {"name": "polarizatua", "count": 98},
+    {"name": "akondrita primitiboa", "count": 3},
+    {"name": "Rumuruti", "count": 1},
+    {"name": "scope1", "count": 4},
+    {"name": "scope2", "count": 103},
+    {"name": "gainazala", "count": 5},
+    {"name": "Tucsen C30 3MP sCMOS", "count": 13},
+    {"name": "estali gabea", "count": 1},
+    {"name": "ureilita", "count": 2},
+    {"name": "uhin-atzeratzailea", "count": 5},
+    {"name": "zerene stacker", "count": 99}
+  ],
+  "articles": [
+    {
+      "title": "NWA 980 meteoritoaren xerra mehea",
+      "date": "2020ko apirilaren 23",
+      "time": "02:24",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "kondrita", "LMScope", "Nikon Z6", "Ipar-mendebaldeko Afrika", "kondrita arrunta", "scope2", "zerene stacker"],
+      "body_text": [
+        "NWA 980 meteoritoaren xerra mehe ederra, litologia desberdinaren zati handi eta oso interesgarri batekin.",
+        "Meteoritoen xerra meheen pantaila osoko panoramak:",
+        "Ikusi Gigapan-en",
+        "Ikusi krpano-rekin",
+        "Klikatu kargatzeko",
+        "Ikusi Flickr-en",
+        "Ikusi Tumblr-en"
+      ],
+      "image_caption": "NWA 980 meteoritoaren xerra mehea"
+    },
+    {
+      "title": "NWA 7859 meteoritoaren xerra mehea",
+      "date": "2020ko apirilaren 12",
+      "time": "17:59",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "kondrita", "LMScope", "Nikon Z6", "Ipar-mendebaldeko Afrika", "kondrita arrunta", "polarizatua", "scope2", "zerene stacker"],
+      "body_text": [
+        "Aurreko postuan aurkeztutako xerra mehe bera hemen ikusten da argi polarizatuko gurutzatuan.",
+        "Meteoritoen xerra meheen pantaila osoko panoramak:",
+        "Ikusi Gigapan-en",
+        "Ikusi krpano-rekin",
+        "Klikatu kargatzeko",
+        "Ikusi Flickr-en",
+        "Ikusi Tumblr-en"
+      ],
+      "image_caption": "NWA 7859 meteoritoaren xerra mehea"
+    },
+    {
+      "title": "NWA 7859 meteoritoaren xerra mehea",
+      "date": "2020ko apirilaren 8",
+      "time": "21:31",
+      "author": "solaranamnesis",
+      "categories": ["4x/0.25", "kondrita", "LMScope", "Nikon Z6", "Ipar-mendebaldeko Afrika", "kondrita arrunta", "scope2", "zerene stacker"],
+      "body_text": [
+        "L3 NWA 7859 meteoritoaren argi ikusgaiaren xerra mehearen mosaiko gigapixel honek bereizgarri taldekatuta dauden diruditen inklusio arraro batzuk ditu.",
+        "Meteoritoen xerra meheen pantaila osoko panoramak:",
+        "Ikusi Gigapan-en",
+        "Ikusi krpano-rekin",
+        "Klikatu kargatzeko",
+        "Ikusi Flickr-en",
+        "Ikusi Tumblr-en"
+      ],
+      "image_caption": "NWA 7859 meteoritoaren xerra mehea"
+    }
+  ],
+  "site_metadata": {
+    "platform": "WordPress 5.4",
+    "theme": "Ryu WordPress.com-ek",
+    "site_description": "Eguzki-sistemaren gaztetasunaren eszenak",
+    "footer_links": [
+      "Bihurtu GNOMEren laguna",
+      "GNU lotura",
+      "WordPress-ek harrotasunez kudeatua",
+      "Gaia: Ryu WordPress.com-ek"
+    ]
+  },
+  "navigation_elements": ["Widgetak", "Joan edukira", "Menua", "Post zaharragoak"]
+}
