@@ -1,5 +1,8 @@
 User-agent: *
-Disallow:
+Disallow: /wp-json/
+Disallow: /wp-content/uploads/WP-STATIC-CURRENT-ARCHIVE/
+Disallow: /wp-content/uploads/WP-STATIC-EXPORT-LOG/
+Disallow: /wp-content/uploads/WP-STATIC-EXPORT-STATUS/
 
 Sitemap: https://blog.solaranamnesis.com/sitemap.xml
 Sitemap: https://blog.solaranamnesis.com/sitemap.html
