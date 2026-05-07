@@ -1,3 +1,23 @@
+LANGUAGE_CODES = {
+    "FRENCH": "fr",
+    "GERMAN": "de",
+    "SPANISH": "es",
+    "JAPANESE": "ja",
+    "ITALIAN": "it",
+    "RUSSIAN": "ru",
+    "SERBIAN": "sr",
+    "UKRAINIAN": "uk",
+    "CHINESE": "zh",
+    "HEBREW": "he",
+    "THAI": "th",
+    "VIETNAMESE": "vi",
+    "ARABIC": "ar",
+    "HINDI": "hi",
+    "GREEK": "el",
+    "KOREAN": "ko",
+    "PORTUGUESE": "pt",
+}
+
 JAPANESE_ENTRY_TITLE = "顕微写真パノラマの作成"
 JAPANESE_HEADINGS = [
     "機器",
