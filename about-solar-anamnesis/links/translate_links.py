@@ -67,9 +67,12 @@ ENGLISH_CATEGORIES = [
     "zerene stacker",
 ]
 
+ENGLISH_OG_IMAGE_ALT = "NWA 980 meteorite thin section gigapixel mosaic"
+
 ENGLISH_LINKS_REPLACEMENTS = {
     "Meteorite Links | Solar Anamnesis": "Meteorite Links | Solar Anamnesis",
     ENGLISH_META_DESCRIPTION: ENGLISH_META_DESCRIPTION,
+    ENGLISH_OG_IMAGE_ALT: ENGLISH_OG_IMAGE_ALT,
     "Meteorite Links": "Meteorite Links",
     "Meteorite Info/Pictures": "Meteorite Info/Pictures",
     "Virtual Microscope": "Virtual Microscope",
@@ -114,6 +117,30 @@ ENGLISH_LINKS_REPLACEMENTS = {
     "CC0 Books and Articles": "CC0 Books and Articles",
     "Remastered Public Domain (CC0) books and articles on the history and study of meteorites.": "Remastered Public Domain (CC0) books and articles on the history and study of meteorites.",
 }
+
+
+META_DESC_PATTERN = re.compile(r'<meta name="description" content="([^"]+)"')
+OG_IMAGE_ALT_PATTERN = re.compile(r'<meta property="og:image:alt" content="([^"]+)"')
+
+
+def load_about_page_fallbacks(lang_code: str) -> dict[str, str]:
+    """Extract translated meta description and og:image:alt from the corresponding about page.
+
+    These values are shared across all pages and serve as fallbacks when no
+    links-specific translation file provides them.
+    """
+    about_path = ABOUT_DIR / f"index-{lang_code}.html"
+    if not about_path.exists():
+        return {}
+    content = about_path.read_text(encoding="utf-8")
+    fallbacks: dict[str, str] = {}
+    m = META_DESC_PATTERN.search(content)
+    if m and m.group(1) != ENGLISH_META_DESCRIPTION:
+        fallbacks[ENGLISH_META_DESCRIPTION] = m.group(1)
+    m = OG_IMAGE_ALT_PATTERN.search(content)
+    if m and m.group(1) != ENGLISH_OG_IMAGE_ALT:
+        fallbacks[ENGLISH_OG_IMAGE_ALT] = m.group(1)
+    return fallbacks
 
 
 def load_language_variants() -> list[tuple[str, str | None]]:
@@ -206,10 +233,12 @@ def render_language_file(lang_code: str, file_path: Path) -> None:
     shared_translation = load_json(TRANSLATIONS_DIR / f"{lang_code}.json")
     shared_replacements = build_shared_replacements(lang_code, shared_translation)
     links_replacements = load_links_specific_replacements(lang_code)
+    about_fallbacks = load_about_page_fallbacks(lang_code)
 
     content = file_path.read_text(encoding="utf-8")
     content = apply_replacements(content, shared_replacements)
     content = apply_replacements(content, links_replacements)
+    content = apply_replacements(content, about_fallbacks)
     file_path.write_text(content, encoding="utf-8")
 
 
