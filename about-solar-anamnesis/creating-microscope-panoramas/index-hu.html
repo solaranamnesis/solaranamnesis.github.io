@@ -282,68 +282,68 @@
 <article id="post-1805" class="post-1805 page type-page status-publish hentry">
 	<div class="entry-wrap wrap clear">
 				<header class="entry-header">
-			<h1 class="entry-title">Mikrofotográfiai panorámák készítése</h1>			<div class="entry-meta">
+			<h1 class="entry-title">Mikrofotográfiai panorámák létrehozása</h1>			<div class="entry-meta">
 				
 							</div><!-- .entry-meta -->
 		</header><!-- .entry-header -->
 
 		<div class="entry-content clear">
-			<h2>Equipment</h2>
+			<h2>Eszközök</h2>
 <p>Nikon D810</p>
-<p><a href="http://www.lmscope.com/produkt22/LM_digital_adapter_description_en.shtml">LMScope Trinocular Adapter</a></p>
-<p>OMAX Trinocular Metallurgical Microscope</p>
-<p><a href="https://www.bhphotovideo.com/c/product/917729-REG/photogenic_956055_ion_pure_sine_wave.html">Photogenic Ion Lithium-ion Pure Sine Wave Inverter System</a></p>
-<h2>Software</h2>
-<p><a href="http://digicamcontrol.com/">digiCamControl Software</a></p>
-<p>Nikon Photo Converter</p>
+<p><a href="http://www.lmscope.com/produkt22/LM_digital_adapter_description_en.shtml">LMScope trinokuláris adapter</a></p>
+<p>OMAX trinokuláris metallográfiai mikroszkóp</p>
+<p><a href="https://www.bhphotovideo.com/c/product/917729-REG/photogenic_956055_ion_pure_sine_wave.html">Photogenic Ion lítium-ion tiszta szinuszhullámú inverter rendszer</a></p>
+<h2>Szoftver</h2>
+<p><a href="http://digicamcontrol.com/">digiCamControl Szoftver</a></p>
+<p>Nikon Photo Konverter</p>
 <p><a href="http://zerenesystems.com/cms/stacker">Zerene Stacker</a></p>
 <p><a href="http://www.dl-c.com/">Picture Window Pro</a></p>
 <p>GIMP</p>
 <p><a href="https://www.nomachine.com/">NoMachine</a></p>
 <p>ImageMagick</p>
-<h2>Process</h2>
-<p>1. Setup LMScope adapter with Nikon D810; connect Nikon D810 to computer; open and setup digiCamControl.</p>
-<p>2. Adjust light source intensity and camera exposure time.</p>
-<p>3. Find a suitable corner of the thin section with digiCamControl Live View.</p>
-<p>4. Find a suitable starting focus (not too blurry, some objects in focus) with Live View.</p>
-<p>5. Take picture.</p>
-<p>6. Turn focus knob slightly, bringing more objects into focus.</p>
-<p>7. Take picture.</p>
-<p>8. Repeat steps 6 thru 7 until all objects are out-of-focus.</p>
-<p>9. Move microscope stage up/down while monitoring Live View until a new image is in the field of view; make sure there is some overlap with previous field of view.</p>
-<p>10. Repeat steps 4 thru 9 until you have reached the top/bottom of the thin section.</p>
-<p>11. Move microscope stage left/right until a new field of view is obtain with some overlap of previous row/column field of views.</p>
-<p>12. Repeat steps 4 thru 11 until you have reached the opposite side of the thin section.</p>
-<p>13. Take some images of the pure black polarized light, i.e. without any thin section in view &#8211; just in case such an image proves helpful for future editing.</p>
-<p>14. Complete; clean up.</p>
-<p>Note regarding steps 9 and 11: the idea is to capture an overlapping grid of images of the entire thin section so that manual stitching will be possible.</p>
-<p>15. Create folder on computer for a row/column of the image grid.</p>
-<p>16. Convert the raw Nikon files for this row/column into tiff and place into this folder.</p>
-<p>17. Inside the row/column folder create individual folders for each cell of the image grid, i.e. all the different focus captures for each field of view. This is done in order to use Zerene Stacker&#8217;s batch processing features.</p>
-<p>18. Repeat 15 thru 17 for each row/column.</p>
-<p>19. Submit folders as batches to Zerene Stacker and wait for focus stacking to complete.</p>
-<p>20. There should now be a complete set of stacked images for the entire grid arranged in folders for each row/column.</p>
-<p>21. Batch post-processes images with Picture Window Pro (this step is customizable according to the photographer &#8211; consider adding white balance, sharpening, lens curvature fix, and other widgets. UPDATE: I find the best results are obtained if the lens curvature fix is applied on the images before stacking with Zerene Stacker).</p>
-<p>22. There should now be a complete set of focus stacked images which have been post-processed and are now ready for stitching.</p>
-<p>23. Import a row/column of images into GIMP. (Manual stitching is chosen because I have not been able to find software that successfully auto-stitches meteorite thin sections).</p>
-<p>24. Stitch the images within GIMP using the move and blend tool.</p>
-<p>25. Repeat 23 thru 24 for each row/column.</p>
-<p>26. Upload rows/columns to a cloud storage for quick retrieval and backup.</p>
-<p>27. Setup cloud computer on Amazon with 16 processors and 255 GB RAM (or any powerful computer with around 120 GB or more RAM).</p>
-<p>28. Install NoMachine on server and client.</p>
-<p>29. Download rows/columns from cloud storage onto cloud computer.</p>
-<p>30. Open GIMP on cloud computer.</p>
-<p>31. Import each row/column as a new layer in GIMP.</p>
-<p>32. Stitch each row/column together with the move and blend tool.</p>
-<p>33. Add background color as layer.</p>
-<p>34. Export final image as TIFF.</p>
-<p>35. Scale final image to low percentage for web viewing.</p>
-<p>Note, if the image is too big, i.e. larger than 4GB you will be unable to export it in one piece with GIMP as a TIFF. (Update June 2022: The latest version of GIMP, 2.10.32, supports the import and export of BigTIFF, so this step is now optional) Thus, in GIMP you should add horizontal/vertical guide lines and then use the image guillotine tool to export individual images. Then, with ImageMagick use the command:</p>
-<p>convert Image1.tiff Image2.tiff &#8230; -append TIFF64:Output.tiff</p>
-<p>36. Create krpano images.</p>
-<p>37. Upload to Gigapan.</p>
-<p>Note, Gigapan does not like large TIFF files, so use ImageMagick to convert the image from TIFF to PSB and then upload.</p>
-<p>Please let me know if anything is not clear.</p>
+<h2>Folyamat</h2>
+<p>1. Állítsa be az LMScope adaptert a Nikon D810-cal; csatlakoztassa a Nikon D810-at a számítógéphez; nyissa meg és állítsa be a digiCamControlt.</p>
+<p>2. Állítsa be a fényforrás intenzitását és a kamera expozíciós idejét.</p>
+<p>3. A digiCamControl Élő nézet (Live View) segítségével találjon egy megfelelő sarkot a vékony metszetből.</p>
+<p>4. Az Élő nézettel találjon egy megfelelő kezdő fókuszt (nem túl homályos, néhány tárgy éles).</p>
+<p>5. Készítsen fényképet.</p>
+<p>6. Forgassa el kissé a fókuszgombot, több tárgyat élessé téve.</p>
+<p>7. Készítsen fényképet.</p>
+<p>8. Ismételje meg a 6. lépéstől a 7. lépésig, amíg minden tárgy élessé nem válik.</p>
+<p>9. Mozgassa a mikroszkóp asztalát fel/le az Élő nézet figyelése közben, amíg egy új kép megjelenik a látómezőben; győződjön meg arról, hogy van némi átfedés az előző látómezővel.</p>
+<p>10. Ismételje meg a 4. lépéstől a 9. lépésig, amíg el nem éri a vékony metszet tetejét/alsó részét.</p>
+<p>11. Mozgassa a mikroszkóp asztalát balra/jobbra, amíg nem kap egy új látómezőt az előző sor/oszlop látómezőivel való átfedéssel.</p>
+<p>12. Ismételje meg a 4. lépéstől a 11. lépésig, amíg el nem éri a vékony metszet ellentétes oldalát.</p>
+<p>13. Készítsen néhány képet a tiszta fekete polarizált fényről, azaz anélkül, hogy bármilyen vékony metszet lenne a látómezőben – abban az esetben, ha egy ilyen kép hasznosnak bizonyul a jövőbeli szerkesztéshez.</p>
+<p>14. Befejezés; takarítás.</p>
+<p>Megjegyzés a 9. és 11. lépéshez: az ötlet egy átfedő rács képeinek rögzítése az egész vékony metszetből, hogy a manuális varrás lehetséges legyen.</p>
+<p>15. Hozzon létre egy mappát a számítógépen a képrács egy sorához/oszlopához.</p>
+<p>16. Konvertálja a nyers Nikon fájlokat ehhez a sorhoz/oszlophoz TIFF formátumba, és helyezze el őket ebben a mappában.</p>
+<p>17. A sor/oszlop mappa belsejében hozzon létre egyedi mappákat a képrács minden egyes cellájához, azaz minden egyes látómezőhöz tartozó összes különböző fókuszfelvételt. Ezt a Zerene Stacker kötegelt feldolgozási funkcióinak felhasználása érdekében tesszük.</p>
+<p>18. Ismételje meg a 15. lépéstől a 17. lépésig minden sorhoz/oszlophoz.</p>
+<p>19. Küldje el a mappákat kötegként a Zerene Stackerre, és várja meg a fókuszhalmozás befejeződését.</p>
+<p>20. Most már egy teljes készletnek kell lennie a halmozott képekből az egész rácsra, mappákban rendezve minden sorhoz/oszlophoz.</p>
+<p>21. Kötegelt utómunka a képeken a Picture Window Pro-val (ez a lépés a fotóstól függően testreszabható – fontolja meg a fehér egyensúly, élesség, lencsegörbület-korrekció és egyéb widgetek hozzáadását. FRISSÍTÉS: azt tapasztalom, hogy a legjobb eredményeket akkor érjük el, ha a lencsegörbület-korrekciót a Zerene Stackerral való halmozás előtt alkalmazzuk a képeken).</p>
+<p>22. Most már egy teljes készletnek kell lennie a fókuszhalmozott képekből, amelyeket utómunkával láttak el, és most készen állnak a varrásra.</p>
+<p>23. Importáljon egy sort/oszlopot képekből a GIMP-be. (A manuális varrást választottam, mert nem találtam olyan szoftvert, amely sikeresen automatikusan összevarrna meteorit-vékony metszeteket).</p>
+<p>24. Varassa össze a képeket a GIMP-en belül a mozgatási és keverési eszközzel (move and blend tool).</p>
+<p>25. Ismételje meg a 23. lépéstől a 24. lépésig minden sorhoz/oszlophoz.</p>
+<p>26. Töltse fel a sorokat/oszlopokat a felhő tárolóba a gyors lekérés és a biztonsági másolat érdekében.</p>
+<p>27. Állítson be egy felhő számítógépet az Amazonon 16 processzorral és 255 GB RAM-mal (vagy bármely erős számítógépet kb. 120 GB vagy több RAM-mal).</p>
+<p>28. Telepítse a NoMachine-t a szerverre és a kliensre.</p>
+<p>29. Töltse le a sorokat/oszlopokat a felhő tárolóból a felhő számítógépre.</p>
+<p>30. Nyissa meg a GIMP-et a felhő számítógépen.</p>
+<p>31. Importáljon minden sort/oszlopot új rétegként a GIMP-be.</p>
+<p>32. Varassa össze minden sort/oszlopot a mozgatási és keverési eszközzel.</p>
+<p>33. Adjon hozzá háttérszínt rétegként.</p>
+<p>34. Exportálja a végső képet TIFF formátumban.</p>
+<p>35. Skálázza le a végső képet alacsony százalékra a webes megtekintéshez.</p>
+<p>Megjegyzés: ha a kép túl nagy, azaz nagyobb mint 4 GB, nem tudja egyetlen darabként exportálni a GIMP-ben TIFF-ként. (2022. júniusi frissítés: A GIMP legújabb verziója, a 2.10.32 támogatja a BigTIFF importálását és exportálását, így ez a lépés most már opcionális). Tehát a GIMP-ben adjon hozzá vízszintes/függőleges segédvonalakat, majd használja a kép gúillotine eszközét az egyedi képek exportálásához. Ezután az ImageMagickkel használja a következő parancsot:</p>
+<p>convert Image1.tiff Image2.tiff … -append TIFF64:Output.tiff</p>
+<p>36. Hozzon létre krpano képeket.</p>
+<p>37. Töltse fel a Gigapanra.</p>
+<p>Megjegyzés: a Gigapan nem szereti a nagy TIFF fájlokat, ezért használja az ImageMagicket a kép TIFF-ből PSB-be való konvertálására, majd töltse fel.</p>
+<p>Kérjük, értesítsen, ha valami nem egyértelmű.</p>
 					</div><!-- .entry-content -->
 	</div><!-- .entry-wrap -->
 </article><!-- #post-## -->

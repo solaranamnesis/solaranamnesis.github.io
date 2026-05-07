@@ -400,9 +400,12 @@ def apply_page_translations(content: str, lang_code: str, page_data: dict) -> st
         inner_plain = html.unescape(_strip_tags(inner)).strip()
         if inner_plain != source_plain:
             return match.group(0)
-        if "<a " in inner:
-            return match.group(0)
         escaped = html.escape(target_plain, quote=False)
+        if "<a " in inner:
+            link_match = re.fullmatch(r"(\s*<a\b[^>]*>)(.*?)(</a>\s*)", inner, re.DOTALL)
+            if not link_match:
+                return match.group(0)
+            return f"<p>{link_match.group(1)}{escaped}{link_match.group(3)}</p>"
         return f"<p>{escaped}</p>"
 
     rebuilt_parts: list[str] = []
