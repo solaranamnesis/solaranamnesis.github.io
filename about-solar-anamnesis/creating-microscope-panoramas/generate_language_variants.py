@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import html
 import re
 from pathlib import Path
 
@@ -11,6 +12,7 @@ PAGE_DIR = ABOUT_DIR / "creating-microscope-panoramas"
 TRANSLATIONS_DIR = REPO_ROOT / "translations"
 ENGLISH_FILE = PAGE_DIR / "index.html"
 ABOUT_ENGLISH_FILE = ABOUT_DIR / "index.html"
+PAGE_TRANSLATIONS_FILE = PAGE_DIR / "page_translations.json"
 BASE_URL = "https://blog.solaranamnesis.com/about-solar-anamnesis/creating-microscope-panoramas/"
 ALT_PATTERN = re.compile(r'<link rel="alternate" hreflang="([^"]+)" href="([^"]+)" />')
 HTML_TAG_PATTERN = re.compile(r"<html\b[^>]*>")
@@ -22,6 +24,11 @@ TWITTER_TITLE_PATTERN = re.compile(r'<meta name="twitter:title" content="[^"]+" 
 ENTRY_TITLE_PATTERN = re.compile(r'<h1 class="entry-title">[^<]+</h1>')
 META_DESC_PATTERN = re.compile(r'<meta name="description" content="([^"]+)"')
 OG_IMAGE_ALT_PATTERN = re.compile(r'<meta property="og:image:alt" content="([^"]+)"')
+ENTRY_CONTENT_PATTERN = re.compile(
+    r'(<div class="entry-content clear">)(.*?)(\s+</div><!-- \.entry-content -->)',
+    re.DOTALL,
+)
+P_TAG_PATTERN = re.compile(r"<p>(.*?)</p>", re.DOTALL)
 
 ENGLISH_META_DESCRIPTION = (
     "Solar Anamnesis is a meteorite thin section photography blog featuring "
@@ -265,7 +272,79 @@ def apply_replacements(content: str, replacements: dict[str, str]) -> str:
     return updated
 
 
-def render_language_file(lang_code: str, metadata: tuple[str, str, str | None], alternate_block: str) -> None:
+def load_page_translations() -> dict:
+    if not PAGE_TRANSLATIONS_FILE.exists():
+        return {}
+    return load_json(PAGE_TRANSLATIONS_FILE)
+
+
+def _strip_tags(value: str) -> str:
+    return re.sub(r"<[^>]+>", "", value)
+
+
+def apply_page_translations(content: str, lang_code: str, page_data: dict) -> str:
+    if not page_data:
+        return content
+
+    translations = page_data.get("translations", {})
+    source = page_data.get("source", {})
+    lang_data = translations.get(lang_code)
+    if not lang_data:
+        return content
+
+    source_headings = source.get("headings", [])
+    source_paragraphs = source.get("paragraphs", [])
+    target_headings = lang_data.get("headings", [])
+    target_paragraphs = lang_data.get("paragraphs", [])
+    target_entry_title = lang_data.get("entry_title")
+
+    if len(source_headings) == len(target_headings):
+        for src, dst in zip(source_headings, target_headings):
+            content = content.replace(f"<h2>{src}</h2>", f"<h2>{dst}</h2>")
+
+    if target_entry_title:
+        content = ENTRY_TITLE_PATTERN.sub(f'<h1 class="entry-title">{target_entry_title}</h1>', content, count=1)
+
+    m = ENTRY_CONTENT_PATTERN.search(content)
+    if not m:
+        return content
+
+    prefix, body, suffix = m.groups()
+    p_matches = list(P_TAG_PATTERN.finditer(body))
+    if not p_matches:
+        return content
+
+    def replace_paragraph(match: re.Match, idx: int) -> str:
+        if idx >= len(source_paragraphs) or idx >= len(target_paragraphs):
+            return match.group(0)
+        inner = match.group(1)
+        source_plain = source_paragraphs[idx]
+        target_plain = target_paragraphs[idx]
+        inner_plain = html.unescape(_strip_tags(inner)).strip()
+        if inner_plain != source_plain:
+            return match.group(0)
+        if "<a " in inner:
+            return match.group(0)
+        escaped = html.escape(target_plain, quote=False)
+        return f"<p>{escaped}</p>"
+
+    rebuilt_parts: list[str] = []
+    last = 0
+    for i, pm in enumerate(p_matches):
+        rebuilt_parts.append(body[last : pm.start()])
+        rebuilt_parts.append(replace_paragraph(pm, i))
+        last = pm.end()
+    rebuilt_parts.append(body[last:])
+    rebuilt_body = "".join(rebuilt_parts)
+    return content[: m.start()] + prefix + rebuilt_body + suffix + content[m.end() :]
+
+
+def render_language_file(
+    lang_code: str,
+    metadata: tuple[str, str, str | None],
+    alternate_block: str,
+    page_data: dict,
+) -> None:
     html_tag, og_locale, page_title = metadata
     localized_url = f"{BASE_URL}index-{lang_code}.html"
 
@@ -286,6 +365,7 @@ def render_language_file(lang_code: str, metadata: tuple[str, str, str | None], 
 
     content = apply_replacements(content, shared_replacements)
     content = apply_replacements(content, about_fallbacks)
+    content = apply_page_translations(content, lang_code, page_data)
 
     (PAGE_DIR / f"index-{lang_code}.html").write_text(content, encoding="utf-8")
 
@@ -293,6 +373,7 @@ def render_language_file(lang_code: str, metadata: tuple[str, str, str | None], 
 def main() -> None:
     variants, metadata = load_language_variants()
     alternate_block = build_alternate_block(variants)
+    page_data = load_page_translations()
 
     en_html_tag, en_og_locale, en_page_title = metadata["en"]
     en_template = ENGLISH_FILE.read_text(encoding="utf-8")
@@ -312,7 +393,7 @@ def main() -> None:
     for _, file_code in variants:
         if not file_code:
             continue
-        render_language_file(file_code, metadata[file_code], alternate_block)
+        render_language_file(file_code, metadata[file_code], alternate_block, page_data)
 
 
 if __name__ == "__main__":

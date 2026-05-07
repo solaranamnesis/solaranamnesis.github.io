@@ -288,7 +288,7 @@
 		</header><!-- .entry-header -->
 
 		<div class="entry-content clear">
-			<h2>Equipment</h2>
+			<h2>Equipo</h2>
 <p>Nikon D810</p>
 <p><a href="http://www.lmscope.com/produkt22/LM_digital_adapter_description_en.shtml">LMScope Trinocular Adapter</a></p>
 <p>OMAX Trinocular Metallurgical Microscope</p>
@@ -301,49 +301,49 @@
 <p>GIMP</p>
 <p><a href="https://www.nomachine.com/">NoMachine</a></p>
 <p>ImageMagick</p>
-<h2>Process</h2>
-<p>1. Setup LMScope adapter with Nikon D810; connect Nikon D810 to computer; open and setup digiCamControl.</p>
-<p>2. Adjust light source intensity and camera exposure time.</p>
-<p>3. Find a suitable corner of the thin section with digiCamControl Live View.</p>
-<p>4. Find a suitable starting focus (not too blurry, some objects in focus) with Live View.</p>
-<p>5. Take picture.</p>
-<p>6. Turn focus knob slightly, bringing more objects into focus.</p>
-<p>7. Take picture.</p>
-<p>8. Repeat steps 6 thru 7 until all objects are out-of-focus.</p>
-<p>9. Move microscope stage up/down while monitoring Live View until a new image is in the field of view; make sure there is some overlap with previous field of view.</p>
-<p>10. Repeat steps 4 thru 9 until you have reached the top/bottom of the thin section.</p>
-<p>11. Move microscope stage left/right until a new field of view is obtain with some overlap of previous row/column field of views.</p>
-<p>12. Repeat steps 4 thru 11 until you have reached the opposite side of the thin section.</p>
-<p>13. Take some images of the pure black polarized light, i.e. without any thin section in view &#8211; just in case such an image proves helpful for future editing.</p>
-<p>14. Complete; clean up.</p>
-<p>Note regarding steps 9 and 11: the idea is to capture an overlapping grid of images of the entire thin section so that manual stitching will be possible.</p>
-<p>15. Create folder on computer for a row/column of the image grid.</p>
-<p>16. Convert the raw Nikon files for this row/column into tiff and place into this folder.</p>
-<p>17. Inside the row/column folder create individual folders for each cell of the image grid, i.e. all the different focus captures for each field of view. This is done in order to use Zerene Stacker&#8217;s batch processing features.</p>
-<p>18. Repeat 15 thru 17 for each row/column.</p>
-<p>19. Submit folders as batches to Zerene Stacker and wait for focus stacking to complete.</p>
-<p>20. There should now be a complete set of stacked images for the entire grid arranged in folders for each row/column.</p>
-<p>21. Batch post-processes images with Picture Window Pro (this step is customizable according to the photographer &#8211; consider adding white balance, sharpening, lens curvature fix, and other widgets. UPDATE: I find the best results are obtained if the lens curvature fix is applied on the images before stacking with Zerene Stacker).</p>
-<p>22. There should now be a complete set of focus stacked images which have been post-processed and are now ready for stitching.</p>
-<p>23. Import a row/column of images into GIMP. (Manual stitching is chosen because I have not been able to find software that successfully auto-stitches meteorite thin sections).</p>
-<p>24. Stitch the images within GIMP using the move and blend tool.</p>
-<p>25. Repeat 23 thru 24 for each row/column.</p>
-<p>26. Upload rows/columns to a cloud storage for quick retrieval and backup.</p>
-<p>27. Setup cloud computer on Amazon with 16 processors and 255 GB RAM (or any powerful computer with around 120 GB or more RAM).</p>
-<p>28. Install NoMachine on server and client.</p>
-<p>29. Download rows/columns from cloud storage onto cloud computer.</p>
-<p>30. Open GIMP on cloud computer.</p>
-<p>31. Import each row/column as a new layer in GIMP.</p>
-<p>32. Stitch each row/column together with the move and blend tool.</p>
-<p>33. Add background color as layer.</p>
-<p>34. Export final image as TIFF.</p>
-<p>35. Scale final image to low percentage for web viewing.</p>
-<p>Note, if the image is too big, i.e. larger than 4GB you will be unable to export it in one piece with GIMP as a TIFF. (Update June 2022: The latest version of GIMP, 2.10.32, supports the import and export of BigTIFF, so this step is now optional) Thus, in GIMP you should add horizontal/vertical guide lines and then use the image guillotine tool to export individual images. Then, with ImageMagick use the command:</p>
-<p>convert Image1.tiff Image2.tiff &#8230; -append TIFF64:Output.tiff</p>
-<p>36. Create krpano images.</p>
-<p>37. Upload to Gigapan.</p>
-<p>Note, Gigapan does not like large TIFF files, so use ImageMagick to convert the image from TIFF to PSB and then upload.</p>
-<p>Please let me know if anything is not clear.</p>
+<h2>Proceso</h2>
+<p>1. Configurar adaptador LMScope con Nikon D810; conectar Nikon D810 a la computadora; abrir y configurar digiCamControl.</p>
+<p>2. Ajustar la intensidad de la fuente de luz y el tiempo de exposición de la cámara.</p>
+<p>3. Encontrar una esquina adecuada de la sección delgada con digiCamControl Live View.</p>
+<p>4. Encontrar un enfoque inicial adecuado (no muy borroso, algunos objetos enfocados) con Live View.</p>
+<p>5. Tomar foto.</p>
+<p>6. Girar ligeramente la perilla de enfoque, enfocando más objetos.</p>
+<p>7. Tomar foto.</p>
+<p>8. Repetir pasos 6 a 7 hasta que todos los objetos estén desenfocados.</p>
+<p>9. Mover la platina del microscopio arriba/abajo mientras se monitorea Live View hasta que aparezca una nueva imagen en el campo de visión; asegurarse de que haya cierta superposición con el campo de visión anterior.</p>
+<p>10. Repetir pasos 4 a 9 hasta alcanzar la parte superior/inferior de la sección delgada.</p>
+<p>11. Mover la platina del microscopio izquierda/derecha hasta obtener un nuevo campo de visión con cierta superposición de los campos de visión de fila/columna anteriores.</p>
+<p>12. Repetir pasos 4 a 11 hasta alcanzar el lado opuesto de la sección delgada.</p>
+<p>13. Tomar algunas imágenes de la luz polarizada negra pura, es decir, sin ninguna sección delgada a la vista, por si acaso dicha imagen resulta útil para edición futura.</p>
+<p>14. Completado; limpiar.</p>
+<p>Nota sobre los pasos 9 y 11: la idea es capturar una cuadrícula superpuesta de imágenes de toda la sección delgada para que sea posible el ensamblaje manual.</p>
+<p>15. Crear carpeta en la computadora para una fila/columna de la cuadrícula de imágenes.</p>
+<p>16. Convertir los archivos Nikon sin procesar para esta fila/columna en tiff y colocar en esta carpeta.</p>
+<p>17. Dentro de la carpeta de fila/columna crear carpetas individuales para cada celda de la cuadrícula de imágenes, es decir, todas las diferentes capturas de enfoque para cada campo de visión. Esto se hace para usar las funciones de procesamiento por lotes de Zerene Stacker.</p>
+<p>18. Repetir 15 a 17 para cada fila/columna.</p>
+<p>19. Enviar carpetas como lotes a Zerene Stacker y esperar a que se complete el apilamiento de enfoque.</p>
+<p>20. Ahora debería haber un conjunto completo de imágenes apiladas para toda la cuadrícula organizadas en carpetas para cada fila/columna.</p>
+<p>21. Postprocesar imágenes por lotes con Picture Window Pro (este paso es personalizable según el fotógrafo - considerar agregar balance de blancos, nitidez, corrección de curvatura de lente y otros widgets. ACTUALIZACIÓN: Encuentro que los mejores resultados se obtienen si la corrección de curvatura de lente se aplica en las imágenes antes del apilamiento con Zerene Stacker).</p>
+<p>22. Ahora debería haber un conjunto completo de imágenes apiladas en enfoque que han sido postprocesadas y ahora están listas para ensamblar.</p>
+<p>23. Importar una fila/columna de imágenes en GIMP. (Se elige el ensamblaje manual porque no he podido encontrar software que ensamble automáticamente con éxito secciones delgadas de meteoritos).</p>
+<p>24. Ensamblar las imágenes dentro de GIMP usando la herramienta de mover y mezclar.</p>
+<p>25. Repetir 23 a 24 para cada fila/columna.</p>
+<p>26. Subir filas/columnas a un almacenamiento en la nube para recuperación rápida y respaldo.</p>
+<p>27. Configurar computadora en la nube en Amazon con 16 procesadores y 255 GB de RAM (o cualquier computadora potente con alrededor de 120 GB o más de RAM).</p>
+<p>28. Instalar NoMachine en servidor y cliente.</p>
+<p>29. Descargar filas/columnas del almacenamiento en la nube a la computadora en la nube.</p>
+<p>30. Abrir GIMP en la computadora en la nube.</p>
+<p>31. Importar cada fila/columna como una nueva capa en GIMP.</p>
+<p>32. Ensamblar cada fila/columna juntas con la herramienta de mover y mezclar.</p>
+<p>33. Agregar color de fondo como capa.</p>
+<p>34. Exportar imagen final como TIFF.</p>
+<p>35. Escalar imagen final a porcentaje bajo para visualización web.</p>
+<p>Nota, si la imagen es demasiado grande, es decir, mayor de 4GB, no podrá exportarla en una sola pieza con GIMP como TIFF. (Actualización junio 2022: La última versión de GIMP, 2.10.32, admite la importación y exportación de BigTIFF, por lo que este paso ahora es opcional) Por lo tanto, en GIMP debe agregar líneas guía horizontales/verticales y luego usar la herramienta guillotina de imagen para exportar imágenes individuales. Luego, con ImageMagick use el comando:</p>
+<p>convert Image1.tiff Image2.tiff ... -append TIFF64:Output.tiff</p>
+<p>36. Crear imágenes krpano.</p>
+<p>37. Subir a Gigapan.</p>
+<p>Nota, Gigapan no le gustan los archivos TIFF grandes, así que use ImageMagick para convertir la imagen de TIFF a PSB y luego subir.</p>
+<p>Por favor, avíseme si algo no está claro.</p>
 					</div><!-- .entry-content -->
 	</div><!-- .entry-wrap -->
 </article><!-- #post-## -->
