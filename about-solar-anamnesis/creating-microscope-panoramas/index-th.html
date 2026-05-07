@@ -282,68 +282,68 @@
 <article id="post-1805" class="post-1805 page type-page status-publish hentry">
 	<div class="entry-wrap wrap clear">
 				<header class="entry-header">
-			<h1 class="entry-title">การสร้างพาโนรามาไมโครโฟโตกราฟิก</h1>			<div class="entry-meta">
+			<h1 class="entry-title">การสร้างพาโนรามาไมโครโฟโต้</h1>			<div class="entry-meta">
 				
 							</div><!-- .entry-meta -->
 		</header><!-- .entry-header -->
 
 		<div class="entry-content clear">
-			<h2>Equipment</h2>
+			<h2>อุปกรณ์</h2>
 <p>Nikon D810</p>
 <p><a href="http://www.lmscope.com/produkt22/LM_digital_adapter_description_en.shtml">LMScope Trinocular Adapter</a></p>
-<p>OMAX Trinocular Metallurgical Microscope</p>
+<p>กล้องจุลทรรศน์โลหะวิทยาสามตา OMAX</p>
 <p><a href="https://www.bhphotovideo.com/c/product/917729-REG/photogenic_956055_ion_pure_sine_wave.html">Photogenic Ion Lithium-ion Pure Sine Wave Inverter System</a></p>
-<h2>Software</h2>
+<h2>ซอฟต์แวร์</h2>
 <p><a href="http://digicamcontrol.com/">digiCamControl Software</a></p>
-<p>Nikon Photo Converter</p>
+<p>ตัวแปลง Nikon Photo</p>
 <p><a href="http://zerenesystems.com/cms/stacker">Zerene Stacker</a></p>
 <p><a href="http://www.dl-c.com/">Picture Window Pro</a></p>
 <p>GIMP</p>
 <p><a href="https://www.nomachine.com/">NoMachine</a></p>
 <p>ImageMagick</p>
-<h2>Process</h2>
-<p>1. Setup LMScope adapter with Nikon D810; connect Nikon D810 to computer; open and setup digiCamControl.</p>
-<p>2. Adjust light source intensity and camera exposure time.</p>
-<p>3. Find a suitable corner of the thin section with digiCamControl Live View.</p>
-<p>4. Find a suitable starting focus (not too blurry, some objects in focus) with Live View.</p>
-<p>5. Take picture.</p>
-<p>6. Turn focus knob slightly, bringing more objects into focus.</p>
-<p>7. Take picture.</p>
-<p>8. Repeat steps 6 thru 7 until all objects are out-of-focus.</p>
-<p>9. Move microscope stage up/down while monitoring Live View until a new image is in the field of view; make sure there is some overlap with previous field of view.</p>
-<p>10. Repeat steps 4 thru 9 until you have reached the top/bottom of the thin section.</p>
-<p>11. Move microscope stage left/right until a new field of view is obtain with some overlap of previous row/column field of views.</p>
-<p>12. Repeat steps 4 thru 11 until you have reached the opposite side of the thin section.</p>
-<p>13. Take some images of the pure black polarized light, i.e. without any thin section in view &#8211; just in case such an image proves helpful for future editing.</p>
-<p>14. Complete; clean up.</p>
-<p>Note regarding steps 9 and 11: the idea is to capture an overlapping grid of images of the entire thin section so that manual stitching will be possible.</p>
-<p>15. Create folder on computer for a row/column of the image grid.</p>
-<p>16. Convert the raw Nikon files for this row/column into tiff and place into this folder.</p>
-<p>17. Inside the row/column folder create individual folders for each cell of the image grid, i.e. all the different focus captures for each field of view. This is done in order to use Zerene Stacker&#8217;s batch processing features.</p>
-<p>18. Repeat 15 thru 17 for each row/column.</p>
-<p>19. Submit folders as batches to Zerene Stacker and wait for focus stacking to complete.</p>
-<p>20. There should now be a complete set of stacked images for the entire grid arranged in folders for each row/column.</p>
-<p>21. Batch post-processes images with Picture Window Pro (this step is customizable according to the photographer &#8211; consider adding white balance, sharpening, lens curvature fix, and other widgets. UPDATE: I find the best results are obtained if the lens curvature fix is applied on the images before stacking with Zerene Stacker).</p>
-<p>22. There should now be a complete set of focus stacked images which have been post-processed and are now ready for stitching.</p>
-<p>23. Import a row/column of images into GIMP. (Manual stitching is chosen because I have not been able to find software that successfully auto-stitches meteorite thin sections).</p>
-<p>24. Stitch the images within GIMP using the move and blend tool.</p>
-<p>25. Repeat 23 thru 24 for each row/column.</p>
-<p>26. Upload rows/columns to a cloud storage for quick retrieval and backup.</p>
-<p>27. Setup cloud computer on Amazon with 16 processors and 255 GB RAM (or any powerful computer with around 120 GB or more RAM).</p>
-<p>28. Install NoMachine on server and client.</p>
-<p>29. Download rows/columns from cloud storage onto cloud computer.</p>
-<p>30. Open GIMP on cloud computer.</p>
-<p>31. Import each row/column as a new layer in GIMP.</p>
-<p>32. Stitch each row/column together with the move and blend tool.</p>
-<p>33. Add background color as layer.</p>
-<p>34. Export final image as TIFF.</p>
-<p>35. Scale final image to low percentage for web viewing.</p>
-<p>Note, if the image is too big, i.e. larger than 4GB you will be unable to export it in one piece with GIMP as a TIFF. (Update June 2022: The latest version of GIMP, 2.10.32, supports the import and export of BigTIFF, so this step is now optional) Thus, in GIMP you should add horizontal/vertical guide lines and then use the image guillotine tool to export individual images. Then, with ImageMagick use the command:</p>
-<p>convert Image1.tiff Image2.tiff &#8230; -append TIFF64:Output.tiff</p>
-<p>36. Create krpano images.</p>
-<p>37. Upload to Gigapan.</p>
-<p>Note, Gigapan does not like large TIFF files, so use ImageMagick to convert the image from TIFF to PSB and then upload.</p>
-<p>Please let me know if anything is not clear.</p>
+<h2>กระบวนการ</h2>
+<p>1. ตั้งค่าอะแดปเตอร์ LMScope กับ Nikon D810; เชื่อมต่อ Nikon D810 กับคอมพิวเตอร์; เปิดและตั้งค่า digiCamControl.</p>
+<p>2. ปรับความเข้มของแหล่งกำเนิดแสงและเวลาเปิดรับแสงของกล้อง.</p>
+<p>3. หามุมที่เหมาะสมของแผ่นสไลด์บางด้วย Live View ของ digiCamControl.</p>
+<p>4. หาจุดโฟกัสเริ่มต้นที่เหมาะสม (ไม่เบลอเกินไป มีวัตถุบางชิ้นชัด) ด้วย Live View.</p>
+<p>5. ถ่ายภาพ.</p>
+<p>6. หมุนปุ่มโฟกัสเล็กน้อย เพื่อให้วัตถุมากขึ้นอยู่ในโฟกัส.</p>
+<p>7. ถ่ายภาพ.</p>
+<p>8. ทำซ้ำขั้นตอนที่ 6 ถึง 7 จนกว่าวัตถุทั้งหมดจะหลุดโฟกัส.</p>
+<p>9. เลื่อนแท่นกล้องจุลทรรศน์ขึ้น/ลง ขณะตรวจสอบ Live View จนกว่าภาพใหม่จะปรากฏในมุมมอง; ตรวจสอบให้แน่ใจว่ามีการทับซ้อนกับมุมมองก่อนหน้า.</p>
+<p>10. ทำซ้ำขั้นตอนที่ 4 ถึง 9 จนกว่าจะถึงด้านบน/ด้านล่างของแผ่นสไลด์บาง.</p>
+<p>11. เลื่อนแท่นกล้องจุลทรรศน์ซ้าย/ขวา จนกว่าจะได้มุมมองใหม่ที่มีการทับซ้อนกับมุมมองของแถว/คอลัมน์ก่อนหน้า.</p>
+<p>12. ทำซ้ำขั้นตอนที่ 4 ถึง 11 จนกว่าจะถึงด้านตรงข้ามของแผ่นสไลด์บาง.</p>
+<p>13. ถ่ายภาพแสงโพลาไรซ์สีดำล้วนบางภาพ นั่นคือไม่มีแผ่นสไลด์บางในมุมมอง – เผื่อว่าภาพดังกล่าวจะเป็นประโยชน์สำหรับการแก้ไขในอนาคต.</p>
+<p>14. เสร็จสิ้น; ทำความสะอาด.</p>
+<p>หมายเหตุเกี่ยวกับขั้นตอนที่ 9 และ 11: แนวคิดคือการจับภาพตารางที่ทับซ้อนกันของภาพทั้งแผ่นสไลด์บางเพื่อให้สามารถต่อภาพด้วยตนเองได้.</p>
+<p>15. สร้างโฟลเดอร์บนคอมพิวเตอร์สำหรับแถว/คอลัมน์ของตารางภาพ.</p>
+<p>16. แปลงไฟล์ดิบ Nikon สำหรับแถว/คอลัมน์นี้เป็น TIFF และวางลงในโฟลเดอร์นี้.</p>
+<p>17. ภายในโฟลเดอร์แถว/คอลัมน์ สร้างโฟลเดอร์แยกสำหรับแต่ละเซลล์ของตารางภาพ นั่นคือภาพโฟกัสที่แตกต่างกันทั้งหมดสำหรับแต่ละมุมมอง สิ่งนี้ทำเพื่อใช้คุณสมบัติการประมวลผลแบบแบทช์ของ Zerene Stacker.</p>
+<p>18. ทำซ้ำขั้นตอนที่ 15 ถึง 17 สำหรับแต่ละแถว/คอลัมน์.</p>
+<p>19. ส่งโฟลเดอร์เป็นแบทช์ไปยัง Zerene Stacker และรอให้โฟกัสสแต็กเสร็จสิ้น.</p>
+<p>20. ตอนนี้ควรมีชุดภาพสแต็กที่สมบูรณ์สำหรับตารางทั้งหมด จัดเรียงในโฟลเดอร์สำหรับแต่ละแถว/คอลัมน์.</p>
+<p>21. ประมวลผลภาพแบบแบทช์ด้วย Picture Window Pro (ขั้นตอนนี้ปรับแต่งได้ตามช่างภาพ – พิจารณาเพิ่มสมดุลสีขาว ความคมชัด การแก้ไขความโค้งของเลนส์ และวิดเจ็ตอื่นๆ อัปเดต: ฉันพบว่าผลลัพธ์ที่ดีที่สุดจะได้รับหากการแก้ไขความโค้งของเลนส์ถูกนำไปใช้กับภาพก่อนการสแต็กด้วย Zerene Stacker).</p>
+<p>22. ตอนนี้ควรมีชุดภาพโฟกัสสแต็กที่สมบูรณ์ซึ่งได้รับการประมวลผลหลังแล้วและพร้อมสำหรับการต่อภาพ.</p>
+<p>23. นำเข้าแถว/คอลัมน์ของภาพเข้าสู่ GIMP. (การต่อภาพด้วยตนเองถูกเลือกเพราะฉันไม่สามารถหาซอฟต์แวร์ที่สามารถต่อภาพแผ่นสไลด์บางของอุกกาบาตอัตโนมัติได้สำเร็จ).</p>
+<p>24. ต่อภาพภายใน GIMP โดยใช้เครื่องมือย้ายและผสม (move and blend tool).</p>
+<p>25. ทำซ้ำขั้นตอนที่ 23 ถึง 24 สำหรับแต่ละแถว/คอลัมน์.</p>
+<p>26. อัปโหลดแถว/คอลัมน์ไปยังที่เก็บข้อมูลบนคลาวด์สำหรับการเรียกคืนอย่างรวดเร็วและการสำรองข้อมูล.</p>
+<p>27. ตั้งค่าคอมพิวเตอร์คลาวด์บน Amazon ด้วยโปรเซสเซอร์ 16 ตัวและ RAM 255 GB (หรือคอมพิวเตอร์ที่มีประสิทธิภาพสูงที่มี RAM ประมาณ 120 GB ขึ้นไป).</p>
+<p>28. ติดตั้ง NoMachine บนเซิร์ฟเวอร์และไคลเอนต์.</p>
+<p>29. ดาวน์โหลดแถว/คอลัมน์จากที่เก็บข้อมูลบนคลาวด์ไปยังคอมพิวเตอร์คลาวด์.</p>
+<p>30. เปิด GIMP บนคอมพิวเตอร์คลาวด์.</p>
+<p>31. นำเข้าแต่ละแถว/คอลัมน์เป็นเลเยอร์ใหม่ใน GIMP.</p>
+<p>32. ต่อแต่ละแถว/คอลัมน์เข้าด้วยกันด้วยเครื่องมือย้ายและผสม.</p>
+<p>33. เพิ่มสีพื้นหลังเป็นเลเยอร์.</p>
+<p>34. ส่งออกภาพสุดท้ายเป็น TIFF.</p>
+<p>35. ปรับขนาดภาพสุดท้ายให้เป็นเปอร์เซ็นต์ต่ำสำหรับการดูบนเว็บ.</p>
+<p>หมายเหตุ หากภาพใหญ่เกินไป นั่นคือใหญ่กว่า 4 GB คุณจะไม่สามารถส่งออกเป็นชิ้นเดียวด้วย GIMP เป็น TIFF ได้ (อัปเดตมิถุนายน 2022: เวอร์ชันล่าสุดของ GIMP, 2.10.32 รองรับการใช้งานและส่งออก BigTIFF ดังนั้นขั้นตอนนี้จึงเป็นตัวเลือกในปัจจุบัน) ดังนั้น ใน GIMP คุณควรเพิ่มเส้นนำแนวนอน/แนวตั้ง แล้วใช้เครื่องมือกิโยตินภาพเพื่อส่งออกภาพแต่ละภาพ จากนั้น ใช้คำสั่ง ImageMagick:</p>
+<p>convert Image1.tiff Image2.tiff … -append TIFF64:Output.tiff</p>
+<p>36. สร้างภาพ krpano.</p>
+<p>37. อัปโหลดไปยัง Gigapan.</p>
+<p>หมายเหตุ Gigapan ไม่ชอบไฟล์ TIFF ขนาดใหญ่ ดังนั้นใช้ ImageMagick เพื่อแปลงภาพจาก TIFF เป็น PSB แล้วอัปโหลด</p>
+<p>โปรดแจ้งให้ฉันทราบหากมีอะไรไม่ชัดเจน.</p>
 					</div><!-- .entry-content -->
 	</div><!-- .entry-wrap -->
 </article><!-- #post-## -->
