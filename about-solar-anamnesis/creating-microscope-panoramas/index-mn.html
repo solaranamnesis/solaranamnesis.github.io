@@ -282,68 +282,68 @@
 <article id="post-1805" class="post-1805 page type-page status-publish hentry">
 	<div class="entry-wrap wrap clear">
 				<header class="entry-header">
-			<h1 class="entry-title">Mikrofotoografiin panoramuud uugsikh</h1>			<div class="entry-meta">
+			<h1 class="entry-title">Mikrofoto panoram uuchlah</h1>			<div class="entry-meta">
 				
 							</div><!-- .entry-meta -->
 		</header><!-- .entry-header -->
 
 		<div class="entry-content clear">
-			<h2>Equipment</h2>
+			<h2>Toimch</h2>
 <p>Nikon D810</p>
-<p><a href="http://www.lmscope.com/produkt22/LM_digital_adapter_description_en.shtml">LMScope Trinocular Adapter</a></p>
-<p>OMAX Trinocular Metallurgical Microscope</p>
-<p><a href="https://www.bhphotovideo.com/c/product/917729-REG/photogenic_956055_ion_pure_sine_wave.html">Photogenic Ion Lithium-ion Pure Sine Wave Inverter System</a></p>
-<h2>Software</h2>
-<p><a href="http://digicamcontrol.com/">digiCamControl Software</a></p>
-<p>Nikon Photo Converter</p>
+<p><a href="http://www.lmscope.com/produkt22/LM_digital_adapter_description_en.shtml">LMScope trinokulyar adapter</a></p>
+<p>OMAX trinokulyar metallurg mikroskop</p>
+<p><a href="https://www.bhphotovideo.com/c/product/917729-REG/photogenic_956055_ion_pure_sine_wave.html">Photogenic Ion lithium-ion pure sine wave inverter system</a></p>
+<h2>Program</h2>
+<p><a href="http://digicamcontrol.com/">digiCamControl program</a></p>
+<p>Nikon Photo converter</p>
 <p><a href="http://zerenesystems.com/cms/stacker">Zerene Stacker</a></p>
 <p><a href="http://www.dl-c.com/">Picture Window Pro</a></p>
 <p>GIMP</p>
 <p><a href="https://www.nomachine.com/">NoMachine</a></p>
 <p>ImageMagick</p>
-<h2>Process</h2>
-<p>1. Setup LMScope adapter with Nikon D810; connect Nikon D810 to computer; open and setup digiCamControl.</p>
-<p>2. Adjust light source intensity and camera exposure time.</p>
-<p>3. Find a suitable corner of the thin section with digiCamControl Live View.</p>
-<p>4. Find a suitable starting focus (not too blurry, some objects in focus) with Live View.</p>
-<p>5. Take picture.</p>
-<p>6. Turn focus knob slightly, bringing more objects into focus.</p>
-<p>7. Take picture.</p>
-<p>8. Repeat steps 6 thru 7 until all objects are out-of-focus.</p>
-<p>9. Move microscope stage up/down while monitoring Live View until a new image is in the field of view; make sure there is some overlap with previous field of view.</p>
-<p>10. Repeat steps 4 thru 9 until you have reached the top/bottom of the thin section.</p>
-<p>11. Move microscope stage left/right until a new field of view is obtain with some overlap of previous row/column field of views.</p>
-<p>12. Repeat steps 4 thru 11 until you have reached the opposite side of the thin section.</p>
-<p>13. Take some images of the pure black polarized light, i.e. without any thin section in view &#8211; just in case such an image proves helpful for future editing.</p>
-<p>14. Complete; clean up.</p>
-<p>Note regarding steps 9 and 11: the idea is to capture an overlapping grid of images of the entire thin section so that manual stitching will be possible.</p>
-<p>15. Create folder on computer for a row/column of the image grid.</p>
-<p>16. Convert the raw Nikon files for this row/column into tiff and place into this folder.</p>
-<p>17. Inside the row/column folder create individual folders for each cell of the image grid, i.e. all the different focus captures for each field of view. This is done in order to use Zerene Stacker&#8217;s batch processing features.</p>
-<p>18. Repeat 15 thru 17 for each row/column.</p>
-<p>19. Submit folders as batches to Zerene Stacker and wait for focus stacking to complete.</p>
-<p>20. There should now be a complete set of stacked images for the entire grid arranged in folders for each row/column.</p>
-<p>21. Batch post-processes images with Picture Window Pro (this step is customizable according to the photographer &#8211; consider adding white balance, sharpening, lens curvature fix, and other widgets. UPDATE: I find the best results are obtained if the lens curvature fix is applied on the images before stacking with Zerene Stacker).</p>
-<p>22. There should now be a complete set of focus stacked images which have been post-processed and are now ready for stitching.</p>
-<p>23. Import a row/column of images into GIMP. (Manual stitching is chosen because I have not been able to find software that successfully auto-stitches meteorite thin sections).</p>
-<p>24. Stitch the images within GIMP using the move and blend tool.</p>
-<p>25. Repeat 23 thru 24 for each row/column.</p>
-<p>26. Upload rows/columns to a cloud storage for quick retrieval and backup.</p>
-<p>27. Setup cloud computer on Amazon with 16 processors and 255 GB RAM (or any powerful computer with around 120 GB or more RAM).</p>
-<p>28. Install NoMachine on server and client.</p>
-<p>29. Download rows/columns from cloud storage onto cloud computer.</p>
-<p>30. Open GIMP on cloud computer.</p>
-<p>31. Import each row/column as a new layer in GIMP.</p>
-<p>32. Stitch each row/column together with the move and blend tool.</p>
-<p>33. Add background color as layer.</p>
-<p>34. Export final image as TIFF.</p>
-<p>35. Scale final image to low percentage for web viewing.</p>
-<p>Note, if the image is too big, i.e. larger than 4GB you will be unable to export it in one piece with GIMP as a TIFF. (Update June 2022: The latest version of GIMP, 2.10.32, supports the import and export of BigTIFF, so this step is now optional) Thus, in GIMP you should add horizontal/vertical guide lines and then use the image guillotine tool to export individual images. Then, with ImageMagick use the command:</p>
-<p>convert Image1.tiff Image2.tiff &#8230; -append TIFF64:Output.tiff</p>
-<p>36. Create krpano images.</p>
-<p>37. Upload to Gigapan.</p>
-<p>Note, Gigapan does not like large TIFF files, so use ImageMagick to convert the image from TIFF to PSB and then upload.</p>
-<p>Please let me know if anything is not clear.</p>
+<h2>Uchral</h2>
+<p>1. LMScope adapteri Nikon D810-tai setgii; Nikon D810-i kompyuter-tai holbo; digiCamControl-i niilgii setgii.</p>
+<p>2. Goluun uulzasyn intensitetiig bolon kamerin eksposur ugziig toigoo.</p>
+<p>3. digiCamControl Live View-ig aishlagan naran jaluun khugjiltei toigoo.</p>
+<p>4. Live View-ig aishlagan toigoo (very blurry bish, zarim zovgoruud focus-d baij) Live View-ig aishlagan toigoo.</p>
+<p>5. Zuruu av.</p>
+<p>6. Focus knob-iig bitgiig buruul, iluug zovgoruudiig focus-d avchi.</p>
+<p>7. Zuruu av.</p>
+<p>8. Buse zovgoruud focus-aa gadaa garahgugtuig 6-aa 7-ruu alhamuudiig davt.</p>
+<p>9. Live View-iig hargiig mikroskopyn staj-iig dotor/ghadna shiljig, shin zurag uulzasyn khuund orohgugtuig; uredni uulzasyn khuundtei overlap baihgugtuig.</p>
+<p>10. Tan naran jaluun dotor/ghadna orohgugtuig 4-aa 9-ruu alhamuudiig davt.</p>
+<p>11. Tan uredni row/column uulzasyn khuundtei overlap baih shin uulzasyn khuund orohgugtuig mikroskopyn staj-iig zaluun/baruun shiljig.</p>
+<p>12. Tan naran jaluun harsh tald orohgugtuig 4-aa 11-ruu alhamuudiig davt.</p>
+<p>13. Uulzasyn khuund naran jaluun bish, pure black polarized light-iin zarim zurag av - irgenii editlegtei tushuultai bolohgugtuig.</p>
+<p>14. Bolor; tsuul.</p>
+<p>9 bolon 11 alhamuudyn tuhai: sanal bolon naran jaluun dotoriig dotoruulagch zuragyn grid-iig avch, manual stitching-iig bolomjtoi kheel.</p>
+<p>15. Zuragyn gridyn row/column-iig kompyuter-d folder uuchla.</p>
+<p>16. Eni row/column-iig raw Nikon file-iig TIFF-ruug shiljig, ene folder-d tavi.</p>
+<p>17. Row/column folderyn dotor zuragyn gridyn cell-ig tuus folder-uud uuchla, uulzasyn khuundyn tuus focus capture-uud. Eni Zerene Stackeryn batch processing feature-iig aishlagah.</p>
+<p>18. Row/column-ig 15-aa 17-ruu alhamuudiig davt.</p>
+<p>19. Folder-uudiig batch-ig Zerene Stacker-ruug yavuul, focus stacking boloruug tuul.</p>
+<p>20. Odoo row/column folder-d boloruulagch gridyn tuus stack zuragyn set baih yoson.</p>
+<p>21. Picture Window Pro-ig aishlagan zurag-uudiig batch post-process (ene alham photographer-ig tuus customiz boloh - white balance, sharpness, lens curvature fix, widget-nuud neme. UPDATE: Zerene Stacker-ig aishlagan stacking-ig ured lens curvature fix zurag-d aishlagahad best result boloh).</p>
+<p>22. Odoo stitching-ig tuus post-process focus stack zuragyn set baih yoson.</p>
+<p>23. Zuragyn row/column-iig GIMP-ruug import (manual stitching-ig tuus meteorite naran jaluud auto-stitch boloh program olchigui).</p>
+<p>24. GIMP-d move and blend tool-ig aishlagan zurag-uudiig stitch.</p>
+<p>25. Row/column-ig 23-aa 24-ruu alhamuudiig davt.</p>
+<p>26. Row/column-uudiig cloud storage-d upload, quick retrieval bolon backup-ig tuus.</p>
+<p>27. Amazon-d 16 processor bolon 255 GB RAM-ig taam cloud computer setgii (120 GB RAM-ig taam powerful computer bolon).</p>
+<p>28. Server bolon client-d NoMachine install.</p>
+<p>29. Cloud storage-aa row/column-uudiig cloud computer-d download.</p>
+<p>30. Cloud computer-d GIMP niilgii.</p>
+<p>31. Row/column-ig GIMP-d new layer-ig import.</p>
+<p>32. Move and blend tool-ig aishlagan row/column-uudiig stitch.</p>
+<p>33. Layer-ig background color neme.</p>
+<p>34. Last zurag-iig TIFF-ruug export.</p>
+<p>35. Web viewing-ig tuus last zurag-iig low percentage-ruug scale.</p>
+<p>Tuhai, zurag very large bol, 4 GB-aa heves bol, GIMP-ig aishlagan TIFF-ruug piece export bolchigui. (June 2022 UPDATE: GIMPyn latest version, 2.10.32, BigTIFF import bolon export support, ene alham optional) GIMP-d horizontal/vertical guide line-nuud neme, image guillotine tool-ig aishlagan individual zurag export. Daga, ImageMagick-ig aishlagan command:</p>
+<p>convert Image1.tiff Image2.tiff … -append TIFF64:Output.tiff</p>
+<p>36. Krpano zurag-uud uuchla.</p>
+<p>37. Gigapan-d upload.</p>
+<p>Tuhai, Gigapan large TIFF file-ig dursgugui, ImageMagick-ig aishlagan TIFF-aa PSB-ruug shiljig, daga upload.</p>
+<p>Clear bish bol medeelel.</p>
 					</div><!-- .entry-content -->
 	</div><!-- .entry-wrap -->
 </article><!-- #post-## -->
