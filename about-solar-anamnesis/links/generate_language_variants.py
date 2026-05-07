@@ -14,6 +14,10 @@ ALT_PATTERN = re.compile(r'<link rel="alternate" hreflang="([^"]+)" href="([^"]+
 HTML_TAG_PATTERN = re.compile(r'<html\b[^>]*>')
 OG_LOCALE_PATTERN = re.compile(r'<meta property="og:locale" content="([^"]+)" />')
 FILE_CODE_PATTERN = re.compile(r'index-([^.]+)\.html$')
+TITLE_PATTERN = re.compile(r'<title>[^<]+</title>')
+OG_TITLE_PATTERN = re.compile(r'<meta property="og:title" content="[^"]+" />')
+TWITTER_TITLE_PATTERN = re.compile(r'<meta name="twitter:title" content="[^"]+" />')
+ENTRY_TITLE_PATTERN = re.compile(r'<h1 class="entry-title">[^<]+</h1>')
 
 
 def extract_common_language_codes() -> set[str]:
@@ -27,16 +31,28 @@ def extract_common_language_codes() -> set[str]:
     return codes_in(REPO_ROOT) & codes_in(ABOUT_DIR)
 
 
-def extract_about_metadata(path: Path) -> tuple[str, str]:
+def extract_about_metadata(path: Path, file_code: str | None = None) -> tuple[str, str, str | None]:
     content = path.read_text(encoding='utf-8')
     html_tag_match = HTML_TAG_PATTERN.search(content)
     og_locale_match = OG_LOCALE_PATTERN.search(content)
     if not html_tag_match or not og_locale_match:
         raise ValueError(f'Missing lang metadata in {path}')
-    return html_tag_match.group(0), og_locale_match.group(1)
+    # Extract the translated link text pointing to the links page
+    page_title: str | None = None
+    if file_code:
+        m = re.search(rf'href="[^"]*links/index-{re.escape(file_code)}\.html"[^>]*>([^<]+)<', content)
+        if not m:
+            m = re.search(r'href="[^"]*links/"[^>]*>([^<]+)<', content)
+        if m:
+            page_title = m.group(1).strip()
+    else:
+        m = re.search(r'href="[^"]*links/"[^>]*>([^<]+)<', content)
+        if m:
+            page_title = m.group(1).strip()
+    return html_tag_match.group(0), og_locale_match.group(1), page_title
 
 
-def load_language_variants() -> tuple[list[tuple[str, str | None]], dict[str, tuple[str, str]]]:
+def load_language_variants() -> tuple[list[tuple[str, str | None]], dict[str, tuple[str, str, str | None]]]:
     about_index = ABOUT_ENGLISH_FILE.read_text(encoding='utf-8')
     variants: list[tuple[str, str | None]] = []
     for hreflang, href in ALT_PATTERN.findall(about_index):
@@ -56,11 +72,11 @@ def load_language_variants() -> tuple[list[tuple[str, str | None]], dict[str, tu
             f'{sorted(common_codes ^ variant_codes)}'
         )
 
-    metadata = {'en': extract_about_metadata(ABOUT_ENGLISH_FILE)}
+    metadata = {'en': extract_about_metadata(ABOUT_ENGLISH_FILE, None)}
     for _, file_code in variants:
         if not file_code:
             continue
-        metadata[file_code] = extract_about_metadata(ABOUT_DIR / f'index-{file_code}.html')
+        metadata[file_code] = extract_about_metadata(ABOUT_DIR / f'index-{file_code}.html', file_code)
 
     return variants, metadata
 
@@ -73,7 +89,7 @@ def build_alternate_block(variants: list[tuple[str, str | None]]) -> str:
     return '\n'.join(lines)
 
 
-def render_variant(template: str, html_tag: str, canonical_href: str, og_url: str, og_locale: str, alternate_block: str) -> str:
+def render_variant(template: str, html_tag: str, canonical_href: str, og_url: str, og_locale: str, alternate_block: str, page_title: str | None = None) -> str:
     rendered = HTML_TAG_PATTERN.sub(html_tag, template, count=1)
     rendered = re.sub(
         r'<link rel="canonical" href="[^"]+" />\n(?:<link rel="alternate" hreflang="[^"]+" href="[^"]+" />\n?)*',
@@ -83,6 +99,12 @@ def render_variant(template: str, html_tag: str, canonical_href: str, og_url: st
     )
     rendered = re.sub(r'<meta property="og:url" content="[^"]+" />', f'<meta property="og:url" content="{og_url}" />', rendered, count=1)
     rendered = OG_LOCALE_PATTERN.sub(f'<meta property="og:locale" content="{og_locale}" />', rendered, count=1)
+    if page_title:
+        full_title = f'{page_title} | Solar Anamnesis'
+        rendered = TITLE_PATTERN.sub(f'<title>{full_title}</title>', rendered, count=1)
+        rendered = OG_TITLE_PATTERN.sub(f'<meta property="og:title" content="{full_title}" />', rendered, count=1)
+        rendered = TWITTER_TITLE_PATTERN.sub(f'<meta name="twitter:title" content="{full_title}" />', rendered, count=1)
+        rendered = ENTRY_TITLE_PATTERN.sub(f'<h1 class="entry-title">{page_title}</h1>', rendered, count=1)
     return rendered
 
 
@@ -91,20 +113,20 @@ def main() -> None:
     template = ENGLISH_FILE.read_text(encoding='utf-8')
     alternate_block = build_alternate_block(variants)
 
-    en_lang, en_og_locale = metadata['en']
+    en_lang, en_og_locale, en_page_title = metadata['en']
     ENGLISH_FILE.write_text(
-        render_variant(template, en_lang, BASE_URL, BASE_URL, en_og_locale, alternate_block),
+        render_variant(template, en_lang, BASE_URL, BASE_URL, en_og_locale, alternate_block, en_page_title),
         encoding='utf-8',
     )
 
     for _, file_code in variants:
         if not file_code:
             continue
-        html_lang, og_locale = metadata[file_code]
+        html_lang, og_locale, page_title = metadata[file_code]
         localized_url = f'{BASE_URL}index-{file_code}.html'
         output_path = LINKS_DIR / f'index-{file_code}.html'
         output_path.write_text(
-            render_variant(template, html_lang, localized_url, localized_url, og_locale, alternate_block),
+            render_variant(template, html_lang, localized_url, localized_url, og_locale, alternate_block, page_title),
             encoding='utf-8',
         )
 
