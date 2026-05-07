@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import importlib.util
 import json
 import html
 import re
@@ -13,6 +14,7 @@ TRANSLATIONS_DIR = REPO_ROOT / "translations"
 ENGLISH_FILE = PAGE_DIR / "index.html"
 ABOUT_ENGLISH_FILE = ABOUT_DIR / "index.html"
 PAGE_TRANSLATIONS_FILE = PAGE_DIR / "page_translations.json"
+PAGE_TRANSLATIONS_PY_FILE = PAGE_DIR / "page_translations.py"
 BASE_URL = "https://blog.solaranamnesis.com/about-solar-anamnesis/creating-microscope-panoramas/"
 ALT_PATTERN = re.compile(r'<link rel="alternate" hreflang="([^"]+)" href="([^"]+)" />')
 HTML_TAG_PATTERN = re.compile(r"<html\b[^>]*>")
@@ -88,6 +90,13 @@ ENGLISH_CATEGORIES = [
 CREATE_PAGE_LINK_PATTERN = re.compile(
     r'href="[^"]*/creating-microscope-panoramas/"[^>]*>([^<]+)<'
 )
+
+LANGUAGE_PREFIX_TO_CODE = {
+    "ENGLISH": "en",
+    "FRENCH": "fr",
+    "GERMAN": "de",
+    "SPANISH": "es",
+}
 
 
 def load_json(path: Path) -> dict:
@@ -272,10 +281,78 @@ def apply_replacements(content: str, replacements: dict[str, str]) -> str:
     return updated
 
 
-def load_page_translations() -> dict:
-    if not PAGE_TRANSLATIONS_FILE.exists():
+def load_python_page_translations() -> dict:
+    if not PAGE_TRANSLATIONS_PY_FILE.exists():
         return {}
-    return load_json(PAGE_TRANSLATIONS_FILE)
+
+    spec = importlib.util.spec_from_file_location("page_translations_py", PAGE_TRANSLATIONS_PY_FILE)
+    if not spec or not spec.loader:
+        raise ValueError(f"Could not load {PAGE_TRANSLATIONS_PY_FILE}")
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+
+    source_headings = getattr(module, "SOURCE_HEADINGS", None)
+    source_paragraphs = getattr(module, "SOURCE_PARAGRAPHS", None)
+    if source_headings is None or source_paragraphs is None:
+        raise ValueError("page_translations.py must define SOURCE_HEADINGS and SOURCE_PARAGRAPHS")
+
+    source_entry_title = getattr(module, "SOURCE_ENTRY_TITLE", "Creating Microphotographic Panoramas")
+    language_codes = getattr(module, "LANGUAGE_CODES", {})
+
+    translations: dict[str, dict] = {}
+    for key, value in vars(module).items():
+        if not key.endswith("_HEADINGS") or key == "SOURCE_HEADINGS":
+            continue
+        prefix = key[: -len("_HEADINGS")]
+        headings = value
+        paragraphs = getattr(module, f"{prefix}_PARAGRAPHS", None)
+        if paragraphs is None:
+            raise ValueError(f"Missing {prefix}_PARAGRAPHS in page_translations.py")
+
+        lang_code = language_codes.get(prefix) or LANGUAGE_PREFIX_TO_CODE.get(prefix)
+        if not lang_code and len(prefix) == 2 and prefix.isalpha():
+            lang_code = prefix.lower()
+        if not lang_code:
+            raise ValueError(
+                f"Unknown language prefix '{prefix}'. Add it to LANGUAGE_CODES in page_translations.py."
+            )
+
+        entry_title = getattr(module, f"{prefix}_ENTRY_TITLE", None)
+        translation = {
+            "headings": headings,
+            "paragraphs": paragraphs,
+        }
+        if entry_title:
+            translation["entry_title"] = entry_title
+        translations[lang_code] = translation
+
+    return {
+        "source": {
+            "entry_title": source_entry_title,
+            "headings": source_headings,
+            "paragraphs": source_paragraphs,
+        },
+        "translations": translations,
+    }
+
+
+def load_page_translations() -> dict:
+    data: dict = {}
+    if PAGE_TRANSLATIONS_FILE.exists():
+        data = load_json(PAGE_TRANSLATIONS_FILE)
+
+    py_data = load_python_page_translations()
+    if not py_data:
+        return data
+
+    if not data:
+        data = {"schema_version": "1.0", "source_file": str(ENGLISH_FILE.relative_to(REPO_ROOT))}
+
+    data["source"] = py_data["source"]
+    merged_translations = dict(data.get("translations", {}))
+    merged_translations.update(py_data.get("translations", {}))
+    data["translations"] = merged_translations
+    return data
 
 
 def _strip_tags(value: str) -> str:
