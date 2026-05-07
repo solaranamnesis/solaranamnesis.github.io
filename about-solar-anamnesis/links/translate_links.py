@@ -164,6 +164,7 @@ def build_shared_replacements(lang_code: str, translation: dict) -> dict[str, st
         "alt=\"[ GNU Link]\"": f"alt=\"{footer[1]}\"",
         ">Proudly powered by WordPress</a>": f">{footer[2]}</a>",
         "Theme: Ryu by ": theme_label,
+        "href=\"https://blog.solaranamnesis.com/\" title=": f"href=\"https://blog.solaranamnesis.com/index-{lang_code}.html\" title=",
         "https://blog.solaranamnesis.com/\">": f"https://blog.solaranamnesis.com/index-{lang_code}.html\">",
         "https://blog.solaranamnesis.com/about-solar-anamnesis/\">": f"https://blog.solaranamnesis.com/about-solar-anamnesis/index-{lang_code}.html\">",
         "https://store.solaranamnesis.com\">": f"https://store.solaranamnesis.com/index-{lang_code}.html\">",
