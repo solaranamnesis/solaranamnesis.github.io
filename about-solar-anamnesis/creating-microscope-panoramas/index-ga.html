@@ -282,68 +282,68 @@
 <article id="post-1805" class="post-1805 page type-page status-publish hentry">
 	<div class="entry-wrap wrap clear">
 				<header class="entry-header">
-			<h1 class="entry-title">Cruthú panaramaí micreafótagrafacha</h1>			<div class="entry-meta">
+			<h1 class="entry-title">Cruthú Panóramach Micreafotagrafaíochta</h1>			<div class="entry-meta">
 				
 							</div><!-- .entry-meta -->
 		</header><!-- .entry-header -->
 
 		<div class="entry-content clear">
-			<h2>Equipment</h2>
+			<h2>Acráin</h2>
 <p>Nikon D810</p>
-<p><a href="http://www.lmscope.com/produkt22/LM_digital_adapter_description_en.shtml">LMScope Trinocular Adapter</a></p>
-<p>OMAX Trinocular Metallurgical Microscope</p>
-<p><a href="https://www.bhphotovideo.com/c/product/917729-REG/photogenic_956055_ion_pure_sine_wave.html">Photogenic Ion Lithium-ion Pure Sine Wave Inverter System</a></p>
-<h2>Software</h2>
-<p><a href="http://digicamcontrol.com/">digiCamControl Software</a></p>
-<p>Nikon Photo Converter</p>
+<p><a href="http://www.lmscope.com/produkt22/LM_digital_adapter_description_en.shtml">Acrán Trinocular LMScope</a></p>
+<p>Micreascóp Miotalúirgeach Trinocular OMAX</p>
+<p><a href="https://www.bhphotovideo.com/c/product/917729-REG/photogenic_956055_ion_pure_sine_wave.html">Córas Inbhéartóra Tonnta Síneach Glan Iain Litiam-íon Photogenic Ion</a></p>
+<h2>Saorfheidhmchlár</h2>
+<p><a href="http://digicamcontrol.com/">Saorfheidhmchlár digiCamControl</a></p>
+<p>Tiontaire Nikon Photo</p>
 <p><a href="http://zerenesystems.com/cms/stacker">Zerene Stacker</a></p>
 <p><a href="http://www.dl-c.com/">Picture Window Pro</a></p>
 <p>GIMP</p>
 <p><a href="https://www.nomachine.com/">NoMachine</a></p>
 <p>ImageMagick</p>
-<h2>Process</h2>
-<p>1. Setup LMScope adapter with Nikon D810; connect Nikon D810 to computer; open and setup digiCamControl.</p>
-<p>2. Adjust light source intensity and camera exposure time.</p>
-<p>3. Find a suitable corner of the thin section with digiCamControl Live View.</p>
-<p>4. Find a suitable starting focus (not too blurry, some objects in focus) with Live View.</p>
-<p>5. Take picture.</p>
-<p>6. Turn focus knob slightly, bringing more objects into focus.</p>
-<p>7. Take picture.</p>
-<p>8. Repeat steps 6 thru 7 until all objects are out-of-focus.</p>
-<p>9. Move microscope stage up/down while monitoring Live View until a new image is in the field of view; make sure there is some overlap with previous field of view.</p>
-<p>10. Repeat steps 4 thru 9 until you have reached the top/bottom of the thin section.</p>
-<p>11. Move microscope stage left/right until a new field of view is obtain with some overlap of previous row/column field of views.</p>
-<p>12. Repeat steps 4 thru 11 until you have reached the opposite side of the thin section.</p>
-<p>13. Take some images of the pure black polarized light, i.e. without any thin section in view &#8211; just in case such an image proves helpful for future editing.</p>
-<p>14. Complete; clean up.</p>
-<p>Note regarding steps 9 and 11: the idea is to capture an overlapping grid of images of the entire thin section so that manual stitching will be possible.</p>
-<p>15. Create folder on computer for a row/column of the image grid.</p>
-<p>16. Convert the raw Nikon files for this row/column into tiff and place into this folder.</p>
-<p>17. Inside the row/column folder create individual folders for each cell of the image grid, i.e. all the different focus captures for each field of view. This is done in order to use Zerene Stacker&#8217;s batch processing features.</p>
-<p>18. Repeat 15 thru 17 for each row/column.</p>
-<p>19. Submit folders as batches to Zerene Stacker and wait for focus stacking to complete.</p>
-<p>20. There should now be a complete set of stacked images for the entire grid arranged in folders for each row/column.</p>
-<p>21. Batch post-processes images with Picture Window Pro (this step is customizable according to the photographer &#8211; consider adding white balance, sharpening, lens curvature fix, and other widgets. UPDATE: I find the best results are obtained if the lens curvature fix is applied on the images before stacking with Zerene Stacker).</p>
-<p>22. There should now be a complete set of focus stacked images which have been post-processed and are now ready for stitching.</p>
-<p>23. Import a row/column of images into GIMP. (Manual stitching is chosen because I have not been able to find software that successfully auto-stitches meteorite thin sections).</p>
-<p>24. Stitch the images within GIMP using the move and blend tool.</p>
-<p>25. Repeat 23 thru 24 for each row/column.</p>
-<p>26. Upload rows/columns to a cloud storage for quick retrieval and backup.</p>
-<p>27. Setup cloud computer on Amazon with 16 processors and 255 GB RAM (or any powerful computer with around 120 GB or more RAM).</p>
-<p>28. Install NoMachine on server and client.</p>
-<p>29. Download rows/columns from cloud storage onto cloud computer.</p>
-<p>30. Open GIMP on cloud computer.</p>
-<p>31. Import each row/column as a new layer in GIMP.</p>
-<p>32. Stitch each row/column together with the move and blend tool.</p>
-<p>33. Add background color as layer.</p>
-<p>34. Export final image as TIFF.</p>
-<p>35. Scale final image to low percentage for web viewing.</p>
-<p>Note, if the image is too big, i.e. larger than 4GB you will be unable to export it in one piece with GIMP as a TIFF. (Update June 2022: The latest version of GIMP, 2.10.32, supports the import and export of BigTIFF, so this step is now optional) Thus, in GIMP you should add horizontal/vertical guide lines and then use the image guillotine tool to export individual images. Then, with ImageMagick use the command:</p>
-<p>convert Image1.tiff Image2.tiff &#8230; -append TIFF64:Output.tiff</p>
-<p>36. Create krpano images.</p>
-<p>37. Upload to Gigapan.</p>
-<p>Note, Gigapan does not like large TIFF files, so use ImageMagick to convert the image from TIFF to PSB and then upload.</p>
-<p>Please let me know if anything is not clear.</p>
+<h2>Próiseas</h2>
+<p>1. Socraigh an t-acrán LMScope leis an Nikon D810; ceangail an Nikon D810 leis an ríomhaire; oscail agus socraigh an digiCamControl.</p>
+<p>2. Socraigh dian an fhoinse solais agus am nochtadh na camara.</p>
+<p>3. Faigh uillinne oiriúnach den ghearrthán tanaí leis an Live View ón digiCamControl.</p>
+<p>4. Faigh fócas tosaigh oiriúnach (ní mór do mheabhair, tá roinnt réada sa fhócas) leis an Live View.</p>
+<p>5. Tóg grianghraf.</p>
+<p>6. Cas an cnaipe fócas beagán, níos mó réada a thabhairt isteach sa fhócas.</p>
+<p>7. Tóg grianghraf.</p>
+<p>8. Athraigh céimeanna 6 go 7 go dtí go bhfuil gach rud amuigh as an bhfócas.</p>
+<p>9. Bog an stáitse micreascóip suas/síos agus tú ag faire ar an Live View go dtí go bhfeicfear íomhá nua sa réimse radhairc; cinntigh go bhfuil roinnt forluí ann leis an réimse radhairc roimhe seo.</p>
+<p>10. Athraigh céimeanna 4 go 9 go dtí go sroicheann tú barr/bun an ghearrtháin tanaí.</p>
+<p>11. Bog an stáitse micreascóip ar chlé/ar dheis go dtí go bhfaighidh tú réimse radhairc nua le forluí na réimsí radhairc sraithe/colúin roimhe seo.</p>
+<p>12. Athraigh céimeanna 4 go 11 go dtí go sroicheann tú an taobh eile den ghearrthán tanaí.</p>
+<p>13. Tóg roinnt grianghraf de sholas polaraithe dubh glan, is é sin gan aon ghearrthán tanaí le feiceáil – don chás go bhféadfadh grianghraf den sórt sin a bheith úsáideach don eagarthóireacht amach anseo.</p>
+<p>14. Críochnaigh; glan.</p>
+<p>Nóta maidir le céimeanna 9 agus 11: is é an smaoineamh ná gréasán forluí grianghraf an ghearrtháin tanaí iomlán a ghabháil ionas gur féidir néithe láimhe a dhéanamh.</p>
+<p>15. Cruthaigh fillteán ar an ríomhaire do shraith/colún amháin den ghreille grianghraf.</p>
+<p>16. Tiontaigh comhaid amh Nikon don tsraith/colún seo go TIFF agus cuir iad sa fhillteán seo.</p>
+<p>17. Taobh istigh den fhillteán sraithe/colúin, cruthaigh fillteáin aonair do gach cill den ghreille grianghraf, is é sin gach gabháil fócas difriúil do gach réimse radhairc. Déantar é seo chun feidhmeanna próiseála baisc an Zerene Stacker a úsáid.</p>
+<p>18. Athraigh 15 go 17 do gach sraith/colún.</p>
+<p>19. Seol fillteáin mar bhaisc chuig an Zerene Stacker agus fan go mbeidh an fócas stacaithe críochnaithe.</p>
+<p>20. Ba chóir go mbeadh tacar iomlán de grianghraif stacaithe ann don ghreille iomlán, eagraithe i bhfillteáin do gach sraith/colún.</p>
+<p>21. Próiseáil naisc na grianghraf le Picture Window Pro (is féidir an chéim seo a shaincheapadh de réir an grianghrafadóir – smaoinigh ar bhailiúchán bán, géire, ceartú cuar an lionsa agus widgets eile a chur leis. NUASHONRAÍOCHT: Feicim go bhfaightear na torthaí is fearr má chuirtear ceartú cuar an lionsa i bhfeidhm ar na grianghraif sula ndéantar an stacú leis an Zerene Stacker).</p>
+<p>22. Ba chóir go mbeadh tacar iomlán de ghrianghraif fócas stacaithe próiseáilte ina dhiaidh sin ann agus réidh don néithe.</p>
+<p>23. Iompórtáil sraith/colún grianghraf isteach sa GIMP. (Roghnaíodh néithe láimhe toisc nach bhfuil saorfheidhmchlár aimsithe agam is féidir gearrtháin tanaí miotaráití a néithe go rathúil go huathoibríoch).</p>
+<p>24. Néitigh na grianghraif laistigh den GIMP ag baint úsáide as an uirlis bogadh agus meascadh (move and blend tool).</p>
+<p>25. Athraigh 23 go 24 do gach sraith/colún.</p>
+<p>26. Uaslódáil sraitheanna/colúin chuig stóráil scamall le haghaidh aisghabháil tapa agus cúltaca.</p>
+<p>27. Socraigh ríomhaire scamall ar Amazon le 16 próiseálaithe agus 255 GB RAM (nó aon ríomhaire cumhachtach le thart ar 120 GB nó níos mó RAM).</p>
+<p>28. Suiteáil NoMachine ar an bhfreastalaí agus ar an gcliant.</p>
+<p>29. Íoslódáil sraitheanna/colúin ón stóráil scamall go dtí an ríomhaire scamall.</p>
+<p>30. Oscail an GIMP ar an ríomhaire scamall.</p>
+<p>31. Iompórtáil gach sraith/colún mar shraith nua sa GIMP.</p>
+<p>32. Néitigh gach sraith/colún le chéile ag baint úsáide as an uirlis bogadh agus meascadh.</p>
+<p>33. Cuir dath an chúlra mar shraith.</p>
+<p>34. Easpórtáil an íomhá dheiridh mar TIFF.</p>
+<p>35. Scáláil an íomhá dheiridh go céatadán íseal le haghaidh amharc gréasáin.</p>
+<p>Nóta, má tá an íomhá ró-mhór, is é sin níos mó ná 4 GB, ní bheidh tú in ann í a easpórtáil mar phíosa amháin leis an GIMP mar TIFF. (Nuashonrú Meitheamh 2022: Tacaíonn an leagan is nua den GIMP, 2.10.32, le hiompórtáil agus easpórtáil BigTIFF, mar sin tá an chéim seo roghnach anois) Dá bhrí sin, sa GIMP caithfidh tú línte treoracha cothrománacha/ingearacha a chur leis agus ansin an uirlis ghuillotine íomhá a úsáid chun grianghraif aonair a easpórtáil. Ansin, úsáid an t-ordú le ImageMagick:</p>
+<p>convert Image1.tiff Image2.tiff … -append TIFF64:Output.tiff</p>
+<p>36. Cruthaigh grianghraif krpano.</p>
+<p>37. Uaslódáil go Gigapan.</p>
+<p>Nóta, níl an Gigapan ag iarraidh comhaid TIFF móra, mar sin úsáid ImageMagick chun an íomhá a thiontú ó TIFF go PSB agus ansin uaslódáil.</p>
+<p>Tabhair dom a fhios má tá rud éigin neamhshoiléir.</p>
 					</div><!-- .entry-content -->
 	</div><!-- .entry-wrap -->
 </article><!-- #post-## -->

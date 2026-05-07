@@ -282,68 +282,68 @@
 <article id="post-1805" class="post-1805 page type-page status-publish hentry">
 	<div class="entry-wrap wrap clear">
 				<header class="entry-header">
-			<h1 class="entry-title">مائیکروفوٹوگرافک پینوراما بنانا</h1>			<div class="entry-meta">
+			<h1 class="entry-title">مائیکروفوٹوگرافک پینورما بنانا</h1>			<div class="entry-meta">
 				
 							</div><!-- .entry-meta -->
 		</header><!-- .entry-header -->
 
 		<div class="entry-content clear">
-			<h2>Equipment</h2>
+			<h2>سامان</h2>
 <p>Nikon D810</p>
-<p><a href="http://www.lmscope.com/produkt22/LM_digital_adapter_description_en.shtml">LMScope Trinocular Adapter</a></p>
-<p>OMAX Trinocular Metallurgical Microscope</p>
-<p><a href="https://www.bhphotovideo.com/c/product/917729-REG/photogenic_956055_ion_pure_sine_wave.html">Photogenic Ion Lithium-ion Pure Sine Wave Inverter System</a></p>
-<h2>Software</h2>
-<p><a href="http://digicamcontrol.com/">digiCamControl Software</a></p>
-<p>Nikon Photo Converter</p>
+<p><a href="http://www.lmscope.com/produkt22/LM_digital_adapter_description_en.shtml">LMScope ٹرینوکولر ایڈاپٹر</a></p>
+<p>OMAX ٹرینوکولر میٹلرجیکل مائیکروسکوپ</p>
+<p><a href="https://www.bhphotovideo.com/c/product/917729-REG/photogenic_956055_ion_pure_sine_wave.html">Photogenic Ion لیتھیم آئن پیور سائن ویو انورٹر سسٹم</a></p>
+<h2>سافٹ ویئر</h2>
+<p><a href="http://digicamcontrol.com/">digiCamControl سافٹ ویئر</a></p>
+<p>Nikon Photo کنورٹر</p>
 <p><a href="http://zerenesystems.com/cms/stacker">Zerene Stacker</a></p>
 <p><a href="http://www.dl-c.com/">Picture Window Pro</a></p>
 <p>GIMP</p>
 <p><a href="https://www.nomachine.com/">NoMachine</a></p>
 <p>ImageMagick</p>
-<h2>Process</h2>
-<p>1. Setup LMScope adapter with Nikon D810; connect Nikon D810 to computer; open and setup digiCamControl.</p>
-<p>2. Adjust light source intensity and camera exposure time.</p>
-<p>3. Find a suitable corner of the thin section with digiCamControl Live View.</p>
-<p>4. Find a suitable starting focus (not too blurry, some objects in focus) with Live View.</p>
-<p>5. Take picture.</p>
-<p>6. Turn focus knob slightly, bringing more objects into focus.</p>
-<p>7. Take picture.</p>
-<p>8. Repeat steps 6 thru 7 until all objects are out-of-focus.</p>
-<p>9. Move microscope stage up/down while monitoring Live View until a new image is in the field of view; make sure there is some overlap with previous field of view.</p>
-<p>10. Repeat steps 4 thru 9 until you have reached the top/bottom of the thin section.</p>
-<p>11. Move microscope stage left/right until a new field of view is obtain with some overlap of previous row/column field of views.</p>
-<p>12. Repeat steps 4 thru 11 until you have reached the opposite side of the thin section.</p>
-<p>13. Take some images of the pure black polarized light, i.e. without any thin section in view &#8211; just in case such an image proves helpful for future editing.</p>
-<p>14. Complete; clean up.</p>
-<p>Note regarding steps 9 and 11: the idea is to capture an overlapping grid of images of the entire thin section so that manual stitching will be possible.</p>
-<p>15. Create folder on computer for a row/column of the image grid.</p>
-<p>16. Convert the raw Nikon files for this row/column into tiff and place into this folder.</p>
-<p>17. Inside the row/column folder create individual folders for each cell of the image grid, i.e. all the different focus captures for each field of view. This is done in order to use Zerene Stacker&#8217;s batch processing features.</p>
-<p>18. Repeat 15 thru 17 for each row/column.</p>
-<p>19. Submit folders as batches to Zerene Stacker and wait for focus stacking to complete.</p>
-<p>20. There should now be a complete set of stacked images for the entire grid arranged in folders for each row/column.</p>
-<p>21. Batch post-processes images with Picture Window Pro (this step is customizable according to the photographer &#8211; consider adding white balance, sharpening, lens curvature fix, and other widgets. UPDATE: I find the best results are obtained if the lens curvature fix is applied on the images before stacking with Zerene Stacker).</p>
-<p>22. There should now be a complete set of focus stacked images which have been post-processed and are now ready for stitching.</p>
-<p>23. Import a row/column of images into GIMP. (Manual stitching is chosen because I have not been able to find software that successfully auto-stitches meteorite thin sections).</p>
-<p>24. Stitch the images within GIMP using the move and blend tool.</p>
-<p>25. Repeat 23 thru 24 for each row/column.</p>
-<p>26. Upload rows/columns to a cloud storage for quick retrieval and backup.</p>
-<p>27. Setup cloud computer on Amazon with 16 processors and 255 GB RAM (or any powerful computer with around 120 GB or more RAM).</p>
-<p>28. Install NoMachine on server and client.</p>
-<p>29. Download rows/columns from cloud storage onto cloud computer.</p>
-<p>30. Open GIMP on cloud computer.</p>
-<p>31. Import each row/column as a new layer in GIMP.</p>
-<p>32. Stitch each row/column together with the move and blend tool.</p>
-<p>33. Add background color as layer.</p>
-<p>34. Export final image as TIFF.</p>
-<p>35. Scale final image to low percentage for web viewing.</p>
-<p>Note, if the image is too big, i.e. larger than 4GB you will be unable to export it in one piece with GIMP as a TIFF. (Update June 2022: The latest version of GIMP, 2.10.32, supports the import and export of BigTIFF, so this step is now optional) Thus, in GIMP you should add horizontal/vertical guide lines and then use the image guillotine tool to export individual images. Then, with ImageMagick use the command:</p>
-<p>convert Image1.tiff Image2.tiff &#8230; -append TIFF64:Output.tiff</p>
-<p>36. Create krpano images.</p>
-<p>37. Upload to Gigapan.</p>
-<p>Note, Gigapan does not like large TIFF files, so use ImageMagick to convert the image from TIFF to PSB and then upload.</p>
-<p>Please let me know if anything is not clear.</p>
+<h2>عمل</h2>
+<p>1. LMScope ایڈاپٹر کو Nikon D810 کے ساتھ سیٹ اپ کریں؛ Nikon D810 کو کمپیوٹر سے جوڑیں؛ digiCamControl کھولیں اور سیٹ اپ کریں۔</p>
+<p>2. روشنی کے ذریعے کی شدت اور کیمرے کی ایکسپوژر ٹائم کو ایڈجسٹ کریں۔</p>
+<p>3. digiCamControl Live View کا استعمال کرتے ہوئے تہہ حصے کا موزوں کونا تلاش کریں۔</p>
+<p>4. Live View کا استعمال کرتے ہوئے موزوں آغاز فوکس تلاش کریں (بہت دھندلا نہیں، کچھ چیزیں فوکس میں ہیں)۔</p>
+<p>5. تصویر لیں۔</p>
+<p>6. فوکس نوب کو تھوڑا گھمائیں، مزید چیزوں کو فوکس میں لاتے ہوئے۔</p>
+<p>7. تصویر لیں۔</p>
+<p>8. جب تک تمام چیزیں فوکس سے باہر نہ ہو جائیں، تب تک مرحلہ 6 سے 7 کو دہرائیں۔</p>
+<p>9. Live View کی نگرانی کرتے ہوئے مائیکروسکوپ اسٹیج کو اوپر/نیچے لے جائیں جب تک کہ نئی تصویر نظر کے دائرے میں نہ آجائے؛ یقینی بنائیں کہ پچھلے نظر کے دائرے کے ساتھ کچھ اوورلیپ ہے۔</p>
+<p>10. جب تک آپ تہہ حصے کے اوپر/نیچے تک نہ پہنچ جائیں، تب تک مرحلہ 4 سے 9 کو دہرائیں۔</p>
+<p>11. جب تک آپ کو پچھلے قطار/کالم نظر کے دائرے کے ساتھ کچھ اوورلیپ کے ساتھ نیا نظر کا دائرہ نہ مل جائے، تب تک مائیکروسکوپ اسٹیج کو بائیں/دائیں لے جائیں۔</p>
+<p>12. جب تک آپ تہہ حصے کے مخالف جانب تک نہ پہنچ جائیں، تب تک مرحلہ 4 سے 11 کو دہرائیں۔</p>
+<p>13. نظر کے دائرے میں کسی بھی تہہ حصے کے بغیر خالص سیاہ پولرائزڈ روشنی کی کچھ تصاویر لیں – صرف اس صورت میں کہ ایسی تصویر مستقبل کی ایڈیٹنگ کے لیے مددگار ثابت ہو۔</p>
+<p>14. مکمل کریں؛ صاف کریں۔</p>
+<p>مرحلہ 9 اور 11 کے بارے میں نوٹ: خیال یہ ہے کہ پورے تہہ حصے کی تصاویر کا ایک اوورلیپنگ گرڈ کیپچر کیا جائے تاکہ مینول اسٹچنگ ممکن ہو سکے۔</p>
+<p>15. تصویر گرڈ کی ایک قطار/کالم کے لیے کمپیوٹر پر فولڈر بنائیں۔</p>
+<p>16. اس قطار/کالم کے لیے کچا Nikon فائلوں کو TIFF میں تبدیل کریں اور اس فولڈر میں رکھیں۔</p>
+<p>17. قطار/کالم فولڈر کے اندر تصویر گرڈ کے ہر سیل کے لیے انفرادی فولڈر بنائیں، یعنی ہر نظر کے دائرے کے لیے تمام مختلف فوکس کیپچر۔ یہ Zerene Stacker کی بیچ پروسیسنگ خصوصیات کا استعمال کرنے کے لیے کیا جاتا ہے۔</p>
+<p>18. ہر قطار/کالم کے لیے مرحلہ 15 سے 17 کو دہرائیں۔</p>
+<p>19. فولڈرز کو بیچ کے طور پر Zerene Stacker کو جمع کرائیں اور فوکس اسٹیکنگ مکمل ہونے کا انتظار کریں۔</p>
+<p>20. اب ہر قطار/کالم کے لیے فولڈرز میں ترتیب دیے گئے پورے گرڈ کے لیے اسٹیک کی گئی تصاویر کا مکمل سیٹ ہونا چاہیے۔</p>
+<p>21. Picture Window Pro کے ساتھ تصاویر کو بیچ پوسٹ پروسیس کریں (یہ مرحلہ فوٹوگرافر کے مطابق حسب ضرورت ہے – وائٹ بیلنس، شارپنس، لینس کروریچر فکس اور دیگر ویجٹس شامل کرنے پر غور کریں۔ اپ ڈیٹ: مجھے معلوم ہوا کہ بہترین نتائج حاصل ہوتے ہیں اگر لینس کروریچر فکس کو Zerene Stacker کے ساتھ اسٹیکنگ سے پہلے تصاویر پر لاگو کیا جائے)۔</p>
+<p>22. اب اسٹچنگ کے لیے تیار پوسٹ پروسیس کی گئی فوکس اسٹیک کی گئی تصاویر کا مکمل سیٹ ہونا چاہیے۔</p>
+<p>23. تصاویر کی ایک قطار/کالم کو GIMP میں درآمد کریں۔ (مینول اسٹچنگ کا انتخاب کیا گیا ہے کیونکہ مجھے ایسا سافٹ ویئر نہیں ملا جو کامیابی سے میٹیورائٹ تہہ حصوں کو خودکار طور پر جوڑ سکے)۔</p>
+<p>24. GIMP کے اندر move and blend tool کا استعمال کرتے ہوئے تصاویر کو جوڑیں۔</p>
+<p>25. ہر قطار/کالم کے لیے مرحلہ 23 سے 24 کو دہرائیں۔</p>
+<p>26. تیزی سے وصولی اور بیک اپ کے لیے قطاروں/کالموں کو کلاؤڈ اسٹوریج پر اپ لوڈ کریں۔</p>
+<p>27. Amazon پر 16 پروسیسرز اور 255 GB RAM کے ساتھ کلاؤڈ کمپیوٹر سیٹ اپ کریں (یا تقریباً 120 GB یا زیادہ RAM کے ساتھ کوئی بھی طاقتور کمپیوٹر)۔</p>
+<p>28. سرور اور کلائنٹ پر NoMachine انسٹال کریں۔</p>
+<p>29. کلاؤڈ اسٹوریج سے قطاروں/کالموں کو کلاؤڈ کمپیوٹر پر ڈاؤن لوڈ کریں۔</p>
+<p>30. کلاؤڈ کمپیوٹر پر GIMP کھولیں۔</p>
+<p>31. ہر قطار/کالم کو GIMP میں نئی لیئر کے طور پر درآمد کریں۔</p>
+<p>32. move and blend tool کے ساتھ ہر قطار/کالم کو ایک ساتھ جوڑیں۔</p>
+<p>33. لیئر کے طور پر بیک گراؤنڈ رنگ شامل کریں۔</p>
+<p>34. حتمی تصویر کو TIFF کے طور پر ایکسپورٹ کریں۔</p>
+<p>35. ویب ویو کے لیے حتمی تصویر کو کم فیصد پر اسکیل کریں۔</p>
+<p>نوٹ، اگر تصویر بہت بڑی ہے، یعنی 4 GB سے بڑی ہے، تو آپ GIMP کے ساتھ TIFF کے طور پر ایک ٹکڑے میں اسے ایکسپورٹ نہیں کر سکیں گے۔ (جون 2022 اپ ڈیٹ: GIMP کا نیا ورژن، 2.10.32، BigTIFF کے درآمد اور برآمد کو سپورٹ کرتا ہے، لہذا یہ مرحلہ اب اختیاری ہے) لہذا، GIMP میں آپ کو افقی/عمودی گائیڈ لائنز شامل کرنی چاہئیں اور پھر انفرادی تصاویر کو ایکسپورٹ کرنے کے لیے امیج گیلتھ ٹول کا استعمال کرنا چاہیے۔ پھر، ImageMagick کے ساتھ کمانڈ کا استعمال کریں:</p>
+<p>convert Image1.tiff Image2.tiff … -append TIFF64:Output.tiff</p>
+<p>36. krpano تصاویر بنائیں۔</p>
+<p>37. Gigapan پر اپ لوڈ کریں۔</p>
+<p>نوٹ، Gigapan بڑی TIFF فائلوں کو پسند نہیں کرتا، لہذا اپ لوڈ کرنے سے پہلے ImageMagick کا استعمال کرتے ہوئے تصویر کو TIFF سے PSB میں تبدیل کریں۔</p>
+<p>براہ کرم مجھے بتائیں اگر کوئی چیز واضح نہیں ہے۔</p>
 					</div><!-- .entry-content -->
 	</div><!-- .entry-wrap -->
 </article><!-- #post-## -->
