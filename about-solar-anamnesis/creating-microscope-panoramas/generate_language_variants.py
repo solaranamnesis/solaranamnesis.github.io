@@ -381,6 +381,10 @@ def apply_page_translations(content: str, lang_code: str, page_data: dict) -> st
 
     if target_entry_title:
         content = ENTRY_TITLE_PATTERN.sub(f'<h1 class="entry-title">{target_entry_title}</h1>', content, count=1)
+        full_title = f"{target_entry_title} | Solar Anamnesis"
+        content = TITLE_PATTERN.sub(f"<title>{full_title}</title>", content, count=1)
+        content = OG_TITLE_PATTERN.sub(f'<meta property="og:title" content="{full_title}" />', content, count=1)
+        content = TWITTER_TITLE_PATTERN.sub(f'<meta name="twitter:title" content="{full_title}" />', content, count=1)
 
     m = ENTRY_CONTENT_PATTERN.search(content)
     if not m:
